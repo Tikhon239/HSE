@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/self_driving/hw1/install/setup.sh

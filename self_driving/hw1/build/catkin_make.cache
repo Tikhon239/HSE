@@ -1,0 +1,2 @@
+turtel_commander
+-DCATKIN_DEVEL_PREFIX=/root/self_driving/hw1/devel -DCMAKE_INSTALL_PREFIX=/root/self_driving/hw1/install -G Unix Makefiles
