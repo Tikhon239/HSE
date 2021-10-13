@@ -40,7 +40,6 @@ def monotonic_conjugation(input_file_name: str, output_file_name: str):
 
 
 if __name__ == '__main__':
-
     args = ArgumentParser()
     args.add_argument('--input', type=str, default='in.txt')
     args.add_argument('--output', type=str, default='out.txt')
