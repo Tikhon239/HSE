@@ -1,0 +1,17 @@
+global_config:
+        CHECKPOINT_ROOT: tmp/ppo/dungeon
+        N_ITER: 500
+env_config:
+        width: 20
+        height: 20
+        max_rooms: 3
+        min_room_xy: 5
+        max_room_xy: 10
+        observation_size: 11
+        vision_radius: 5
+        max_steps: 2000
+wandb_config:
+        project: ProdStories
+        entity: shytea
+        group: hw5
+        name: ppo_w_is_new
