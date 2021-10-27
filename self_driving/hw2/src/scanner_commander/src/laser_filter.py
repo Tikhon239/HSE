@@ -7,6 +7,7 @@ from rospy.topics import Publisher, Subscriber
 from visualization_msgs.msg import Marker
 from geometry_msgs.msg import Point
 from sensor_msgs.msg import LaserScan
+from nav_msgs.msg import OccupancyGrid, MapMetaData
 
 
 class ScanVisualization:
@@ -16,7 +17,7 @@ class ScanVisualization:
 
         rospy.init_node("scan_visualization")
 
-        Subscriber("/base_scan", LaserScan, self.visualize_points)
+        Subscriber("/base_scan", LaserScan, self.visualize_grid)
         self.marker_pub = Publisher("/visualization_marker", Marker, queue_size=1)
         self.map_pub = Publisher("/map", OccupancyGrid, queue_size=1)
 
@@ -59,8 +60,8 @@ class ScanVisualization:
         grid.info.height = int(self.map_size / self.resolution)
         grid.info.width = int(self.map_size / self.resolution)
 
-        grid.info.origin.position.x = int(self.map_size / 2)
-        grid.info.origin.position.y = int(self.map_size / 2)
+        grid.info.origin.position.x = -int(self.map_size / 2)
+        grid.info.origin.position.y = -int(self.map_size / 2)
         grid.info.origin.position.z = 0
 
         return grid
@@ -74,7 +75,7 @@ class ScanVisualization:
             prev_cur_dist = self.point_distance(prev_p, cur_p)
             cur_next_dist = self.point_distance(cur_p, next_p)
             prev_next_dist = self.point_distance(prev_p, next_p)
-            if min(prev_cur_dist, cur_next_dist) < 2 * prev_next_dist:
+            if min(prev_cur_dist, cur_next_dist) / prev_next_dist < 0.75:
                 filtered_points.append(cur_p)
         return filtered_points
 
@@ -92,7 +93,7 @@ class ScanVisualization:
         self.marker_pub.publish(self.marker)
 
     def visualize_grid(self, msg):
-        voices_map = np.zeros((self.grid.info.height, self.grid.info.height), dtype=np.int)
+        voices_map = np.zeros((self.grid.info.height, self.grid.info.width), dtype=np.int8)
 
         angle = msg.angle_min
         for distance in msg.ranges:
