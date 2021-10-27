@@ -11,12 +11,17 @@ from sensor_msgs.msg import LaserScan
 
 class ScanVisualization:
     def __init__(self):
+        self.map_size = 10
+        self.resolution = 0.1
+
         rospy.init_node("scan_visualization")
 
         Subscriber("/base_scan", LaserScan, self.visualize_points)
-        self.marker_pub = Publisher("/visualization_marker", Marker, queue_size = 1)
+        self.marker_pub = Publisher("/visualization_marker", Marker, queue_size=1)
+        self.map_pub = Publisher("/map", OccupancyGrid, queue_size=1)
 
         self.marker = self.get_marker()
+        self.grid = self.get_grid()
 
     def get_marker(self):
         marker = Marker()
@@ -28,9 +33,9 @@ class ScanVisualization:
         marker.action = 0
 
         # Set the scale of the marker
-        marker.scale.x = 0.1
-        marker.scale.y = 0.1
-        marker.scale.z = 0.1
+        marker.scale.x = self.resolution
+        marker.scale.y = self.resolution
+        marker.scale.z = self.resolution
 
         # Set the color
         marker.color.r = 0.0
@@ -43,6 +48,22 @@ class ScanVisualization:
         marker.pose.position.z = 0
 
         return marker
+
+    def get_grid(self):
+        grid = OccupancyGrid()
+        grid.info = MapMetaData()
+
+        grid.header.frame_id = "base_laser_link"
+        grid.info.resolution = self.resolution
+
+        grid.info.height = int(self.map_size / self.resolution)
+        grid.info.width = int(self.map_size / self.resolution)
+
+        grid.info.origin.position.x = int(self.map_size / 2)
+        grid.info.origin.position.y = int(self.map_size / 2)
+        grid.info.origin.position.z = 0
+
+        return grid
 
     def point_distance(self, p1, p2):
         return np.sqrt((p1.x - p2.x) ** 2 + (p1.y - p2.y) ** 2)
@@ -69,6 +90,24 @@ class ScanVisualization:
 
         self.marker.points = self.points_filter(points)
         self.marker_pub.publish(self.marker)
+
+    def visualize_grid(self, msg):
+        voices_map = np.zeros((self.grid.info.height, self.grid.info.height), dtype=np.int)
+
+        angle = msg.angle_min
+        for distance in msg.ranges:
+            x = distance * np.cos(angle)
+            y = distance * np.sin(angle)
+            if (abs(x) < int(self.map_size / 2) and abs(y) < int(self.map_size / 2)):
+                coord_x = int((x + int(self.map_size / 2)) / self.resolution)
+                coord_y = int((y + int(self.map_size / 2)) / self.resolution)
+                voices_map[coord_y, coord_x] += 1
+
+            angle += msg.angle_increment
+
+
+        self.grid.data = voices_map.ravel()
+        self.map_pub.publish(self.grid)
 
 if __name__ == "__main__":
     ScanVisualization()
