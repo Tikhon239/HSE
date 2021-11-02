@@ -1,3 +1,10 @@
+## Запуск
+```code
+python3 hun_spell_checker.py --word [WORD] --max_suggestions [NUMBER]
+
+python3 my_spell_checker.py --word [WORD] --max_suggestions [NUMBER]
+```
+
 ## Результаты
 
 ### SpellChecker
