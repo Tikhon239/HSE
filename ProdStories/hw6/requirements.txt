@@ -1,0 +1,9 @@
+sklearn~=0.0
+scikit-learn~=0.24.2
+spylls~=0.1.6
+numpy~=1.21.2
+Metaphone~=0.6
+tqdm~=4.61.0
+textdistance~=4.2.2
+onnxruntime~=1.9.0
+skl2onnx~=1.10.0
