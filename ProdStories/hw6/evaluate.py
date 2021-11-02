@@ -1,9 +1,10 @@
 from typing import List, Union, Tuple
 
 import numpy as np
-from tqdm import tqdm
+from tqdm.auto import tqdm
 from sklearn.linear_model import LogisticRegression
 
+from base_spell_cheker import BaseSpellChecker
 from hun_spell_checker import HunSpellChecker
 from my_spell_checker import SpellChecker
 
@@ -27,7 +28,7 @@ def get_accuracy(suggested_words_array: List[np.ndarray], correction_words: List
     return total_correction / len(correction_words)
 
 
-def evaluate(file_path: str, spell_checker: Union[HunSpellChecker, SpellChecker], max_suggestions: int = 10) -> None:
+def evaluate(file_path: str, spell_checker: BaseSpellChecker, max_suggestions: int = 10) -> None:
     wrong_words, correction_words = get_data(file_path)
     suggested_words_array = []
 
@@ -39,12 +40,16 @@ def evaluate(file_path: str, spell_checker: Union[HunSpellChecker, SpellChecker]
 
 if __name__ == "__main__":
     file_path = 'data/test/test_data.txt'
-    spell_checker = SpellChecker()
+
+    simple_spell_checker = SpellChecker()
+    spell_checker = SpellChecker(model=LogisticRegression(n_jobs=-1))
+    spell_checker.fit_model('data/train/train.tsv')
+
     simple_hun_spell_checker = HunSpellChecker()
     hun_spell_checker = HunSpellChecker(model=LogisticRegression(n_jobs=-1))
     hun_spell_checker.fit_model('data/train/train.tsv')
 
-    for spell_checker in [spell_checker, simple_hun_spell_checker, hun_spell_checker]:
+    for spell_checker in [simple_spell_checker, spell_checker, simple_hun_spell_checker, hun_spell_checker]:
         print(spell_checker.__class__.__name__)
         for max_suggestions in [1, 5, 10]:
             evaluate(file_path, spell_checker, max_suggestions)
