@@ -8,14 +8,14 @@ python3 my_spell_checker.py --word [WORD] --max_suggestions [NUMBER]
 ## Результаты
 
 ### SpellChecker
-* Acc@1:  0.470
-* Acc@5:  0.634
+* Acc@1:  0.47
+* Acc@5:  0.635
 * Acc@10:  0.678
 
 ### SpellChecker with LogisticRegression
-* Acc@1:  0.060
-* Acc@5:  0.013
-* Acc@10:  0.005
+* Acc@1:  0.441
+* Acc@5:  0.622
+* Acc@10:  0.673
 
 ### HunSpellChecker
 * Acc@1:  0.521
@@ -23,6 +23,6 @@ python3 my_spell_checker.py --word [WORD] --max_suggestions [NUMBER]
 * Acc@10:  0.766
 
 ### HunSpellChecker with LogisticRegression
-* Acc@1:  0.314
-* Acc@5:  0.678
-* Acc@10:  0.744
+* Acc@1:  0.43
+* Acc@5:  0.724
+* Acc@10:  0.768

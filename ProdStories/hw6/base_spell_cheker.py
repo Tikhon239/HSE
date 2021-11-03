@@ -74,8 +74,8 @@ class BaseSpellChecker:
                         break
 
         features = np.vstack((wrong_features, correction_features))
-        target = np.ones(len(features))
-        target[:len(wrong_features)] = 0
+        target = np.zeros(len(features))
+        target[:len(wrong_features)] = 1
         self.model.fit(features, target)
 
     def convert_model(self, output_path: str) -> None:
