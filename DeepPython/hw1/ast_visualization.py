@@ -10,10 +10,6 @@ from fibonacci import Fibonacci
 
 
 class ASTGraphEditor:
-    def build_graph(self, node):
-        graph = nx.DiGraph()
-        return self.add_node(node, graph)
-
     @staticmethod
     def get_node_description(node):
         label = node.__class__.__name__
@@ -33,6 +29,10 @@ class ASTGraphEditor:
             label = f'{node.__class__.__name__}: {node.op.__class__.__name__}'
 
         return {"label": label, "color": color, "shape": shape, "style": style}
+
+    def build_graph(self, node):
+        graph = nx.DiGraph()
+        return self.add_node(node, graph)
 
     def add_node(self, node, graph):
         graph.add_node(node, **self.get_node_description(node))
