@@ -1,0 +1,2 @@
+Multiprocessing time: 1.8161389827728271
+Threads time% 0.0025179386138916016
