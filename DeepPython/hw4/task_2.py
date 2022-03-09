@@ -100,7 +100,7 @@ if __name__ == "__main__":
             open(os.path.join('artifacts', 'multiprocess_integrate_log.txt'), 'w').close()
             open(os.path.join('artifacts', 'threads_integrate_log.txt'), 'w').close()
 
-            multiprocessing_time = multiprocess_integrate(math.cos, 0, math.pi / 2, n_jobs=n_jobs, n_iter=1_000)[0]
-            threads_time = threads_integrate(math.cos, 0, math.pi / 2, n_jobs=n_jobs, n_iter=1_000)[0]
+            multiprocessing_time = multiprocess_integrate(math.cos, 0, math.pi / 2, n_jobs=n_jobs, n_iter=10_000)[0]
+            threads_time = threads_integrate(math.cos, 0, math.pi / 2, n_jobs=n_jobs, n_iter=10_000)[0]
 
             file.write(f'{n_jobs}\t{multiprocessing_time}\t{threads_time}\n')
