@@ -1,0 +1,2000 @@
+2022-03-09 23:35:18,479; Start calc f(x): {'x': 0.0016, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,494; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0}
+2022-03-09 23:35:18,502; Start calc f(x): {'x': 0.0, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,506; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0}
+2022-03-09 23:35:18,510; Start calc f(x): {'x': 0.0031, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,511; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0016}
+2022-03-09 23:35:18,519; Start calc f(x): {'x': 0.0063, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,523; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0016}
+2022-03-09 23:35:18,524; Start calc f(x): {'x': 0.0079, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,526; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0031}
+2022-03-09 23:35:18,534; Start calc f(x): {'x': 0.0094, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,539; Start calc f(x): {'x': 0.011, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,540; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0031}
+2022-03-09 23:35:18,541; f(x) calculated, atomic increase acc: {'f(x)': 0.9999, 'cur acc': 0.0047}
+2022-03-09 23:35:18,546; Start calc f(x): {'x': 0.0047, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,555; Start calc f(x): {'x': 0.0141, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,556; Start calc f(x): {'x': 0.0157, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,558; Start calc f(x): {'x': 0.0126, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,568; f(x) calculated, atomic increase acc: {'f(x)': 1.0, 'cur acc': 0.0}
+2022-03-09 23:35:18,572; f(x) calculated, atomic increase acc: {'f(x)': 0.9999, 'cur acc': 0.0047}
+2022-03-09 23:35:18,588; f(x) calculated, atomic increase acc: {'f(x)': 0.9999, 'cur acc': 0.0063}
+2022-03-09 23:35:18,603; Start calc f(x): {'x': 0.0173, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,605; f(x) calculated, atomic increase acc: {'f(x)': 0.9999, 'cur acc': 0.0}
+2022-03-09 23:35:18,606; Start calc f(x): {'x': 0.0188, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,607; Start calc f(x): {'x': 0.0204, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,607; Start calc f(x): {'x': 0.022, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,608; f(x) calculated, atomic increase acc: {'f(x)': 0.9999, 'cur acc': 0.0}
+2022-03-09 23:35:18,609; f(x) calculated, atomic increase acc: {'f(x)': 0.9998, 'cur acc': 0.0016}
+2022-03-09 23:35:18,610; f(x) calculated, atomic increase acc: {'f(x)': 0.9998, 'cur acc': 0.0}
+2022-03-09 23:35:18,611; f(x) calculated, atomic increase acc: {'f(x)': 0.9998, 'cur acc': 0.0063}
+2022-03-09 23:35:18,612; Start calc f(x): {'x': 0.0236, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,614; f(x) calculated, atomic increase acc: {'f(x)': 0.9997, 'cur acc': 0.0079}
+2022-03-09 23:35:18,626; Start calc f(x): {'x': 0.0283, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,627; f(x) calculated, atomic increase acc: {'f(x)': 0.9996, 'cur acc': 0.0016}
+2022-03-09 23:35:18,628; Start calc f(x): {'x': 0.0251, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,629; Start calc f(x): {'x': 0.0298, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,630; f(x) calculated, atomic increase acc: {'f(x)': 0.9997, 'cur acc': 0.0}
+2022-03-09 23:35:18,631; f(x) calculated, atomic increase acc: {'f(x)': 0.9996, 'cur acc': 0.0016}
+2022-03-09 23:35:18,632; Start calc f(x): {'x': 0.0314, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,634; Start calc f(x): {'x': 0.033, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,634; Start calc f(x): {'x': 0.0346, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,636; f(x) calculated, atomic increase acc: {'f(x)': 0.9995, 'cur acc': 0.0016}
+2022-03-09 23:35:18,637; Start calc f(x): {'x': 0.0361, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,638; f(x) calculated, atomic increase acc: {'f(x)': 0.9995, 'cur acc': 0.0031}
+2022-03-09 23:35:18,639; Start calc f(x): {'x': 0.0267, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,640; f(x) calculated, atomic increase acc: {'f(x)': 0.9994, 'cur acc': 0.0079}
+2022-03-09 23:35:18,641; f(x) calculated, atomic increase acc: {'f(x)': 0.9993, 'cur acc': 0.0094}
+2022-03-09 23:35:18,642; f(x) calculated, atomic increase acc: {'f(x)': 0.9996, 'cur acc': 0.0}
+2022-03-09 23:35:18,643; Start calc f(x): {'x': 0.0377, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,644; f(x) calculated, atomic increase acc: {'f(x)': 0.9993, 'cur acc': 0.0031}
+2022-03-09 23:35:18,645; Start calc f(x): {'x': 0.0408, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,647; Start calc f(x): {'x': 0.0393, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,648; f(x) calculated, atomic increase acc: {'f(x)': 0.9992, 'cur acc': 0.0031}
+2022-03-09 23:35:18,649; f(x) calculated, atomic increase acc: {'f(x)': 0.9992, 'cur acc': 0.0016}
+2022-03-09 23:35:18,653; Start calc f(x): {'x': 0.044, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,655; Start calc f(x): {'x': 0.0424, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,656; f(x) calculated, atomic increase acc: {'f(x)': 0.999, 'cur acc': 0.0047}
+2022-03-09 23:35:18,657; Start calc f(x): {'x': 0.0456, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,658; f(x) calculated, atomic increase acc: {'f(x)': 0.9991, 'cur acc': 0.0031}
+2022-03-09 23:35:18,659; f(x) calculated, atomic increase acc: {'f(x)': 0.999, 'cur acc': 0.0094}
+2022-03-09 23:35:18,660; Start calc f(x): {'x': 0.0471, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,661; Start calc f(x): {'x': 0.0487, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,662; f(x) calculated, atomic increase acc: {'f(x)': 0.9989, 'cur acc': 0.011}
+2022-03-09 23:35:18,664; Start calc f(x): {'x': 0.0503, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,665; f(x) calculated, atomic increase acc: {'f(x)': 0.9988, 'cur acc': 0.0016}
+2022-03-09 23:35:18,666; f(x) calculated, atomic increase acc: {'f(x)': 0.9987, 'cur acc': 0.0047}
+2022-03-09 23:35:18,667; Start calc f(x): {'x': 0.0534, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,670; Start calc f(x): {'x': 0.0518, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,671; f(x) calculated, atomic increase acc: {'f(x)': 0.9986, 'cur acc': 0.0031}
+2022-03-09 23:35:18,672; Start calc f(x): {'x': 0.055, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,673; f(x) calculated, atomic increase acc: {'f(x)': 0.9987, 'cur acc': 0.0047}
+2022-03-09 23:35:18,674; f(x) calculated, atomic increase acc: {'f(x)': 0.9985, 'cur acc': 0.0063}
+2022-03-09 23:35:18,675; Start calc f(x): {'x': 0.0581, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,676; Start calc f(x): {'x': 0.0565, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,677; f(x) calculated, atomic increase acc: {'f(x)': 0.9983, 'cur acc': 0.011}
+2022-03-09 23:35:18,679; f(x) calculated, atomic increase acc: {'f(x)': 0.9984, 'cur acc': 0.0047}
+2022-03-09 23:35:18,680; Start calc f(x): {'x': 0.0597, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,681; Start calc f(x): {'x': 0.0613, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,683; Start calc f(x): {'x': 0.0628, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,684; f(x) calculated, atomic increase acc: {'f(x)': 0.9982, 'cur acc': 0.0126}
+2022-03-09 23:35:18,686; f(x) calculated, atomic increase acc: {'f(x)': 0.9981, 'cur acc': 0.0031}
+2022-03-09 23:35:18,688; f(x) calculated, atomic increase acc: {'f(x)': 0.998, 'cur acc': 0.0063}
+2022-03-09 23:35:18,689; Start calc f(x): {'x': 0.0644, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,690; f(x) calculated, atomic increase acc: {'f(x)': 0.9979, 'cur acc': 0.0047}
+2022-03-09 23:35:18,692; Start calc f(x): {'x': 0.0675, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,693; Start calc f(x): {'x': 0.066, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,693; Start calc f(x): {'x': 0.0691, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,694; f(x) calculated, atomic increase acc: {'f(x)': 0.9977, 'cur acc': 0.0078}
+2022-03-09 23:35:18,696; f(x) calculated, atomic increase acc: {'f(x)': 0.9978, 'cur acc': 0.0063}
+2022-03-09 23:35:18,696; f(x) calculated, atomic increase acc: {'f(x)': 0.9976, 'cur acc': 0.0126}
+2022-03-09 23:35:18,698; Start calc f(x): {'x': 0.0707, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,699; Start calc f(x): {'x': 0.0723, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,700; f(x) calculated, atomic increase acc: {'f(x)': 0.9975, 'cur acc': 0.0063}
+2022-03-09 23:35:18,701; f(x) calculated, atomic increase acc: {'f(x)': 0.9974, 'cur acc': 0.0141}
+2022-03-09 23:35:18,705; Start calc f(x): {'x': 0.0738, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,707; Start calc f(x): {'x': 0.077, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,709; f(x) calculated, atomic increase acc: {'f(x)': 0.9973, 'cur acc': 0.0047}
+2022-03-09 23:35:18,710; Start calc f(x): {'x': 0.0754, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,711; f(x) calculated, atomic increase acc: {'f(x)': 0.997, 'cur acc': 0.0063}
+2022-03-09 23:35:18,712; Start calc f(x): {'x': 0.0785, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,713; f(x) calculated, atomic increase acc: {'f(x)': 0.9972, 'cur acc': 0.0078}
+2022-03-09 23:35:18,715; Start calc f(x): {'x': 0.0801, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,716; Start calc f(x): {'x': 0.0817, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,717; f(x) calculated, atomic increase acc: {'f(x)': 0.9969, 'cur acc': 0.0094}
+2022-03-09 23:35:18,718; Start calc f(x): {'x': 0.0833, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,719; f(x) calculated, atomic increase acc: {'f(x)': 0.9968, 'cur acc': 0.0078}
+2022-03-09 23:35:18,721; Start calc f(x): {'x': 0.0848, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,722; f(x) calculated, atomic increase acc: {'f(x)': 0.9967, 'cur acc': 0.0141}
+2022-03-09 23:35:18,724; f(x) calculated, atomic increase acc: {'f(x)': 0.9965, 'cur acc': 0.0078}
+2022-03-09 23:35:18,724; f(x) calculated, atomic increase acc: {'f(x)': 0.9964, 'cur acc': 0.0157}
+2022-03-09 23:35:18,725; Start calc f(x): {'x': 0.0895, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,727; Start calc f(x): {'x': 0.088, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,728; f(x) calculated, atomic increase acc: {'f(x)': 0.996, 'cur acc': 0.0094}
+2022-03-09 23:35:18,728; Start calc f(x): {'x': 0.0864, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,730; Start calc f(x): {'x': 0.0911, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,732; f(x) calculated, atomic increase acc: {'f(x)': 0.9961, 'cur acc': 0.0078}
+2022-03-09 23:35:18,735; f(x) calculated, atomic increase acc: {'f(x)': 0.9963, 'cur acc': 0.0063}
+2022-03-09 23:35:18,736; f(x) calculated, atomic increase acc: {'f(x)': 0.9959, 'cur acc': 0.011}
+2022-03-09 23:35:18,737; Start calc f(x): {'x': 0.0942, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,739; Start calc f(x): {'x': 0.0927, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,740; Start calc f(x): {'x': 0.0974, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,740; f(x) calculated, atomic increase acc: {'f(x)': 0.9956, 'cur acc': 0.0157}
+2022-03-09 23:35:18,742; Start calc f(x): {'x': 0.0958, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,743; Start calc f(x): {'x': 0.099, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,744; f(x) calculated, atomic increase acc: {'f(x)': 0.9957, 'cur acc': 0.0094}
+2022-03-09 23:35:18,745; f(x) calculated, atomic increase acc: {'f(x)': 0.9953, 'cur acc': 0.0173}
+2022-03-09 23:35:18,746; f(x) calculated, atomic increase acc: {'f(x)': 0.9954, 'cur acc': 0.0094}
+2022-03-09 23:35:18,747; f(x) calculated, atomic increase acc: {'f(x)': 0.9951, 'cur acc': 0.011}
+2022-03-09 23:35:18,748; Start calc f(x): {'x': 0.1005, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,750; Start calc f(x): {'x': 0.1021, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,751; Start calc f(x): {'x': 0.1037, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,753; f(x) calculated, atomic increase acc: {'f(x)': 0.995, 'cur acc': 0.0094}
+2022-03-09 23:35:18,754; f(x) calculated, atomic increase acc: {'f(x)': 0.9948, 'cur acc': 0.0078}
+2022-03-09 23:35:18,755; Start calc f(x): {'x': 0.1052, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,756; f(x) calculated, atomic increase acc: {'f(x)': 0.9946, 'cur acc': 0.0125}
+2022-03-09 23:35:18,757; f(x) calculated, atomic increase acc: {'f(x)': 0.9945, 'cur acc': 0.0173}
+2022-03-09 23:35:18,759; Start calc f(x): {'x': 0.1084, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,760; f(x) calculated, atomic increase acc: {'f(x)': 0.9941, 'cur acc': 0.0188}
+2022-03-09 23:35:18,761; Start calc f(x): {'x': 0.1068, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,762; f(x) calculated, atomic increase acc: {'f(x)': 0.9943, 'cur acc': 0.011}
+2022-03-09 23:35:18,763; Start calc f(x): {'x': 0.11, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,764; Start calc f(x): {'x': 0.1115, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,765; f(x) calculated, atomic increase acc: {'f(x)': 0.994, 'cur acc': 0.011}
+2022-03-09 23:35:18,765; f(x) calculated, atomic increase acc: {'f(x)': 0.9938, 'cur acc': 0.0125}
+2022-03-09 23:35:18,769; Start calc f(x): {'x': 0.1147, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,770; Start calc f(x): {'x': 0.1131, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,771; f(x) calculated, atomic increase acc: {'f(x)': 0.9936, 'cur acc': 0.011}
+2022-03-09 23:35:18,772; f(x) calculated, atomic increase acc: {'f(x)': 0.9934, 'cur acc': 0.0094}
+2022-03-09 23:35:18,774; Start calc f(x): {'x': 0.1162, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,774; Start calc f(x): {'x': 0.1178, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,776; f(x) calculated, atomic increase acc: {'f(x)': 0.9933, 'cur acc': 0.0141}
+2022-03-09 23:35:18,776; Start calc f(x): {'x': 0.1194, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,777; f(x) calculated, atomic increase acc: {'f(x)': 0.9931, 'cur acc': 0.0188}
+2022-03-09 23:35:18,778; f(x) calculated, atomic increase acc: {'f(x)': 0.9929, 'cur acc': 0.0204}
+2022-03-09 23:35:18,781; Start calc f(x): {'x': 0.121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,782; Start calc f(x): {'x': 0.1241, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,785; f(x) calculated, atomic increase acc: {'f(x)': 0.9927, 'cur acc': 0.0125}
+2022-03-09 23:35:18,787; Start calc f(x): {'x': 0.1225, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,788; f(x) calculated, atomic increase acc: {'f(x)': 0.9923, 'cur acc': 0.0141}
+2022-03-09 23:35:18,789; f(x) calculated, atomic increase acc: {'f(x)': 0.9925, 'cur acc': 0.0125}
+2022-03-09 23:35:18,790; Start calc f(x): {'x': 0.1272, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,791; Start calc f(x): {'x': 0.1288, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,792; f(x) calculated, atomic increase acc: {'f(x)': 0.9919, 'cur acc': 0.011}
+2022-03-09 23:35:18,793; f(x) calculated, atomic increase acc: {'f(x)': 0.9917, 'cur acc': 0.0157}
+2022-03-09 23:35:18,794; Start calc f(x): {'x': 0.1257, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,795; Start calc f(x): {'x': 0.1304, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,796; f(x) calculated, atomic increase acc: {'f(x)': 0.9921, 'cur acc': 0.0125}
+2022-03-09 23:35:18,797; Start calc f(x): {'x': 0.1319, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,798; f(x) calculated, atomic increase acc: {'f(x)': 0.9915, 'cur acc': 0.0204}
+2022-03-09 23:35:18,799; f(x) calculated, atomic increase acc: {'f(x)': 0.9913, 'cur acc': 0.0219}
+2022-03-09 23:35:18,802; Start calc f(x): {'x': 0.1335, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,804; f(x) calculated, atomic increase acc: {'f(x)': 0.9911, 'cur acc': 0.0141}
+2022-03-09 23:35:18,805; Start calc f(x): {'x': 0.1351, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,806; Start calc f(x): {'x': 0.1367, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,806; f(x) calculated, atomic increase acc: {'f(x)': 0.9909, 'cur acc': 0.0157}
+2022-03-09 23:35:18,807; f(x) calculated, atomic increase acc: {'f(x)': 0.9907, 'cur acc': 0.0141}
+2022-03-09 23:35:18,808; Start calc f(x): {'x': 0.1382, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,809; f(x) calculated, atomic increase acc: {'f(x)': 0.9905, 'cur acc': 0.0125}
+2022-03-09 23:35:18,811; Start calc f(x): {'x': 0.1398, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,812; f(x) calculated, atomic increase acc: {'f(x)': 0.9902, 'cur acc': 0.0172}
+2022-03-09 23:35:18,814; Start calc f(x): {'x': 0.1414, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,815; f(x) calculated, atomic increase acc: {'f(x)': 0.99, 'cur acc': 0.0141}
+2022-03-09 23:35:18,815; Start calc f(x): {'x': 0.1429, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,817; f(x) calculated, atomic increase acc: {'f(x)': 0.9898, 'cur acc': 0.0219}
+2022-03-09 23:35:18,818; Start calc f(x): {'x': 0.1445, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,821; f(x) calculated, atomic increase acc: {'f(x)': 0.9896, 'cur acc': 0.0235}
+2022-03-09 23:35:18,822; Start calc f(x): {'x': 0.1461, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,823; Start calc f(x): {'x': 0.1477, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,825; f(x) calculated, atomic increase acc: {'f(x)': 0.9893, 'cur acc': 0.0157}
+2022-03-09 23:35:18,826; f(x) calculated, atomic increase acc: {'f(x)': 0.9891, 'cur acc': 0.0172}
+2022-03-09 23:35:18,827; Start calc f(x): {'x': 0.1508, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,828; Start calc f(x): {'x': 0.1492, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,828; f(x) calculated, atomic increase acc: {'f(x)': 0.9887, 'cur acc': 0.0141}
+2022-03-09 23:35:18,829; f(x) calculated, atomic increase acc: {'f(x)': 0.9889, 'cur acc': 0.0157}
+2022-03-09 23:35:18,831; Start calc f(x): {'x': 0.1524, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,832; Start calc f(x): {'x': 0.1539, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,833; f(x) calculated, atomic increase acc: {'f(x)': 0.9884, 'cur acc': 0.0188}
+2022-03-09 23:35:18,835; Start calc f(x): {'x': 0.1555, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,837; f(x) calculated, atomic increase acc: {'f(x)': 0.9882, 'cur acc': 0.0156}
+2022-03-09 23:35:18,838; f(x) calculated, atomic increase acc: {'f(x)': 0.9879, 'cur acc': 0.0235}
+2022-03-09 23:35:18,839; Start calc f(x): {'x': 0.1571, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,840; Start calc f(x): {'x': 0.1587, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,842; f(x) calculated, atomic increase acc: {'f(x)': 0.9877, 'cur acc': 0.0251}
+2022-03-09 23:35:18,843; Start calc f(x): {'x': 0.1602, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,843; f(x) calculated, atomic increase acc: {'f(x)': 0.9874, 'cur acc': 0.0188}
+2022-03-09 23:35:18,844; f(x) calculated, atomic increase acc: {'f(x)': 0.9872, 'cur acc': 0.0172}
+2022-03-09 23:35:18,845; Start calc f(x): {'x': 0.1618, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,847; f(x) calculated, atomic increase acc: {'f(x)': 0.9869, 'cur acc': 0.0156}
+2022-03-09 23:35:18,848; Start calc f(x): {'x': 0.1634, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,849; f(x) calculated, atomic increase acc: {'f(x)': 0.9867, 'cur acc': 0.0172}
+2022-03-09 23:35:18,850; Start calc f(x): {'x': 0.1649, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,851; f(x) calculated, atomic increase acc: {'f(x)': 0.9864, 'cur acc': 0.0203}
+2022-03-09 23:35:18,852; Start calc f(x): {'x': 0.1681, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,853; f(x) calculated, atomic increase acc: {'f(x)': 0.9859, 'cur acc': 0.025}
+2022-03-09 23:35:18,855; Start calc f(x): {'x': 0.1665, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,856; f(x) calculated, atomic increase acc: {'f(x)': 0.9862, 'cur acc': 0.0172}
+2022-03-09 23:35:18,858; Start calc f(x): {'x': 0.1696, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,859; f(x) calculated, atomic increase acc: {'f(x)': 0.9856, 'cur acc': 0.0266}
+2022-03-09 23:35:18,860; Start calc f(x): {'x': 0.1712, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,861; f(x) calculated, atomic increase acc: {'f(x)': 0.9854, 'cur acc': 0.0203}
+2022-03-09 23:35:18,864; Start calc f(x): {'x': 0.1728, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,865; Start calc f(x): {'x': 0.1744, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,866; f(x) calculated, atomic increase acc: {'f(x)': 0.9851, 'cur acc': 0.0188}
+2022-03-09 23:35:18,868; f(x) calculated, atomic increase acc: {'f(x)': 0.9848, 'cur acc': 0.0172}
+2022-03-09 23:35:18,869; Start calc f(x): {'x': 0.1759, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,871; Start calc f(x): {'x': 0.1775, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,871; f(x) calculated, atomic increase acc: {'f(x)': 0.9846, 'cur acc': 0.0188}
+2022-03-09 23:35:18,872; Start calc f(x): {'x': 0.1791, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,874; f(x) calculated, atomic increase acc: {'f(x)': 0.9843, 'cur acc': 0.0219}
+2022-03-09 23:35:18,875; f(x) calculated, atomic increase acc: {'f(x)': 0.984, 'cur acc': 0.0266}
+2022-03-09 23:35:18,876; Start calc f(x): {'x': 0.1806, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,877; Start calc f(x): {'x': 0.1822, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,877; Start calc f(x): {'x': 0.1838, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,879; f(x) calculated, atomic increase acc: {'f(x)': 0.9837, 'cur acc': 0.0187}
+2022-03-09 23:35:18,880; f(x) calculated, atomic increase acc: {'f(x)': 0.9834, 'cur acc': 0.0282}
+2022-03-09 23:35:18,882; f(x) calculated, atomic increase acc: {'f(x)': 0.9832, 'cur acc': 0.0219}
+2022-03-09 23:35:18,883; Start calc f(x): {'x': 0.1854, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,883; Start calc f(x): {'x': 0.1869, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,885; f(x) calculated, atomic increase acc: {'f(x)': 0.9829, 'cur acc': 0.0203}
+2022-03-09 23:35:18,887; f(x) calculated, atomic increase acc: {'f(x)': 0.9826, 'cur acc': 0.0187}
+2022-03-09 23:35:18,889; Start calc f(x): {'x': 0.1885, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,889; Start calc f(x): {'x': 0.1901, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,890; f(x) calculated, atomic increase acc: {'f(x)': 0.9823, 'cur acc': 0.0203}
+2022-03-09 23:35:18,891; Start calc f(x): {'x': 0.1916, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,893; f(x) calculated, atomic increase acc: {'f(x)': 0.982, 'cur acc': 0.0281}
+2022-03-09 23:35:18,894; f(x) calculated, atomic increase acc: {'f(x)': 0.9817, 'cur acc': 0.0234}
+2022-03-09 23:35:18,894; Start calc f(x): {'x': 0.1932, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,895; Start calc f(x): {'x': 0.1948, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,896; Start calc f(x): {'x': 0.1963, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,898; f(x) calculated, atomic increase acc: {'f(x)': 0.9811, 'cur acc': 0.0297}
+2022-03-09 23:35:18,899; f(x) calculated, atomic increase acc: {'f(x)': 0.9814, 'cur acc': 0.0203}
+2022-03-09 23:35:18,900; f(x) calculated, atomic increase acc: {'f(x)': 0.9808, 'cur acc': 0.0234}
+2022-03-09 23:35:18,901; Start calc f(x): {'x': 0.1995, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,904; Start calc f(x): {'x': 0.1979, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,905; f(x) calculated, atomic increase acc: {'f(x)': 0.9802, 'cur acc': 0.0203}
+2022-03-09 23:35:18,906; f(x) calculated, atomic increase acc: {'f(x)': 0.9805, 'cur acc': 0.0219}
+2022-03-09 23:35:18,907; Start calc f(x): {'x': 0.2011, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,908; f(x) calculated, atomic increase acc: {'f(x)': 0.9799, 'cur acc': 0.0218}
+2022-03-09 23:35:18,909; Start calc f(x): {'x': 0.2042, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,909; Start calc f(x): {'x': 0.2026, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,911; f(x) calculated, atomic increase acc: {'f(x)': 0.9792, 'cur acc': 0.025}
+2022-03-09 23:35:18,912; f(x) calculated, atomic increase acc: {'f(x)': 0.9795, 'cur acc': 0.0297}
+2022-03-09 23:35:18,912; Start calc f(x): {'x': 0.2058, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,914; f(x) calculated, atomic increase acc: {'f(x)': 0.9789, 'cur acc': 0.0312}
+2022-03-09 23:35:18,915; Start calc f(x): {'x': 0.2073, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,916; f(x) calculated, atomic increase acc: {'f(x)': 0.9786, 'cur acc': 0.0218}
+2022-03-09 23:35:18,920; Start calc f(x): {'x': 0.2089, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,921; Start calc f(x): {'x': 0.2105, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,923; f(x) calculated, atomic increase acc: {'f(x)': 0.9783, 'cur acc': 0.025}
+2022-03-09 23:35:18,924; f(x) calculated, atomic increase acc: {'f(x)': 0.9779, 'cur acc': 0.0218}
+2022-03-09 23:35:18,925; Start calc f(x): {'x': 0.2121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,926; f(x) calculated, atomic increase acc: {'f(x)': 0.9776, 'cur acc': 0.0234}
+2022-03-09 23:35:18,927; Start calc f(x): {'x': 0.2136, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,929; Start calc f(x): {'x': 0.2152, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,930; f(x) calculated, atomic increase acc: {'f(x)': 0.9773, 'cur acc': 0.0234}
+2022-03-09 23:35:18,931; Start calc f(x): {'x': 0.2168, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,931; f(x) calculated, atomic increase acc: {'f(x)': 0.9769, 'cur acc': 0.0265}
+2022-03-09 23:35:18,932; Start calc f(x): {'x': 0.2183, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,934; f(x) calculated, atomic increase acc: {'f(x)': 0.9766, 'cur acc': 0.0312}
+2022-03-09 23:35:18,935; Start calc f(x): {'x': 0.2199, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,938; f(x) calculated, atomic increase acc: {'f(x)': 0.9763, 'cur acc': 0.0328}
+2022-03-09 23:35:18,939; f(x) calculated, atomic increase acc: {'f(x)': 0.9759, 'cur acc': 0.0234}
+2022-03-09 23:35:18,940; Start calc f(x): {'x': 0.2215, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,941; Start calc f(x): {'x': 0.2231, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,943; f(x) calculated, atomic increase acc: {'f(x)': 0.9756, 'cur acc': 0.0265}
+2022-03-09 23:35:18,944; f(x) calculated, atomic increase acc: {'f(x)': 0.9752, 'cur acc': 0.0233}
+2022-03-09 23:35:18,946; Start calc f(x): {'x': 0.2246, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,946; f(x) calculated, atomic increase acc: {'f(x)': 0.9749, 'cur acc': 0.0249}
+2022-03-09 23:35:18,948; Start calc f(x): {'x': 0.2262, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,948; Start calc f(x): {'x': 0.2278, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,949; f(x) calculated, atomic increase acc: {'f(x)': 0.9745, 'cur acc': 0.0249}
+2022-03-09 23:35:18,950; f(x) calculated, atomic increase acc: {'f(x)': 0.9742, 'cur acc': 0.028}
+2022-03-09 23:35:18,953; Start calc f(x): {'x': 0.2293, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,954; Start calc f(x): {'x': 0.2309, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,956; f(x) calculated, atomic increase acc: {'f(x)': 0.9738, 'cur acc': 0.0328}
+2022-03-09 23:35:18,957; f(x) calculated, atomic increase acc: {'f(x)': 0.9735, 'cur acc': 0.0343}
+2022-03-09 23:35:18,958; Start calc f(x): {'x': 0.2325, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,959; f(x) calculated, atomic increase acc: {'f(x)': 0.9731, 'cur acc': 0.0249}
+2022-03-09 23:35:18,959; Start calc f(x): {'x': 0.234, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,960; f(x) calculated, atomic increase acc: {'f(x)': 0.9727, 'cur acc': 0.028}
+2022-03-09 23:35:18,961; Start calc f(x): {'x': 0.2356, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,962; f(x) calculated, atomic increase acc: {'f(x)': 0.9724, 'cur acc': 0.0249}
+2022-03-09 23:35:18,965; Start calc f(x): {'x': 0.2388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,966; Start calc f(x): {'x': 0.2372, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,967; f(x) calculated, atomic increase acc: {'f(x)': 0.9716, 'cur acc': 0.0264}
+2022-03-09 23:35:18,969; f(x) calculated, atomic increase acc: {'f(x)': 0.972, 'cur acc': 0.0265}
+2022-03-09 23:35:18,971; Start calc f(x): {'x': 0.2403, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,973; f(x) calculated, atomic increase acc: {'f(x)': 0.9713, 'cur acc': 0.0296}
+2022-03-09 23:35:18,974; Start calc f(x): {'x': 0.2419, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,974; f(x) calculated, atomic increase acc: {'f(x)': 0.9709, 'cur acc': 0.0343}
+2022-03-09 23:35:18,975; Start calc f(x): {'x': 0.2435, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,976; f(x) calculated, atomic increase acc: {'f(x)': 0.9705, 'cur acc': 0.0358}
+2022-03-09 23:35:18,978; Start calc f(x): {'x': 0.2466, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,979; f(x) calculated, atomic increase acc: {'f(x)': 0.9697, 'cur acc': 0.0296}
+2022-03-09 23:35:18,980; Start calc f(x): {'x': 0.245, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,981; f(x) calculated, atomic increase acc: {'f(x)': 0.9701, 'cur acc': 0.0264}
+2022-03-09 23:35:18,982; Start calc f(x): {'x': 0.2482, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,983; f(x) calculated, atomic increase acc: {'f(x)': 0.9694, 'cur acc': 0.0264}
+2022-03-09 23:35:18,986; Start calc f(x): {'x': 0.2498, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,988; f(x) calculated, atomic increase acc: {'f(x)': 0.969, 'cur acc': 0.028}
+2022-03-09 23:35:18,989; Start calc f(x): {'x': 0.2513, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,989; Start calc f(x): {'x': 0.2529, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,991; f(x) calculated, atomic increase acc: {'f(x)': 0.9686, 'cur acc': 0.028}
+2022-03-09 23:35:18,992; f(x) calculated, atomic increase acc: {'f(x)': 0.9682, 'cur acc': 0.0311}
+2022-03-09 23:35:18,992; Start calc f(x): {'x': 0.2545, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,993; f(x) calculated, atomic increase acc: {'f(x)': 0.9678, 'cur acc': 0.0358}
+2022-03-09 23:35:18,994; Start calc f(x): {'x': 0.256, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,995; f(x) calculated, atomic increase acc: {'f(x)': 0.9674, 'cur acc': 0.0374}
+2022-03-09 23:35:18,997; Start calc f(x): {'x': 0.2576, 'step': 0.0015707963267948967}
+2022-03-09 23:35:18,997; f(x) calculated, atomic increase acc: {'f(x)': 0.967, 'cur acc': 0.0311}
+2022-03-09 23:35:18,999; Start calc f(x): {'x': 0.2592, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,000; f(x) calculated, atomic increase acc: {'f(x)': 0.9666, 'cur acc': 0.028}
+2022-03-09 23:35:19,006; Start calc f(x): {'x': 0.2623, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,007; Start calc f(x): {'x': 0.2608, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,008; f(x) calculated, atomic increase acc: {'f(x)': 0.9658, 'cur acc': 0.0295}
+2022-03-09 23:35:19,009; f(x) calculated, atomic increase acc: {'f(x)': 0.9662, 'cur acc': 0.0279}
+2022-03-09 23:35:19,010; Start calc f(x): {'x': 0.2639, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,011; f(x) calculated, atomic increase acc: {'f(x)': 0.9654, 'cur acc': 0.0295}
+2022-03-09 23:35:19,012; Start calc f(x): {'x': 0.2655, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,013; Start calc f(x): {'x': 0.267, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,014; f(x) calculated, atomic increase acc: {'f(x)': 0.965, 'cur acc': 0.0326}
+2022-03-09 23:35:19,015; f(x) calculated, atomic increase acc: {'f(x)': 0.9646, 'cur acc': 0.0373}
+2022-03-09 23:35:19,016; Start calc f(x): {'x': 0.2686, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,017; Start calc f(x): {'x': 0.2702, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,018; f(x) calculated, atomic increase acc: {'f(x)': 0.9641, 'cur acc': 0.0389}
+2022-03-09 23:35:19,021; f(x) calculated, atomic increase acc: {'f(x)': 0.9637, 'cur acc': 0.0326}
+2022-03-09 23:35:19,023; Start calc f(x): {'x': 0.2717, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,024; f(x) calculated, atomic increase acc: {'f(x)': 0.9633, 'cur acc': 0.0295}
+2022-03-09 23:35:19,026; Start calc f(x): {'x': 0.2733, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,027; f(x) calculated, atomic increase acc: {'f(x)': 0.9629, 'cur acc': 0.0294}
+2022-03-09 23:35:19,028; Start calc f(x): {'x': 0.2749, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,030; f(x) calculated, atomic increase acc: {'f(x)': 0.9625, 'cur acc': 0.031}
+2022-03-09 23:35:19,030; Start calc f(x): {'x': 0.2765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,032; f(x) calculated, atomic increase acc: {'f(x)': 0.962, 'cur acc': 0.031}
+2022-03-09 23:35:19,034; Start calc f(x): {'x': 0.278, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,036; f(x) calculated, atomic increase acc: {'f(x)': 0.9616, 'cur acc': 0.0341}
+2022-03-09 23:35:19,037; Start calc f(x): {'x': 0.2796, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,039; f(x) calculated, atomic increase acc: {'f(x)': 0.9612, 'cur acc': 0.0388}
+2022-03-09 23:35:19,039; Start calc f(x): {'x': 0.2812, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,040; Start calc f(x): {'x': 0.2827, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,041; f(x) calculated, atomic increase acc: {'f(x)': 0.9607, 'cur acc': 0.0404}
+2022-03-09 23:35:19,042; f(x) calculated, atomic increase acc: {'f(x)': 0.9603, 'cur acc': 0.0341}
+2022-03-09 23:35:19,044; Start calc f(x): {'x': 0.2843, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,045; f(x) calculated, atomic increase acc: {'f(x)': 0.9599, 'cur acc': 0.031}
+2022-03-09 23:35:19,046; Start calc f(x): {'x': 0.2859, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,047; f(x) calculated, atomic increase acc: {'f(x)': 0.9594, 'cur acc': 0.031}
+2022-03-09 23:35:19,048; Start calc f(x): {'x': 0.2875, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,049; f(x) calculated, atomic increase acc: {'f(x)': 0.959, 'cur acc': 0.0325}
+2022-03-09 23:35:19,050; Start calc f(x): {'x': 0.289, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,052; f(x) calculated, atomic increase acc: {'f(x)': 0.9585, 'cur acc': 0.0325}
+2022-03-09 23:35:19,056; Start calc f(x): {'x': 0.2906, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,057; f(x) calculated, atomic increase acc: {'f(x)': 0.9581, 'cur acc': 0.0356}
+2022-03-09 23:35:19,058; Start calc f(x): {'x': 0.2922, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,059; f(x) calculated, atomic increase acc: {'f(x)': 0.9576, 'cur acc': 0.0404}
+2022-03-09 23:35:19,060; Start calc f(x): {'x': 0.2937, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,061; f(x) calculated, atomic increase acc: {'f(x)': 0.9572, 'cur acc': 0.0419}
+2022-03-09 23:35:19,062; Start calc f(x): {'x': 0.2953, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,063; Start calc f(x): {'x': 0.2969, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,063; f(x) calculated, atomic increase acc: {'f(x)': 0.9567, 'cur acc': 0.0356}
+2022-03-09 23:35:19,065; f(x) calculated, atomic increase acc: {'f(x)': 0.9563, 'cur acc': 0.0325}
+2022-03-09 23:35:19,070; Start calc f(x): {'x': 0.2985, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,071; Start calc f(x): {'x': 0.3, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,072; f(x) calculated, atomic increase acc: {'f(x)': 0.9558, 'cur acc': 0.0325}
+2022-03-09 23:35:19,072; f(x) calculated, atomic increase acc: {'f(x)': 0.9553, 'cur acc': 0.034}
+2022-03-09 23:35:19,073; Start calc f(x): {'x': 0.3016, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,074; f(x) calculated, atomic increase acc: {'f(x)': 0.9549, 'cur acc': 0.034}
+2022-03-09 23:35:19,077; Start calc f(x): {'x': 0.3032, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,078; f(x) calculated, atomic increase acc: {'f(x)': 0.9544, 'cur acc': 0.0372}
+2022-03-09 23:35:19,079; Start calc f(x): {'x': 0.3047, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,080; f(x) calculated, atomic increase acc: {'f(x)': 0.9539, 'cur acc': 0.0419}
+2022-03-09 23:35:19,082; Start calc f(x): {'x': 0.3063, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,083; Start calc f(x): {'x': 0.3079, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,085; f(x) calculated, atomic increase acc: {'f(x)': 0.9535, 'cur acc': 0.0434}
+2022-03-09 23:35:19,087; f(x) calculated, atomic increase acc: {'f(x)': 0.953, 'cur acc': 0.0371}
+2022-03-09 23:35:19,088; Start calc f(x): {'x': 0.3094, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,089; Start calc f(x): {'x': 0.311, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,090; Start calc f(x): {'x': 0.3126, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,091; f(x) calculated, atomic increase acc: {'f(x)': 0.9525, 'cur acc': 0.034}
+2022-03-09 23:35:19,091; f(x) calculated, atomic increase acc: {'f(x)': 0.952, 'cur acc': 0.034}
+2022-03-09 23:35:19,092; f(x) calculated, atomic increase acc: {'f(x)': 0.9515, 'cur acc': 0.0355}
+2022-03-09 23:35:19,093; Start calc f(x): {'x': 0.3142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,094; Start calc f(x): {'x': 0.3157, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,095; f(x) calculated, atomic increase acc: {'f(x)': 0.9511, 'cur acc': 0.0355}
+2022-03-09 23:35:19,095; f(x) calculated, atomic increase acc: {'f(x)': 0.9506, 'cur acc': 0.0387}
+2022-03-09 23:35:19,098; Start calc f(x): {'x': 0.3173, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,098; f(x) calculated, atomic increase acc: {'f(x)': 0.9501, 'cur acc': 0.0434}
+2022-03-09 23:35:19,100; Start calc f(x): {'x': 0.3189, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,101; f(x) calculated, atomic increase acc: {'f(x)': 0.9496, 'cur acc': 0.0449}
+2022-03-09 23:35:19,108; Start calc f(x): {'x': 0.3204, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,109; f(x) calculated, atomic increase acc: {'f(x)': 0.9491, 'cur acc': 0.0386}
+2022-03-09 23:35:19,112; Start calc f(x): {'x': 0.322, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,113; Start calc f(x): {'x': 0.3236, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,114; f(x) calculated, atomic increase acc: {'f(x)': 0.9486, 'cur acc': 0.0355}
+2022-03-09 23:35:19,116; Start calc f(x): {'x': 0.3252, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,118; f(x) calculated, atomic increase acc: {'f(x)': 0.9481, 'cur acc': 0.0355}
+2022-03-09 23:35:19,121; Start calc f(x): {'x': 0.3267, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,122; f(x) calculated, atomic increase acc: {'f(x)': 0.9476, 'cur acc': 0.037}
+2022-03-09 23:35:19,123; Start calc f(x): {'x': 0.3283, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,124; f(x) calculated, atomic increase acc: {'f(x)': 0.9471, 'cur acc': 0.037}
+2022-03-09 23:35:19,125; Start calc f(x): {'x': 0.3299, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,125; f(x) calculated, atomic increase acc: {'f(x)': 0.9466, 'cur acc': 0.0401}
+2022-03-09 23:35:19,126; Start calc f(x): {'x': 0.3314, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,147; f(x) calculated, atomic increase acc: {'f(x)': 0.9461, 'cur acc': 0.0448}
+2022-03-09 23:35:19,154; f(x) calculated, atomic increase acc: {'f(x)': 0.9456, 'cur acc': 0.0464}
+2022-03-09 23:35:19,158; Start calc f(x): {'x': 0.333, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,160; f(x) calculated, atomic increase acc: {'f(x)': 0.9451, 'cur acc': 0.0401}
+2022-03-09 23:35:19,167; Start calc f(x): {'x': 0.3346, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,169; f(x) calculated, atomic increase acc: {'f(x)': 0.9445, 'cur acc': 0.037}
+2022-03-09 23:35:19,172; Start calc f(x): {'x': 0.3362, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,173; f(x) calculated, atomic increase acc: {'f(x)': 0.944, 'cur acc': 0.037}
+2022-03-09 23:35:19,173; Start calc f(x): {'x': 0.3377, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,175; f(x) calculated, atomic increase acc: {'f(x)': 0.9435, 'cur acc': 0.0385}
+2022-03-09 23:35:19,176; Start calc f(x): {'x': 0.3393, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,177; f(x) calculated, atomic increase acc: {'f(x)': 0.943, 'cur acc': 0.0385}
+2022-03-09 23:35:19,177; Start calc f(x): {'x': 0.3409, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,179; f(x) calculated, atomic increase acc: {'f(x)': 0.9425, 'cur acc': 0.0416}
+2022-03-09 23:35:19,179; Start calc f(x): {'x': 0.3424, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,180; Start calc f(x): {'x': 0.344, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,180; f(x) calculated, atomic increase acc: {'f(x)': 0.9419, 'cur acc': 0.0463}
+2022-03-09 23:35:19,181; f(x) calculated, atomic increase acc: {'f(x)': 0.9414, 'cur acc': 0.0479}
+2022-03-09 23:35:19,182; Start calc f(x): {'x': 0.3456, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,182; f(x) calculated, atomic increase acc: {'f(x)': 0.9409, 'cur acc': 0.0416}
+2022-03-09 23:35:19,189; Start calc f(x): {'x': 0.3471, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,191; f(x) calculated, atomic increase acc: {'f(x)': 0.9403, 'cur acc': 0.0384}
+2022-03-09 23:35:19,192; Start calc f(x): {'x': 0.3487, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,193; f(x) calculated, atomic increase acc: {'f(x)': 0.9398, 'cur acc': 0.0385}
+2022-03-09 23:35:19,194; Start calc f(x): {'x': 0.3503, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,195; f(x) calculated, atomic increase acc: {'f(x)': 0.9393, 'cur acc': 0.04}
+2022-03-09 23:35:19,197; Start calc f(x): {'x': 0.3519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,197; Start calc f(x): {'x': 0.3534, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,198; f(x) calculated, atomic increase acc: {'f(x)': 0.9387, 'cur acc': 0.04}
+2022-03-09 23:35:19,199; f(x) calculated, atomic increase acc: {'f(x)': 0.9382, 'cur acc': 0.0431}
+2022-03-09 23:35:19,200; Start calc f(x): {'x': 0.355, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,200; f(x) calculated, atomic increase acc: {'f(x)': 0.9376, 'cur acc': 0.0494}
+2022-03-09 23:35:19,201; Start calc f(x): {'x': 0.3566, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,202; f(x) calculated, atomic increase acc: {'f(x)': 0.9371, 'cur acc': 0.0478}
+2022-03-09 23:35:19,204; Start calc f(x): {'x': 0.3581, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,205; f(x) calculated, atomic increase acc: {'f(x)': 0.9365, 'cur acc': 0.0431}
+2022-03-09 23:35:19,211; Start calc f(x): {'x': 0.3597, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,212; Start calc f(x): {'x': 0.3613, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,213; f(x) calculated, atomic increase acc: {'f(x)': 0.936, 'cur acc': 0.0399}
+2022-03-09 23:35:19,214; f(x) calculated, atomic increase acc: {'f(x)': 0.9354, 'cur acc': 0.0399}
+2022-03-09 23:35:19,214; Start calc f(x): {'x': 0.3629, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,215; f(x) calculated, atomic increase acc: {'f(x)': 0.9349, 'cur acc': 0.0415}
+2022-03-09 23:35:19,216; Start calc f(x): {'x': 0.3644, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,217; f(x) calculated, atomic increase acc: {'f(x)': 0.9343, 'cur acc': 0.0415}
+2022-03-09 23:35:19,219; Start calc f(x): {'x': 0.366, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,220; Start calc f(x): {'x': 0.3676, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,222; f(x) calculated, atomic increase acc: {'f(x)': 0.9338, 'cur acc': 0.0446}
+2022-03-09 23:35:19,223; f(x) calculated, atomic increase acc: {'f(x)': 0.9332, 'cur acc': 0.0508}
+2022-03-09 23:35:19,225; Start calc f(x): {'x': 0.3691, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,226; Start calc f(x): {'x': 0.3707, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,226; f(x) calculated, atomic increase acc: {'f(x)': 0.9326, 'cur acc': 0.0493}
+2022-03-09 23:35:19,227; f(x) calculated, atomic increase acc: {'f(x)': 0.9321, 'cur acc': 0.0445}
+2022-03-09 23:35:19,233; Start calc f(x): {'x': 0.3723, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,233; Start calc f(x): {'x': 0.3738, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,234; f(x) calculated, atomic increase acc: {'f(x)': 0.9315, 'cur acc': 0.0414}
+2022-03-09 23:35:19,235; f(x) calculated, atomic increase acc: {'f(x)': 0.9309, 'cur acc': 0.0414}
+2022-03-09 23:35:19,237; Start calc f(x): {'x': 0.3754, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,239; f(x) calculated, atomic increase acc: {'f(x)': 0.9304, 'cur acc': 0.0429}
+2022-03-09 23:35:19,239; Start calc f(x): {'x': 0.377, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,240; f(x) calculated, atomic increase acc: {'f(x)': 0.9298, 'cur acc': 0.0429}
+2022-03-09 23:35:19,243; Start calc f(x): {'x': 0.3786, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,244; f(x) calculated, atomic increase acc: {'f(x)': 0.9292, 'cur acc': 0.0461}
+2022-03-09 23:35:19,244; Start calc f(x): {'x': 0.3801, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,245; f(x) calculated, atomic increase acc: {'f(x)': 0.9286, 'cur acc': 0.0523}
+2022-03-09 23:35:19,247; Start calc f(x): {'x': 0.3817, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,248; f(x) calculated, atomic increase acc: {'f(x)': 0.928, 'cur acc': 0.0508}
+2022-03-09 23:35:19,249; Start calc f(x): {'x': 0.3833, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,250; f(x) calculated, atomic increase acc: {'f(x)': 0.9274, 'cur acc': 0.046}
+2022-03-09 23:35:19,255; Start calc f(x): {'x': 0.3848, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,256; f(x) calculated, atomic increase acc: {'f(x)': 0.9269, 'cur acc': 0.0429}
+2022-03-09 23:35:19,258; Start calc f(x): {'x': 0.3864, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,259; f(x) calculated, atomic increase acc: {'f(x)': 0.9263, 'cur acc': 0.0428}
+2022-03-09 23:35:19,260; Start calc f(x): {'x': 0.388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,261; f(x) calculated, atomic increase acc: {'f(x)': 0.9257, 'cur acc': 0.0444}
+2022-03-09 23:35:19,262; Start calc f(x): {'x': 0.3896, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,262; Start calc f(x): {'x': 0.3911, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,263; f(x) calculated, atomic increase acc: {'f(x)': 0.9251, 'cur acc': 0.0444}
+2022-03-09 23:35:19,264; f(x) calculated, atomic increase acc: {'f(x)': 0.9245, 'cur acc': 0.0475}
+2022-03-09 23:35:19,265; Start calc f(x): {'x': 0.3927, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,266; f(x) calculated, atomic increase acc: {'f(x)': 0.9239, 'cur acc': 0.0538}
+2022-03-09 23:35:19,267; Start calc f(x): {'x': 0.3943, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,268; f(x) calculated, atomic increase acc: {'f(x)': 0.9233, 'cur acc': 0.0522}
+2022-03-09 23:35:19,269; Start calc f(x): {'x': 0.3958, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,270; f(x) calculated, atomic increase acc: {'f(x)': 0.9227, 'cur acc': 0.0475}
+2022-03-09 23:35:19,275; Start calc f(x): {'x': 0.3974, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,277; f(x) calculated, atomic increase acc: {'f(x)': 0.9221, 'cur acc': 0.0443}
+2022-03-09 23:35:19,280; Start calc f(x): {'x': 0.399, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,281; f(x) calculated, atomic increase acc: {'f(x)': 0.9215, 'cur acc': 0.0443}
+2022-03-09 23:35:19,281; Start calc f(x): {'x': 0.4006, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,282; f(x) calculated, atomic increase acc: {'f(x)': 0.9208, 'cur acc': 0.0459}
+2022-03-09 23:35:19,284; Start calc f(x): {'x': 0.4037, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,284; Start calc f(x): {'x': 0.4021, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,285; f(x) calculated, atomic increase acc: {'f(x)': 0.9196, 'cur acc': 0.049}
+2022-03-09 23:35:19,286; f(x) calculated, atomic increase acc: {'f(x)': 0.9202, 'cur acc': 0.0459}
+2022-03-09 23:35:19,287; Start calc f(x): {'x': 0.4053, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,288; Start calc f(x): {'x': 0.4068, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,288; f(x) calculated, atomic increase acc: {'f(x)': 0.919, 'cur acc': 0.0552}
+2022-03-09 23:35:19,289; f(x) calculated, atomic increase acc: {'f(x)': 0.9184, 'cur acc': 0.0537}
+2022-03-09 23:35:19,290; Start calc f(x): {'x': 0.4084, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,291; f(x) calculated, atomic increase acc: {'f(x)': 0.9178, 'cur acc': 0.0489}
+2022-03-09 23:35:19,298; Start calc f(x): {'x': 0.41, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,300; f(x) calculated, atomic increase acc: {'f(x)': 0.9171, 'cur acc': 0.0458}
+2022-03-09 23:35:19,302; Start calc f(x): {'x': 0.4115, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,303; f(x) calculated, atomic increase acc: {'f(x)': 0.9165, 'cur acc': 0.0457}
+2022-03-09 23:35:19,304; Start calc f(x): {'x': 0.4131, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,306; f(x) calculated, atomic increase acc: {'f(x)': 0.9159, 'cur acc': 0.0473}
+2022-03-09 23:35:19,307; Start calc f(x): {'x': 0.4163, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,308; Start calc f(x): {'x': 0.4147, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,308; f(x) calculated, atomic increase acc: {'f(x)': 0.9146, 'cur acc': 0.0473}
+2022-03-09 23:35:19,310; Start calc f(x): {'x': 0.4178, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,310; f(x) calculated, atomic increase acc: {'f(x)': 0.9152, 'cur acc': 0.0504}
+2022-03-09 23:35:19,311; Start calc f(x): {'x': 0.4194, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,312; Start calc f(x): {'x': 0.421, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,313; f(x) calculated, atomic increase acc: {'f(x)': 0.914, 'cur acc': 0.0567}
+2022-03-09 23:35:19,316; f(x) calculated, atomic increase acc: {'f(x)': 0.9133, 'cur acc': 0.0551}
+2022-03-09 23:35:19,318; f(x) calculated, atomic increase acc: {'f(x)': 0.9127, 'cur acc': 0.0504}
+2022-03-09 23:35:19,321; Start calc f(x): {'x': 0.4225, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,321; f(x) calculated, atomic increase acc: {'f(x)': 0.912, 'cur acc': 0.0472}
+2022-03-09 23:35:19,324; Start calc f(x): {'x': 0.4241, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,325; f(x) calculated, atomic increase acc: {'f(x)': 0.9114, 'cur acc': 0.0472}
+2022-03-09 23:35:19,326; Start calc f(x): {'x': 0.4257, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,327; f(x) calculated, atomic increase acc: {'f(x)': 0.9108, 'cur acc': 0.0487}
+2022-03-09 23:35:19,328; Start calc f(x): {'x': 0.4273, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,329; f(x) calculated, atomic increase acc: {'f(x)': 0.9101, 'cur acc': 0.0518}
+2022-03-09 23:35:19,330; Start calc f(x): {'x': 0.4288, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,331; f(x) calculated, atomic increase acc: {'f(x)': 0.9095, 'cur acc': 0.0487}
+2022-03-09 23:35:19,334; Start calc f(x): {'x': 0.4304, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,335; f(x) calculated, atomic increase acc: {'f(x)': 0.9088, 'cur acc': 0.0581}
+2022-03-09 23:35:19,338; Start calc f(x): {'x': 0.432, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,339; f(x) calculated, atomic increase acc: {'f(x)': 0.9081, 'cur acc': 0.0565}
+2022-03-09 23:35:19,341; Start calc f(x): {'x': 0.4335, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,342; f(x) calculated, atomic increase acc: {'f(x)': 0.9075, 'cur acc': 0.0518}
+2022-03-09 23:35:19,342; Start calc f(x): {'x': 0.4351, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,343; f(x) calculated, atomic increase acc: {'f(x)': 0.9068, 'cur acc': 0.0487}
+2022-03-09 23:35:19,346; Start calc f(x): {'x': 0.4367, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,346; f(x) calculated, atomic increase acc: {'f(x)': 0.9062, 'cur acc': 0.0486}
+2022-03-09 23:35:19,349; Start calc f(x): {'x': 0.4383, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,351; f(x) calculated, atomic increase acc: {'f(x)': 0.9055, 'cur acc': 0.0502}
+2022-03-09 23:35:19,354; Start calc f(x): {'x': 0.4398, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,355; Start calc f(x): {'x': 0.4414, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,356; f(x) calculated, atomic increase acc: {'f(x)': 0.9048, 'cur acc': 0.0533}
+2022-03-09 23:35:19,357; f(x) calculated, atomic increase acc: {'f(x)': 0.9042, 'cur acc': 0.0502}
+2022-03-09 23:35:19,361; Start calc f(x): {'x': 0.443, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,361; f(x) calculated, atomic increase acc: {'f(x)': 0.9035, 'cur acc': 0.0595}
+2022-03-09 23:35:19,363; Start calc f(x): {'x': 0.4445, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,363; Start calc f(x): {'x': 0.4461, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,364; f(x) calculated, atomic increase acc: {'f(x)': 0.9028, 'cur acc': 0.058}
+2022-03-09 23:35:19,365; f(x) calculated, atomic increase acc: {'f(x)': 0.9021, 'cur acc': 0.0532}
+2022-03-09 23:35:19,367; Start calc f(x): {'x': 0.4477, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,368; f(x) calculated, atomic increase acc: {'f(x)': 0.9015, 'cur acc': 0.0501}
+2022-03-09 23:35:19,371; Start calc f(x): {'x': 0.4492, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,372; f(x) calculated, atomic increase acc: {'f(x)': 0.9008, 'cur acc': 0.05}
+2022-03-09 23:35:19,374; Start calc f(x): {'x': 0.4508, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,375; f(x) calculated, atomic increase acc: {'f(x)': 0.9001, 'cur acc': 0.0516}
+2022-03-09 23:35:19,378; Start calc f(x): {'x': 0.4524, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,379; Start calc f(x): {'x': 0.454, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,380; f(x) calculated, atomic increase acc: {'f(x)': 0.8994, 'cur acc': 0.0547}
+2022-03-09 23:35:19,382; f(x) calculated, atomic increase acc: {'f(x)': 0.8987, 'cur acc': 0.0516}
+2022-03-09 23:35:19,384; Start calc f(x): {'x': 0.4555, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,384; Start calc f(x): {'x': 0.4571, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,385; f(x) calculated, atomic increase acc: {'f(x)': 0.898, 'cur acc': 0.0609}
+2022-03-09 23:35:19,388; f(x) calculated, atomic increase acc: {'f(x)': 0.8973, 'cur acc': 0.0594}
+2022-03-09 23:35:19,389; Start calc f(x): {'x': 0.4587, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,390; Start calc f(x): {'x': 0.4602, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,391; f(x) calculated, atomic increase acc: {'f(x)': 0.8966, 'cur acc': 0.0546}
+2022-03-09 23:35:19,393; f(x) calculated, atomic increase acc: {'f(x)': 0.8959, 'cur acc': 0.0515}
+2022-03-09 23:35:19,396; Start calc f(x): {'x': 0.4618, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,397; f(x) calculated, atomic increase acc: {'f(x)': 0.8952, 'cur acc': 0.0515}
+2022-03-09 23:35:19,401; Start calc f(x): {'x': 0.4634, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,403; f(x) calculated, atomic increase acc: {'f(x)': 0.8945, 'cur acc': 0.053}
+2022-03-09 23:35:19,409; Start calc f(x): {'x': 0.465, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,410; f(x) calculated, atomic increase acc: {'f(x)': 0.8938, 'cur acc': 0.0561}
+2022-03-09 23:35:19,410; Start calc f(x): {'x': 0.4665, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,411; f(x) calculated, atomic increase acc: {'f(x)': 0.8931, 'cur acc': 0.053}
+2022-03-09 23:35:19,413; Start calc f(x): {'x': 0.4697, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,414; Start calc f(x): {'x': 0.4681, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,415; f(x) calculated, atomic increase acc: {'f(x)': 0.8917, 'cur acc': 0.0608}
+2022-03-09 23:35:19,416; f(x) calculated, atomic increase acc: {'f(x)': 0.8924, 'cur acc': 0.0624}
+2022-03-09 23:35:19,417; Start calc f(x): {'x': 0.4712, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,418; Start calc f(x): {'x': 0.4728, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,420; f(x) calculated, atomic increase acc: {'f(x)': 0.891, 'cur acc': 0.056}
+2022-03-09 23:35:19,420; f(x) calculated, atomic increase acc: {'f(x)': 0.8903, 'cur acc': 0.0529}
+2022-03-09 23:35:19,421; Start calc f(x): {'x': 0.4744, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,422; f(x) calculated, atomic increase acc: {'f(x)': 0.8896, 'cur acc': 0.0529}
+2022-03-09 23:35:19,425; Start calc f(x): {'x': 0.476, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,426; f(x) calculated, atomic increase acc: {'f(x)': 0.8889, 'cur acc': 0.0544}
+2022-03-09 23:35:19,430; Start calc f(x): {'x': 0.4775, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,431; Start calc f(x): {'x': 0.4791, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,432; f(x) calculated, atomic increase acc: {'f(x)': 0.8881, 'cur acc': 0.0575}
+2022-03-09 23:35:19,434; f(x) calculated, atomic increase acc: {'f(x)': 0.8874, 'cur acc': 0.0544}
+2022-03-09 23:35:19,435; Start calc f(x): {'x': 0.4807, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,435; Start calc f(x): {'x': 0.4822, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,437; f(x) calculated, atomic increase acc: {'f(x)': 0.8867, 'cur acc': 0.0622}
+2022-03-09 23:35:19,439; f(x) calculated, atomic increase acc: {'f(x)': 0.886, 'cur acc': 0.0638}
+2022-03-09 23:35:19,440; Start calc f(x): {'x': 0.4838, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,441; f(x) calculated, atomic increase acc: {'f(x)': 0.8852, 'cur acc': 0.0574}
+2022-03-09 23:35:19,442; Start calc f(x): {'x': 0.4854, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,444; f(x) calculated, atomic increase acc: {'f(x)': 0.8845, 'cur acc': 0.0543}
+2022-03-09 23:35:19,445; Start calc f(x): {'x': 0.4869, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,446; f(x) calculated, atomic increase acc: {'f(x)': 0.8838, 'cur acc': 0.0543}
+2022-03-09 23:35:19,447; Start calc f(x): {'x': 0.4885, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,448; f(x) calculated, atomic increase acc: {'f(x)': 0.883, 'cur acc': 0.0558}
+2022-03-09 23:35:19,455; Start calc f(x): {'x': 0.4901, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,456; f(x) calculated, atomic increase acc: {'f(x)': 0.8823, 'cur acc': 0.0589}
+2022-03-09 23:35:19,457; Start calc f(x): {'x': 0.4917, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,459; Start calc f(x): {'x': 0.4932, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,459; f(x) calculated, atomic increase acc: {'f(x)': 0.8816, 'cur acc': 0.0558}
+2022-03-09 23:35:19,461; f(x) calculated, atomic increase acc: {'f(x)': 0.8808, 'cur acc': 0.0636}
+2022-03-09 23:35:19,463; Start calc f(x): {'x': 0.4948, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,464; Start calc f(x): {'x': 0.4964, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,464; f(x) calculated, atomic increase acc: {'f(x)': 0.8801, 'cur acc': 0.0651}
+2022-03-09 23:35:19,465; f(x) calculated, atomic increase acc: {'f(x)': 0.8793, 'cur acc': 0.0588}
+2022-03-09 23:35:19,467; Start calc f(x): {'x': 0.4979, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,468; Start calc f(x): {'x': 0.4995, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,469; f(x) calculated, atomic increase acc: {'f(x)': 0.8786, 'cur acc': 0.0557}
+2022-03-09 23:35:19,471; f(x) calculated, atomic increase acc: {'f(x)': 0.8778, 'cur acc': 0.0556}
+2022-03-09 23:35:19,473; Start calc f(x): {'x': 0.5011, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,474; f(x) calculated, atomic increase acc: {'f(x)': 0.8771, 'cur acc': 0.0572}
+2022-03-09 23:35:19,479; Start calc f(x): {'x': 0.5027, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,481; f(x) calculated, atomic increase acc: {'f(x)': 0.8763, 'cur acc': 0.0603}
+2022-03-09 23:35:19,482; Start calc f(x): {'x': 0.5058, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,483; f(x) calculated, atomic increase acc: {'f(x)': 0.8748, 'cur acc': 0.065}
+2022-03-09 23:35:19,484; Start calc f(x): {'x': 0.5042, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,487; f(x) calculated, atomic increase acc: {'f(x)': 0.8755, 'cur acc': 0.0572}
+2022-03-09 23:35:19,488; Start calc f(x): {'x': 0.5074, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,489; f(x) calculated, atomic increase acc: {'f(x)': 0.874, 'cur acc': 0.0665}
+2022-03-09 23:35:19,490; Start calc f(x): {'x': 0.5089, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,491; f(x) calculated, atomic increase acc: {'f(x)': 0.8733, 'cur acc': 0.0602}
+2022-03-09 23:35:19,493; Start calc f(x): {'x': 0.5105, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,494; Start calc f(x): {'x': 0.5121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,495; f(x) calculated, atomic increase acc: {'f(x)': 0.8725, 'cur acc': 0.0571}
+2022-03-09 23:35:19,496; f(x) calculated, atomic increase acc: {'f(x)': 0.8717, 'cur acc': 0.057}
+2022-03-09 23:35:19,497; Start calc f(x): {'x': 0.5137, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,498; f(x) calculated, atomic increase acc: {'f(x)': 0.871, 'cur acc': 0.0586}
+2022-03-09 23:35:19,507; Start calc f(x): {'x': 0.5152, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,512; Start calc f(x): {'x': 0.5168, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,513; f(x) calculated, atomic increase acc: {'f(x)': 0.8702, 'cur acc': 0.0617}
+2022-03-09 23:35:19,514; Start calc f(x): {'x': 0.5184, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,516; f(x) calculated, atomic increase acc: {'f(x)': 0.8694, 'cur acc': 0.0663}
+2022-03-09 23:35:19,519; Start calc f(x): {'x': 0.5199, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,521; f(x) calculated, atomic increase acc: {'f(x)': 0.8686, 'cur acc': 0.0586}
+2022-03-09 23:35:19,522; f(x) calculated, atomic increase acc: {'f(x)': 0.8679, 'cur acc': 0.0679}
+2022-03-09 23:35:19,525; Start calc f(x): {'x': 0.5215, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,532; f(x) calculated, atomic increase acc: {'f(x)': 0.8671, 'cur acc': 0.0616}
+2022-03-09 23:35:19,537; Start calc f(x): {'x': 0.5231, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,538; f(x) calculated, atomic increase acc: {'f(x)': 0.8663, 'cur acc': 0.0584}
+2022-03-09 23:35:19,539; Start calc f(x): {'x': 0.5246, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,540; f(x) calculated, atomic increase acc: {'f(x)': 0.8655, 'cur acc': 0.0584}
+2022-03-09 23:35:19,543; Start calc f(x): {'x': 0.5262, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,543; f(x) calculated, atomic increase acc: {'f(x)': 0.8647, 'cur acc': 0.0599}
+2022-03-09 23:35:19,551; Start calc f(x): {'x': 0.5278, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,551; f(x) calculated, atomic increase acc: {'f(x)': 0.8639, 'cur acc': 0.063}
+2022-03-09 23:35:19,560; Start calc f(x): {'x': 0.5294, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,560; f(x) calculated, atomic increase acc: {'f(x)': 0.8631, 'cur acc': 0.0677}
+2022-03-09 23:35:19,561; Start calc f(x): {'x': 0.5309, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,562; f(x) calculated, atomic increase acc: {'f(x)': 0.8623, 'cur acc': 0.0599}
+2022-03-09 23:35:19,563; Start calc f(x): {'x': 0.5325, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,564; f(x) calculated, atomic increase acc: {'f(x)': 0.8615, 'cur acc': 0.0693}
+2022-03-09 23:35:19,569; Start calc f(x): {'x': 0.5341, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,570; Start calc f(x): {'x': 0.5356, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,571; f(x) calculated, atomic increase acc: {'f(x)': 0.8607, 'cur acc': 0.0629}
+2022-03-09 23:35:19,572; f(x) calculated, atomic increase acc: {'f(x)': 0.8599, 'cur acc': 0.0598}
+2022-03-09 23:35:19,572; Start calc f(x): {'x': 0.5372, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,573; f(x) calculated, atomic increase acc: {'f(x)': 0.8591, 'cur acc': 0.0598}
+2022-03-09 23:35:19,576; Start calc f(x): {'x': 0.5388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,577; f(x) calculated, atomic increase acc: {'f(x)': 0.8583, 'cur acc': 0.0613}
+2022-03-09 23:35:19,581; Start calc f(x): {'x': 0.5404, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,581; f(x) calculated, atomic increase acc: {'f(x)': 0.8575, 'cur acc': 0.0644}
+2022-03-09 23:35:19,584; Start calc f(x): {'x': 0.5435, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,585; Start calc f(x): {'x': 0.5419, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,586; f(x) calculated, atomic increase acc: {'f(x)': 0.8559, 'cur acc': 0.0613}
+2022-03-09 23:35:19,587; f(x) calculated, atomic increase acc: {'f(x)': 0.8567, 'cur acc': 0.0691}
+2022-03-09 23:35:19,588; Start calc f(x): {'x': 0.5451, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,588; Start calc f(x): {'x': 0.5466, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,590; Start calc f(x): {'x': 0.5482, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,591; f(x) calculated, atomic increase acc: {'f(x)': 0.8551, 'cur acc': 0.0706}
+2022-03-09 23:35:19,593; f(x) calculated, atomic increase acc: {'f(x)': 0.8543, 'cur acc': 0.0643}
+2022-03-09 23:35:19,594; f(x) calculated, atomic increase acc: {'f(x)': 0.8535, 'cur acc': 0.0611}
+2022-03-09 23:35:19,594; Start calc f(x): {'x': 0.5498, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,595; Start calc f(x): {'x': 0.5513, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,596; f(x) calculated, atomic increase acc: {'f(x)': 0.8526, 'cur acc': 0.0611}
+2022-03-09 23:35:19,597; f(x) calculated, atomic increase acc: {'f(x)': 0.8518, 'cur acc': 0.0626}
+2022-03-09 23:35:19,599; Start calc f(x): {'x': 0.5529, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,600; f(x) calculated, atomic increase acc: {'f(x)': 0.851, 'cur acc': 0.0657}
+2022-03-09 23:35:19,601; Start calc f(x): {'x': 0.5545, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,602; f(x) calculated, atomic increase acc: {'f(x)': 0.8502, 'cur acc': 0.0704}
+2022-03-09 23:35:19,603; Start calc f(x): {'x': 0.5561, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,605; f(x) calculated, atomic increase acc: {'f(x)': 0.8493, 'cur acc': 0.0626}
+2022-03-09 23:35:19,625; Start calc f(x): {'x': 0.5576, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,628; f(x) calculated, atomic increase acc: {'f(x)': 0.8485, 'cur acc': 0.072}
+2022-03-09 23:35:19,633; Start calc f(x): {'x': 0.5592, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,634; Start calc f(x): {'x': 0.5608, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,636; f(x) calculated, atomic increase acc: {'f(x)': 0.8477, 'cur acc': 0.0656}
+2022-03-09 23:35:19,642; f(x) calculated, atomic increase acc: {'f(x)': 0.8468, 'cur acc': 0.0625}
+2022-03-09 23:35:19,643; Start calc f(x): {'x': 0.5623, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,644; f(x) calculated, atomic increase acc: {'f(x)': 0.846, 'cur acc': 0.0624}
+2022-03-09 23:35:19,651; Start calc f(x): {'x': 0.5639, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,653; f(x) calculated, atomic increase acc: {'f(x)': 0.8452, 'cur acc': 0.064}
+2022-03-09 23:35:19,660; Start calc f(x): {'x': 0.5655, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,660; f(x) calculated, atomic increase acc: {'f(x)': 0.8443, 'cur acc': 0.0671}
+2022-03-09 23:35:19,663; Start calc f(x): {'x': 0.5671, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,664; f(x) calculated, atomic increase acc: {'f(x)': 0.8435, 'cur acc': 0.0717}
+2022-03-09 23:35:19,667; Start calc f(x): {'x': 0.5686, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,668; f(x) calculated, atomic increase acc: {'f(x)': 0.8426, 'cur acc': 0.064}
+2022-03-09 23:35:19,676; Start calc f(x): {'x': 0.5702, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,677; f(x) calculated, atomic increase acc: {'f(x)': 0.8418, 'cur acc': 0.0733}
+2022-03-09 23:35:19,680; Start calc f(x): {'x': 0.5718, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,681; f(x) calculated, atomic increase acc: {'f(x)': 0.8409, 'cur acc': 0.067}
+2022-03-09 23:35:19,682; Start calc f(x): {'x': 0.5733, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,686; f(x) calculated, atomic increase acc: {'f(x)': 0.8401, 'cur acc': 0.0638}
+2022-03-09 23:35:19,689; Start calc f(x): {'x': 0.5749, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,690; f(x) calculated, atomic increase acc: {'f(x)': 0.8392, 'cur acc': 0.0638}
+2022-03-09 23:35:19,695; Start calc f(x): {'x': 0.5765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,697; f(x) calculated, atomic increase acc: {'f(x)': 0.8384, 'cur acc': 0.0653}
+2022-03-09 23:35:19,703; Start calc f(x): {'x': 0.5781, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,704; f(x) calculated, atomic increase acc: {'f(x)': 0.8375, 'cur acc': 0.0684}
+2022-03-09 23:35:19,705; Start calc f(x): {'x': 0.5796, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,705; f(x) calculated, atomic increase acc: {'f(x)': 0.8367, 'cur acc': 0.0731}
+2022-03-09 23:35:19,706; Start calc f(x): {'x': 0.5812, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,707; f(x) calculated, atomic increase acc: {'f(x)': 0.8358, 'cur acc': 0.0653}
+2022-03-09 23:35:19,717; Start calc f(x): {'x': 0.5828, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,718; Start calc f(x): {'x': 0.5843, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,719; f(x) calculated, atomic increase acc: {'f(x)': 0.8349, 'cur acc': 0.0746}
+2022-03-09 23:35:19,720; Start calc f(x): {'x': 0.5859, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,721; f(x) calculated, atomic increase acc: {'f(x)': 0.8341, 'cur acc': 0.0683}
+2022-03-09 23:35:19,722; f(x) calculated, atomic increase acc: {'f(x)': 0.8332, 'cur acc': 0.0651}
+2022-03-09 23:35:19,722; Start calc f(x): {'x': 0.5875, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,723; f(x) calculated, atomic increase acc: {'f(x)': 0.8323, 'cur acc': 0.0651}
+2022-03-09 23:35:19,726; Start calc f(x): {'x': 0.589, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,727; f(x) calculated, atomic increase acc: {'f(x)': 0.8315, 'cur acc': 0.0666}
+2022-03-09 23:35:19,733; Start calc f(x): {'x': 0.5906, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,736; f(x) calculated, atomic increase acc: {'f(x)': 0.8306, 'cur acc': 0.0697}
+2022-03-09 23:35:19,747; Start calc f(x): {'x': 0.5938, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,748; f(x) calculated, atomic increase acc: {'f(x)': 0.8288, 'cur acc': 0.0666}
+2022-03-09 23:35:19,750; Start calc f(x): {'x': 0.5922, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,751; f(x) calculated, atomic increase acc: {'f(x)': 0.8297, 'cur acc': 0.0744}
+2022-03-09 23:35:19,761; Start calc f(x): {'x': 0.5953, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,762; Start calc f(x): {'x': 0.5969, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,763; f(x) calculated, atomic increase acc: {'f(x)': 0.828, 'cur acc': 0.0759}
+2022-03-09 23:35:19,763; Start calc f(x): {'x': 0.5985, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,764; Start calc f(x): {'x': 0.6, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,765; f(x) calculated, atomic increase acc: {'f(x)': 0.8271, 'cur acc': 0.0696}
+2022-03-09 23:35:19,766; f(x) calculated, atomic increase acc: {'f(x)': 0.8262, 'cur acc': 0.0664}
+2022-03-09 23:35:19,767; Start calc f(x): {'x': 0.6016, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,768; f(x) calculated, atomic increase acc: {'f(x)': 0.8253, 'cur acc': 0.0664}
+2022-03-09 23:35:19,769; Start calc f(x): {'x': 0.6032, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,769; Start calc f(x): {'x': 0.6048, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,771; f(x) calculated, atomic increase acc: {'f(x)': 0.8244, 'cur acc': 0.0679}
+2022-03-09 23:35:19,771; Start calc f(x): {'x': 0.6063, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,772; f(x) calculated, atomic increase acc: {'f(x)': 0.8235, 'cur acc': 0.0679}
+2022-03-09 23:35:19,773; f(x) calculated, atomic increase acc: {'f(x)': 0.8226, 'cur acc': 0.071}
+2022-03-09 23:35:19,774; f(x) calculated, atomic increase acc: {'f(x)': 0.8217, 'cur acc': 0.0757}
+2022-03-09 23:35:19,777; Start calc f(x): {'x': 0.6079, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,779; f(x) calculated, atomic increase acc: {'f(x)': 0.8209, 'cur acc': 0.0772}
+2022-03-09 23:35:19,781; Start calc f(x): {'x': 0.6095, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,782; Start calc f(x): {'x': 0.611, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,783; f(x) calculated, atomic increase acc: {'f(x)': 0.82, 'cur acc': 0.0709}
+2022-03-09 23:35:19,783; f(x) calculated, atomic increase acc: {'f(x)': 0.8191, 'cur acc': 0.0677}
+2022-03-09 23:35:19,786; Start calc f(x): {'x': 0.6126, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,787; f(x) calculated, atomic increase acc: {'f(x)': 0.8181, 'cur acc': 0.0677}
+2022-03-09 23:35:19,788; Start calc f(x): {'x': 0.6142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,789; Start calc f(x): {'x': 0.6158, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,789; f(x) calculated, atomic increase acc: {'f(x)': 0.8172, 'cur acc': 0.0692}
+2022-03-09 23:35:19,790; f(x) calculated, atomic increase acc: {'f(x)': 0.8163, 'cur acc': 0.0692}
+2022-03-09 23:35:19,791; Start calc f(x): {'x': 0.6173, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,792; f(x) calculated, atomic increase acc: {'f(x)': 0.8154, 'cur acc': 0.0723}
+2022-03-09 23:35:19,793; Start calc f(x): {'x': 0.6189, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,794; f(x) calculated, atomic increase acc: {'f(x)': 0.8145, 'cur acc': 0.077}
+2022-03-09 23:35:19,797; Start calc f(x): {'x': 0.6205, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,798; f(x) calculated, atomic increase acc: {'f(x)': 0.8136, 'cur acc': 0.0785}
+2022-03-09 23:35:19,799; Start calc f(x): {'x': 0.622, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,800; f(x) calculated, atomic increase acc: {'f(x)': 0.8127, 'cur acc': 0.0722}
+2022-03-09 23:35:19,801; Start calc f(x): {'x': 0.6236, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,802; f(x) calculated, atomic increase acc: {'f(x)': 0.8118, 'cur acc': 0.069}
+2022-03-09 23:35:19,805; Start calc f(x): {'x': 0.6252, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,805; f(x) calculated, atomic increase acc: {'f(x)': 0.8109, 'cur acc': 0.069}
+2022-03-09 23:35:19,807; Start calc f(x): {'x': 0.6267, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,809; Start calc f(x): {'x': 0.6283, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,810; f(x) calculated, atomic increase acc: {'f(x)': 0.8099, 'cur acc': 0.0705}
+2022-03-09 23:35:19,811; f(x) calculated, atomic increase acc: {'f(x)': 0.809, 'cur acc': 0.0705}
+2022-03-09 23:35:19,812; Start calc f(x): {'x': 0.6299, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,814; Start calc f(x): {'x': 0.6315, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,815; f(x) calculated, atomic increase acc: {'f(x)': 0.8081, 'cur acc': 0.0736}
+2022-03-09 23:35:19,816; f(x) calculated, atomic increase acc: {'f(x)': 0.8072, 'cur acc': 0.0783}
+2022-03-09 23:35:19,817; Start calc f(x): {'x': 0.633, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,818; f(x) calculated, atomic increase acc: {'f(x)': 0.8062, 'cur acc': 0.0798}
+2022-03-09 23:35:19,819; Start calc f(x): {'x': 0.6346, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,821; f(x) calculated, atomic increase acc: {'f(x)': 0.8053, 'cur acc': 0.0735}
+2022-03-09 23:35:19,822; Start calc f(x): {'x': 0.6362, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,822; f(x) calculated, atomic increase acc: {'f(x)': 0.8044, 'cur acc': 0.0703}
+2022-03-09 23:35:19,826; Start calc f(x): {'x': 0.6377, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,827; f(x) calculated, atomic increase acc: {'f(x)': 0.8034, 'cur acc': 0.0703}
+2022-03-09 23:35:19,829; Start calc f(x): {'x': 0.6393, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,829; f(x) calculated, atomic increase acc: {'f(x)': 0.8025, 'cur acc': 0.0718}
+2022-03-09 23:35:19,831; Start calc f(x): {'x': 0.6409, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,832; f(x) calculated, atomic increase acc: {'f(x)': 0.8016, 'cur acc': 0.0717}
+2022-03-09 23:35:19,836; Start calc f(x): {'x': 0.6425, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,837; f(x) calculated, atomic increase acc: {'f(x)': 0.8006, 'cur acc': 0.0749}
+2022-03-09 23:35:19,841; Start calc f(x): {'x': 0.644, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,842; Start calc f(x): {'x': 0.6456, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,843; f(x) calculated, atomic increase acc: {'f(x)': 0.7997, 'cur acc': 0.0795}
+2022-03-09 23:35:19,843; Start calc f(x): {'x': 0.6472, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,844; f(x) calculated, atomic increase acc: {'f(x)': 0.7987, 'cur acc': 0.0811}
+2022-03-09 23:35:19,845; f(x) calculated, atomic increase acc: {'f(x)': 0.7978, 'cur acc': 0.0747}
+2022-03-09 23:35:19,846; Start calc f(x): {'x': 0.6487, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,847; f(x) calculated, atomic increase acc: {'f(x)': 0.7968, 'cur acc': 0.0716}
+2022-03-09 23:35:19,849; Start calc f(x): {'x': 0.6503, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,850; Start calc f(x): {'x': 0.6519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,850; f(x) calculated, atomic increase acc: {'f(x)': 0.7959, 'cur acc': 0.0715}
+2022-03-09 23:35:19,851; f(x) calculated, atomic increase acc: {'f(x)': 0.7949, 'cur acc': 0.073}
+2022-03-09 23:35:19,853; Start calc f(x): {'x': 0.6535, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,854; f(x) calculated, atomic increase acc: {'f(x)': 0.794, 'cur acc': 0.073}
+2022-03-09 23:35:19,855; Start calc f(x): {'x': 0.655, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,857; f(x) calculated, atomic increase acc: {'f(x)': 0.793, 'cur acc': 0.0761}
+2022-03-09 23:35:19,861; Start calc f(x): {'x': 0.6566, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,862; f(x) calculated, atomic increase acc: {'f(x)': 0.7921, 'cur acc': 0.0808}
+2022-03-09 23:35:19,863; Start calc f(x): {'x': 0.6582, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,863; f(x) calculated, atomic increase acc: {'f(x)': 0.7911, 'cur acc': 0.0823}
+2022-03-09 23:35:19,865; Start calc f(x): {'x': 0.6597, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,865; f(x) calculated, atomic increase acc: {'f(x)': 0.7902, 'cur acc': 0.076}
+2022-03-09 23:35:19,866; Start calc f(x): {'x': 0.6613, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,867; f(x) calculated, atomic increase acc: {'f(x)': 0.7892, 'cur acc': 0.0728}
+2022-03-09 23:35:19,868; Start calc f(x): {'x': 0.6629, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,869; f(x) calculated, atomic increase acc: {'f(x)': 0.7882, 'cur acc': 0.0728}
+2022-03-09 23:35:19,871; Start calc f(x): {'x': 0.6644, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,872; f(x) calculated, atomic increase acc: {'f(x)': 0.7873, 'cur acc': 0.0743}
+2022-03-09 23:35:19,873; Start calc f(x): {'x': 0.666, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,874; f(x) calculated, atomic increase acc: {'f(x)': 0.7863, 'cur acc': 0.0742}
+2022-03-09 23:35:19,876; Start calc f(x): {'x': 0.6676, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,876; f(x) calculated, atomic increase acc: {'f(x)': 0.7853, 'cur acc': 0.0774}
+2022-03-09 23:35:19,881; Start calc f(x): {'x': 0.6692, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,882; Start calc f(x): {'x': 0.6707, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,883; f(x) calculated, atomic increase acc: {'f(x)': 0.7843, 'cur acc': 0.082}
+2022-03-09 23:35:19,883; f(x) calculated, atomic increase acc: {'f(x)': 0.7834, 'cur acc': 0.0836}
+2022-03-09 23:35:19,884; Start calc f(x): {'x': 0.6723, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,886; f(x) calculated, atomic increase acc: {'f(x)': 0.7824, 'cur acc': 0.0772}
+2022-03-09 23:35:19,887; Start calc f(x): {'x': 0.6739, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,887; f(x) calculated, atomic increase acc: {'f(x)': 0.7814, 'cur acc': 0.0741}
+2022-03-09 23:35:19,888; Start calc f(x): {'x': 0.6754, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,889; f(x) calculated, atomic increase acc: {'f(x)': 0.7804, 'cur acc': 0.074}
+2022-03-09 23:35:19,891; Start calc f(x): {'x': 0.677, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,892; f(x) calculated, atomic increase acc: {'f(x)': 0.7794, 'cur acc': 0.0755}
+2022-03-09 23:35:19,894; Start calc f(x): {'x': 0.6786, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,895; Start calc f(x): {'x': 0.6802, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,896; f(x) calculated, atomic increase acc: {'f(x)': 0.7785, 'cur acc': 0.0755}
+2022-03-09 23:35:19,897; f(x) calculated, atomic increase acc: {'f(x)': 0.7775, 'cur acc': 0.0786}
+2022-03-09 23:35:19,900; Start calc f(x): {'x': 0.6817, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,900; Start calc f(x): {'x': 0.6833, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,901; f(x) calculated, atomic increase acc: {'f(x)': 0.7765, 'cur acc': 0.0833}
+2022-03-09 23:35:19,902; f(x) calculated, atomic increase acc: {'f(x)': 0.7755, 'cur acc': 0.0848}
+2022-03-09 23:35:19,903; Start calc f(x): {'x': 0.6849, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,904; f(x) calculated, atomic increase acc: {'f(x)': 0.7745, 'cur acc': 0.0785}
+2022-03-09 23:35:19,906; Start calc f(x): {'x': 0.6864, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,906; f(x) calculated, atomic increase acc: {'f(x)': 0.7735, 'cur acc': 0.0753}
+2022-03-09 23:35:19,908; Start calc f(x): {'x': 0.688, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,908; f(x) calculated, atomic increase acc: {'f(x)': 0.7725, 'cur acc': 0.0752}
+2022-03-09 23:35:19,910; Start calc f(x): {'x': 0.6896, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,911; f(x) calculated, atomic increase acc: {'f(x)': 0.7715, 'cur acc': 0.0768}
+2022-03-09 23:35:19,913; Start calc f(x): {'x': 0.6912, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,914; f(x) calculated, atomic increase acc: {'f(x)': 0.7705, 'cur acc': 0.0767}
+2022-03-09 23:35:19,917; Start calc f(x): {'x': 0.6927, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,918; f(x) calculated, atomic increase acc: {'f(x)': 0.7695, 'cur acc': 0.0798}
+2022-03-09 23:35:19,919; Start calc f(x): {'x': 0.6943, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,920; f(x) calculated, atomic increase acc: {'f(x)': 0.7685, 'cur acc': 0.0845}
+2022-03-09 23:35:19,921; Start calc f(x): {'x': 0.6959, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,922; f(x) calculated, atomic increase acc: {'f(x)': 0.7675, 'cur acc': 0.086}
+2022-03-09 23:35:19,922; Start calc f(x): {'x': 0.6974, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,923; f(x) calculated, atomic increase acc: {'f(x)': 0.7665, 'cur acc': 0.0797}
+2022-03-09 23:35:19,924; Start calc f(x): {'x': 0.699, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,925; f(x) calculated, atomic increase acc: {'f(x)': 0.7655, 'cur acc': 0.0765}
+2022-03-09 23:35:19,926; Start calc f(x): {'x': 0.7006, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,927; f(x) calculated, atomic increase acc: {'f(x)': 0.7645, 'cur acc': 0.0764}
+2022-03-09 23:35:19,929; Start calc f(x): {'x': 0.7021, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,930; f(x) calculated, atomic increase acc: {'f(x)': 0.7635, 'cur acc': 0.078}
+2022-03-09 23:35:19,932; Start calc f(x): {'x': 0.7037, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,932; f(x) calculated, atomic increase acc: {'f(x)': 0.7624, 'cur acc': 0.0779}
+2022-03-09 23:35:19,937; Start calc f(x): {'x': 0.7053, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,938; f(x) calculated, atomic increase acc: {'f(x)': 0.7614, 'cur acc': 0.081}
+2022-03-09 23:35:19,940; Start calc f(x): {'x': 0.7069, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,941; f(x) calculated, atomic increase acc: {'f(x)': 0.7604, 'cur acc': 0.0857}
+2022-03-09 23:35:19,948; Start calc f(x): {'x': 0.7084, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,948; f(x) calculated, atomic increase acc: {'f(x)': 0.7594, 'cur acc': 0.0872}
+2022-03-09 23:35:19,952; Start calc f(x): {'x': 0.71, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,953; f(x) calculated, atomic increase acc: {'f(x)': 0.7584, 'cur acc': 0.0809}
+2022-03-09 23:35:19,953; Start calc f(x): {'x': 0.7116, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,954; f(x) calculated, atomic increase acc: {'f(x)': 0.7573, 'cur acc': 0.0777}
+2022-03-09 23:35:19,956; Start calc f(x): {'x': 0.7131, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,958; f(x) calculated, atomic increase acc: {'f(x)': 0.7563, 'cur acc': 0.0776}
+2022-03-09 23:35:19,959; Start calc f(x): {'x': 0.7147, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,960; f(x) calculated, atomic increase acc: {'f(x)': 0.7553, 'cur acc': 0.0792}
+2022-03-09 23:35:19,962; Start calc f(x): {'x': 0.7163, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,963; f(x) calculated, atomic increase acc: {'f(x)': 0.7543, 'cur acc': 0.0791}
+2022-03-09 23:35:19,967; Start calc f(x): {'x': 0.7179, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,968; f(x) calculated, atomic increase acc: {'f(x)': 0.7532, 'cur acc': 0.0822}
+2022-03-09 23:35:19,971; Start calc f(x): {'x': 0.7194, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,971; f(x) calculated, atomic increase acc: {'f(x)': 0.7522, 'cur acc': 0.0869}
+2022-03-09 23:35:19,972; Start calc f(x): {'x': 0.721, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,972; f(x) calculated, atomic increase acc: {'f(x)': 0.7511, 'cur acc': 0.0884}
+2022-03-09 23:35:19,973; Start calc f(x): {'x': 0.7226, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,974; f(x) calculated, atomic increase acc: {'f(x)': 0.7501, 'cur acc': 0.0821}
+2022-03-09 23:35:19,975; Start calc f(x): {'x': 0.7241, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,976; f(x) calculated, atomic increase acc: {'f(x)': 0.7491, 'cur acc': 0.0789}
+2022-03-09 23:35:19,977; Start calc f(x): {'x': 0.7257, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,978; f(x) calculated, atomic increase acc: {'f(x)': 0.748, 'cur acc': 0.0788}
+2022-03-09 23:35:19,980; Start calc f(x): {'x': 0.7273, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,981; f(x) calculated, atomic increase acc: {'f(x)': 0.747, 'cur acc': 0.0804}
+2022-03-09 23:35:19,985; Start calc f(x): {'x': 0.7288, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,986; f(x) calculated, atomic increase acc: {'f(x)': 0.7459, 'cur acc': 0.0803}
+2022-03-09 23:35:19,988; Start calc f(x): {'x': 0.7304, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,988; f(x) calculated, atomic increase acc: {'f(x)': 0.7449, 'cur acc': 0.0834}
+2022-03-09 23:35:19,989; Start calc f(x): {'x': 0.732, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,990; f(x) calculated, atomic increase acc: {'f(x)': 0.7438, 'cur acc': 0.0881}
+2022-03-09 23:35:19,991; Start calc f(x): {'x': 0.7336, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,992; f(x) calculated, atomic increase acc: {'f(x)': 0.7428, 'cur acc': 0.0896}
+2022-03-09 23:35:19,994; Start calc f(x): {'x': 0.7351, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,994; f(x) calculated, atomic increase acc: {'f(x)': 0.7417, 'cur acc': 0.0832}
+2022-03-09 23:35:19,996; Start calc f(x): {'x': 0.7367, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,997; f(x) calculated, atomic increase acc: {'f(x)': 0.7407, 'cur acc': 0.0801}
+2022-03-09 23:35:19,997; Start calc f(x): {'x': 0.7383, 'step': 0.0015707963267948967}
+2022-03-09 23:35:19,998; f(x) calculated, atomic increase acc: {'f(x)': 0.7396, 'cur acc': 0.08}
+2022-03-09 23:35:20,002; Start calc f(x): {'x': 0.7398, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,003; f(x) calculated, atomic increase acc: {'f(x)': 0.7386, 'cur acc': 0.0815}
+2022-03-09 23:35:20,008; Start calc f(x): {'x': 0.7414, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,010; f(x) calculated, atomic increase acc: {'f(x)': 0.7375, 'cur acc': 0.0815}
+2022-03-09 23:35:20,011; Start calc f(x): {'x': 0.743, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,011; f(x) calculated, atomic increase acc: {'f(x)': 0.7365, 'cur acc': 0.0846}
+2022-03-09 23:35:20,015; Start calc f(x): {'x': 0.7446, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,016; f(x) calculated, atomic increase acc: {'f(x)': 0.7354, 'cur acc': 0.0892}
+2022-03-09 23:35:20,017; Start calc f(x): {'x': 0.7461, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,018; f(x) calculated, atomic increase acc: {'f(x)': 0.7343, 'cur acc': 0.0908}
+2022-03-09 23:35:20,018; Start calc f(x): {'x': 0.7477, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,019; f(x) calculated, atomic increase acc: {'f(x)': 0.7333, 'cur acc': 0.0844}
+2022-03-09 23:35:20,023; Start calc f(x): {'x': 0.7493, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,026; f(x) calculated, atomic increase acc: {'f(x)': 0.7322, 'cur acc': 0.0812}
+2022-03-09 23:35:20,028; Start calc f(x): {'x': 0.7508, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,029; f(x) calculated, atomic increase acc: {'f(x)': 0.7311, 'cur acc': 0.0812}
+2022-03-09 23:35:20,034; Start calc f(x): {'x': 0.7524, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,035; f(x) calculated, atomic increase acc: {'f(x)': 0.73, 'cur acc': 0.0827}
+2022-03-09 23:35:20,039; Start calc f(x): {'x': 0.754, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,039; f(x) calculated, atomic increase acc: {'f(x)': 0.729, 'cur acc': 0.0826}
+2022-03-09 23:35:20,040; Start calc f(x): {'x': 0.7556, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,041; f(x) calculated, atomic increase acc: {'f(x)': 0.7279, 'cur acc': 0.0857}
+2022-03-09 23:35:20,042; Start calc f(x): {'x': 0.7571, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,042; f(x) calculated, atomic increase acc: {'f(x)': 0.7268, 'cur acc': 0.0904}
+2022-03-09 23:35:20,043; Start calc f(x): {'x': 0.7587, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,044; f(x) calculated, atomic increase acc: {'f(x)': 0.7257, 'cur acc': 0.0919}
+2022-03-09 23:35:20,045; Start calc f(x): {'x': 0.7603, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,046; Start calc f(x): {'x': 0.7618, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,047; f(x) calculated, atomic increase acc: {'f(x)': 0.7247, 'cur acc': 0.0856}
+2022-03-09 23:35:20,047; f(x) calculated, atomic increase acc: {'f(x)': 0.7236, 'cur acc': 0.0824}
+2022-03-09 23:35:20,049; Start calc f(x): {'x': 0.7634, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,052; f(x) calculated, atomic increase acc: {'f(x)': 0.7225, 'cur acc': 0.0823}
+2022-03-09 23:35:20,055; Start calc f(x): {'x': 0.765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,055; f(x) calculated, atomic increase acc: {'f(x)': 0.7214, 'cur acc': 0.0838}
+2022-03-09 23:35:20,060; Start calc f(x): {'x': 0.7665, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,061; f(x) calculated, atomic increase acc: {'f(x)': 0.7203, 'cur acc': 0.0838}
+2022-03-09 23:35:20,062; Start calc f(x): {'x': 0.7681, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,063; f(x) calculated, atomic increase acc: {'f(x)': 0.7192, 'cur acc': 0.0869}
+2022-03-09 23:35:20,064; Start calc f(x): {'x': 0.7697, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,065; f(x) calculated, atomic increase acc: {'f(x)': 0.7181, 'cur acc': 0.0915}
+2022-03-09 23:35:20,066; Start calc f(x): {'x': 0.7713, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,067; Start calc f(x): {'x': 0.7728, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,068; f(x) calculated, atomic increase acc: {'f(x)': 0.717, 'cur acc': 0.093}
+2022-03-09 23:35:20,069; f(x) calculated, atomic increase acc: {'f(x)': 0.7159, 'cur acc': 0.0867}
+2022-03-09 23:35:20,070; Start calc f(x): {'x': 0.7744, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,070; Start calc f(x): {'x': 0.776, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,071; f(x) calculated, atomic increase acc: {'f(x)': 0.7148, 'cur acc': 0.0835}
+2022-03-09 23:35:20,072; f(x) calculated, atomic increase acc: {'f(x)': 0.7137, 'cur acc': 0.0835}
+2022-03-09 23:35:20,073; Start calc f(x): {'x': 0.7775, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,074; f(x) calculated, atomic increase acc: {'f(x)': 0.7126, 'cur acc': 0.085}
+2022-03-09 23:35:20,078; Start calc f(x): {'x': 0.7791, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,078; f(x) calculated, atomic increase acc: {'f(x)': 0.7115, 'cur acc': 0.0849}
+2022-03-09 23:35:20,081; Start calc f(x): {'x': 0.7807, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,082; f(x) calculated, atomic increase acc: {'f(x)': 0.7104, 'cur acc': 0.088}
+2022-03-09 23:35:20,082; Start calc f(x): {'x': 0.7823, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,083; f(x) calculated, atomic increase acc: {'f(x)': 0.7093, 'cur acc': 0.0927}
+2022-03-09 23:35:20,086; Start calc f(x): {'x': 0.7838, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,087; f(x) calculated, atomic increase acc: {'f(x)': 0.7082, 'cur acc': 0.0942}
+2022-03-09 23:35:20,087; Start calc f(x): {'x': 0.7854, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,088; f(x) calculated, atomic increase acc: {'f(x)': 0.7071, 'cur acc': 0.0878}
+2022-03-09 23:35:20,089; Start calc f(x): {'x': 0.787, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,090; f(x) calculated, atomic increase acc: {'f(x)': 0.706, 'cur acc': 0.0846}
+2022-03-09 23:35:20,090; Start calc f(x): {'x': 0.7885, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,092; f(x) calculated, atomic increase acc: {'f(x)': 0.7049, 'cur acc': 0.0846}
+2022-03-09 23:35:20,093; Start calc f(x): {'x': 0.7901, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,094; f(x) calculated, atomic increase acc: {'f(x)': 0.7038, 'cur acc': 0.0861}
+2022-03-09 23:35:20,099; Start calc f(x): {'x': 0.7917, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,100; f(x) calculated, atomic increase acc: {'f(x)': 0.7026, 'cur acc': 0.086}
+2022-03-09 23:35:20,101; Start calc f(x): {'x': 0.7933, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,102; f(x) calculated, atomic increase acc: {'f(x)': 0.7015, 'cur acc': 0.0891}
+2022-03-09 23:35:20,105; Start calc f(x): {'x': 0.7948, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,106; Start calc f(x): {'x': 0.7964, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,107; f(x) calculated, atomic increase acc: {'f(x)': 0.7004, 'cur acc': 0.0938}
+2022-03-09 23:35:20,108; f(x) calculated, atomic increase acc: {'f(x)': 0.6993, 'cur acc': 0.0953}
+2022-03-09 23:35:20,109; Start calc f(x): {'x': 0.798, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,109; f(x) calculated, atomic increase acc: {'f(x)': 0.6982, 'cur acc': 0.0889}
+2022-03-09 23:35:20,110; Start calc f(x): {'x': 0.7995, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,111; Start calc f(x): {'x': 0.8027, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,111; f(x) calculated, atomic increase acc: {'f(x)': 0.697, 'cur acc': 0.0858}
+2022-03-09 23:35:20,112; f(x) calculated, atomic increase acc: {'f(x)': 0.6948, 'cur acc': 0.0872}
+2022-03-09 23:35:20,113; Start calc f(x): {'x': 0.8011, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,114; f(x) calculated, atomic increase acc: {'f(x)': 0.6959, 'cur acc': 0.0857}
+2022-03-09 23:35:20,119; Start calc f(x): {'x': 0.8042, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,120; f(x) calculated, atomic increase acc: {'f(x)': 0.6937, 'cur acc': 0.0871}
+2022-03-09 23:35:20,121; Start calc f(x): {'x': 0.8058, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,122; f(x) calculated, atomic increase acc: {'f(x)': 0.6925, 'cur acc': 0.0902}
+2022-03-09 23:35:20,124; Start calc f(x): {'x': 0.8074, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,124; f(x) calculated, atomic increase acc: {'f(x)': 0.6914, 'cur acc': 0.0949}
+2022-03-09 23:35:20,126; Start calc f(x): {'x': 0.809, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,127; Start calc f(x): {'x': 0.8105, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,128; f(x) calculated, atomic increase acc: {'f(x)': 0.6903, 'cur acc': 0.0964}
+2022-03-09 23:35:20,128; f(x) calculated, atomic increase acc: {'f(x)': 0.6891, 'cur acc': 0.09}
+2022-03-09 23:35:20,129; Start calc f(x): {'x': 0.8121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,130; Start calc f(x): {'x': 0.8137, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,131; Start calc f(x): {'x': 0.8152, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,132; f(x) calculated, atomic increase acc: {'f(x)': 0.688, 'cur acc': 0.0869}
+2022-03-09 23:35:20,133; f(x) calculated, atomic increase acc: {'f(x)': 0.6868, 'cur acc': 0.0883}
+2022-03-09 23:35:20,135; f(x) calculated, atomic increase acc: {'f(x)': 0.6857, 'cur acc': 0.0868}
+2022-03-09 23:35:20,137; Start calc f(x): {'x': 0.8168, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,137; f(x) calculated, atomic increase acc: {'f(x)': 0.6845, 'cur acc': 0.0882}
+2022-03-09 23:35:20,139; Start calc f(x): {'x': 0.8184, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,140; f(x) calculated, atomic increase acc: {'f(x)': 0.6834, 'cur acc': 0.0913}
+2022-03-09 23:35:20,144; Start calc f(x): {'x': 0.82, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,145; f(x) calculated, atomic increase acc: {'f(x)': 0.6823, 'cur acc': 0.096}
+2022-03-09 23:35:20,145; Start calc f(x): {'x': 0.8215, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,146; f(x) calculated, atomic increase acc: {'f(x)': 0.6811, 'cur acc': 0.0975}
+2022-03-09 23:35:20,147; Start calc f(x): {'x': 0.8231, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,148; f(x) calculated, atomic increase acc: {'f(x)': 0.68, 'cur acc': 0.0911}
+2022-03-09 23:35:20,151; Start calc f(x): {'x': 0.8247, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,151; f(x) calculated, atomic increase acc: {'f(x)': 0.6788, 'cur acc': 0.0879}
+2022-03-09 23:35:20,154; Start calc f(x): {'x': 0.8262, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,155; f(x) calculated, atomic increase acc: {'f(x)': 0.6776, 'cur acc': 0.0894}
+2022-03-09 23:35:20,156; Start calc f(x): {'x': 0.8278, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,157; Start calc f(x): {'x': 0.8294, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,158; f(x) calculated, atomic increase acc: {'f(x)': 0.6765, 'cur acc': 0.0879}
+2022-03-09 23:35:20,159; f(x) calculated, atomic increase acc: {'f(x)': 0.6753, 'cur acc': 0.0893}
+2022-03-09 23:35:20,162; Start calc f(x): {'x': 0.831, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,163; f(x) calculated, atomic increase acc: {'f(x)': 0.6742, 'cur acc': 0.0924}
+2022-03-09 23:35:20,166; Start calc f(x): {'x': 0.8341, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,166; Start calc f(x): {'x': 0.8325, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,167; f(x) calculated, atomic increase acc: {'f(x)': 0.6718, 'cur acc': 0.0985}
+2022-03-09 23:35:20,167; f(x) calculated, atomic increase acc: {'f(x)': 0.673, 'cur acc': 0.097}
+2022-03-09 23:35:20,168; Start calc f(x): {'x': 0.8357, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,170; f(x) calculated, atomic increase acc: {'f(x)': 0.6707, 'cur acc': 0.0922}
+2022-03-09 23:35:20,171; Start calc f(x): {'x': 0.8372, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,172; f(x) calculated, atomic increase acc: {'f(x)': 0.6695, 'cur acc': 0.089}
+2022-03-09 23:35:20,173; Start calc f(x): {'x': 0.8388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,174; f(x) calculated, atomic increase acc: {'f(x)': 0.6684, 'cur acc': 0.0904}
+2022-03-09 23:35:20,178; Start calc f(x): {'x': 0.8404, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,178; Start calc f(x): {'x': 0.8419, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,179; f(x) calculated, atomic increase acc: {'f(x)': 0.6672, 'cur acc': 0.0889}
+2022-03-09 23:35:20,180; f(x) calculated, atomic increase acc: {'f(x)': 0.666, 'cur acc': 0.0904}
+2022-03-09 23:35:20,181; Start calc f(x): {'x': 0.8435, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,181; f(x) calculated, atomic increase acc: {'f(x)': 0.6648, 'cur acc': 0.0935}
+2022-03-09 23:35:20,186; Start calc f(x): {'x': 0.8451, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,187; f(x) calculated, atomic increase acc: {'f(x)': 0.6637, 'cur acc': 0.0996}
+2022-03-09 23:35:20,189; Start calc f(x): {'x': 0.8467, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,189; f(x) calculated, atomic increase acc: {'f(x)': 0.6625, 'cur acc': 0.0981}
+2022-03-09 23:35:20,190; Start calc f(x): {'x': 0.8482, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,191; f(x) calculated, atomic increase acc: {'f(x)': 0.6613, 'cur acc': 0.0932}
+2022-03-09 23:35:20,192; Start calc f(x): {'x': 0.8498, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,193; f(x) calculated, atomic increase acc: {'f(x)': 0.6601, 'cur acc': 0.09}
+2022-03-09 23:35:20,195; Start calc f(x): {'x': 0.8514, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,196; f(x) calculated, atomic increase acc: {'f(x)': 0.659, 'cur acc': 0.0915}
+2022-03-09 23:35:20,197; Start calc f(x): {'x': 0.8529, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,198; Start calc f(x): {'x': 0.8561, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,199; f(x) calculated, atomic increase acc: {'f(x)': 0.6578, 'cur acc': 0.09}
+2022-03-09 23:35:20,200; Start calc f(x): {'x': 0.8545, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,201; f(x) calculated, atomic increase acc: {'f(x)': 0.6554, 'cur acc': 0.0945}
+2022-03-09 23:35:20,202; f(x) calculated, atomic increase acc: {'f(x)': 0.6566, 'cur acc': 0.0914}
+2022-03-09 23:35:20,206; Start calc f(x): {'x': 0.8577, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,207; Start calc f(x): {'x': 0.8592, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,209; f(x) calculated, atomic increase acc: {'f(x)': 0.6542, 'cur acc': 0.1006}
+2022-03-09 23:35:20,209; f(x) calculated, atomic increase acc: {'f(x)': 0.653, 'cur acc': 0.0991}
+2022-03-09 23:35:20,210; Start calc f(x): {'x': 0.8608, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,210; f(x) calculated, atomic increase acc: {'f(x)': 0.6518, 'cur acc': 0.0943}
+2022-03-09 23:35:20,211; Start calc f(x): {'x': 0.8624, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,212; f(x) calculated, atomic increase acc: {'f(x)': 0.6506, 'cur acc': 0.0911}
+2022-03-09 23:35:20,216; Start calc f(x): {'x': 0.8639, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,217; f(x) calculated, atomic increase acc: {'f(x)': 0.6494, 'cur acc': 0.0925}
+2022-03-09 23:35:20,217; Start calc f(x): {'x': 0.8671, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,218; Start calc f(x): {'x': 0.8655, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,219; f(x) calculated, atomic increase acc: {'f(x)': 0.6471, 'cur acc': 0.0924}
+2022-03-09 23:35:20,220; f(x) calculated, atomic increase acc: {'f(x)': 0.6483, 'cur acc': 0.091}
+2022-03-09 23:35:20,220; Start calc f(x): {'x': 0.8687, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,221; f(x) calculated, atomic increase acc: {'f(x)': 0.6459, 'cur acc': 0.0955}
+2022-03-09 23:35:20,228; Start calc f(x): {'x': 0.8702, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,229; Start calc f(x): {'x': 0.8718, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,229; f(x) calculated, atomic increase acc: {'f(x)': 0.6447, 'cur acc': 0.1001}
+2022-03-09 23:35:20,230; Start calc f(x): {'x': 0.8734, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,230; f(x) calculated, atomic increase acc: {'f(x)': 0.6435, 'cur acc': 0.1017}
+2022-03-09 23:35:20,231; f(x) calculated, atomic increase acc: {'f(x)': 0.6423, 'cur acc': 0.0953}
+2022-03-09 23:35:20,233; Start calc f(x): {'x': 0.8749, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,234; f(x) calculated, atomic increase acc: {'f(x)': 0.641, 'cur acc': 0.0921}
+2022-03-09 23:35:20,236; Start calc f(x): {'x': 0.8765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,237; Start calc f(x): {'x': 0.8781, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,238; f(x) calculated, atomic increase acc: {'f(x)': 0.6398, 'cur acc': 0.0935}
+2022-03-09 23:35:20,239; f(x) calculated, atomic increase acc: {'f(x)': 0.6386, 'cur acc': 0.092}
+2022-03-09 23:35:20,239; Start calc f(x): {'x': 0.8796, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,241; f(x) calculated, atomic increase acc: {'f(x)': 0.6374, 'cur acc': 0.0934}
+2022-03-09 23:35:20,241; Start calc f(x): {'x': 0.8812, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,242; f(x) calculated, atomic increase acc: {'f(x)': 0.6362, 'cur acc': 0.0965}
+2022-03-09 23:35:20,256; Start calc f(x): {'x': 0.8828, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,257; f(x) calculated, atomic increase acc: {'f(x)': 0.635, 'cur acc': 0.1012}
+2022-03-09 23:35:20,259; Start calc f(x): {'x': 0.8844, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,260; f(x) calculated, atomic increase acc: {'f(x)': 0.6338, 'cur acc': 0.1027}
+2022-03-09 23:35:20,260; Start calc f(x): {'x': 0.8859, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,261; f(x) calculated, atomic increase acc: {'f(x)': 0.6326, 'cur acc': 0.0963}
+2022-03-09 23:35:20,264; Start calc f(x): {'x': 0.8875, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,264; f(x) calculated, atomic increase acc: {'f(x)': 0.6314, 'cur acc': 0.0931}
+2022-03-09 23:35:20,265; Start calc f(x): {'x': 0.8891, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,266; f(x) calculated, atomic increase acc: {'f(x)': 0.6301, 'cur acc': 0.0945}
+2022-03-09 23:35:20,268; Start calc f(x): {'x': 0.8906, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,269; f(x) calculated, atomic increase acc: {'f(x)': 0.6289, 'cur acc': 0.093}
+2022-03-09 23:35:20,271; Start calc f(x): {'x': 0.8922, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,272; f(x) calculated, atomic increase acc: {'f(x)': 0.6277, 'cur acc': 0.0975}
+2022-03-09 23:35:20,272; Start calc f(x): {'x': 0.8938, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,273; f(x) calculated, atomic increase acc: {'f(x)': 0.6265, 'cur acc': 0.0944}
+2022-03-09 23:35:20,280; Start calc f(x): {'x': 0.8954, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,280; f(x) calculated, atomic increase acc: {'f(x)': 0.6252, 'cur acc': 0.1022}
+2022-03-09 23:35:20,282; Start calc f(x): {'x': 0.8969, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,285; f(x) calculated, atomic increase acc: {'f(x)': 0.624, 'cur acc': 0.1037}
+2022-03-09 23:35:20,286; Start calc f(x): {'x': 0.8985, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,287; f(x) calculated, atomic increase acc: {'f(x)': 0.6228, 'cur acc': 0.0973}
+2022-03-09 23:35:20,288; Start calc f(x): {'x': 0.9001, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,289; f(x) calculated, atomic increase acc: {'f(x)': 0.6216, 'cur acc': 0.0941}
+2022-03-09 23:35:20,292; Start calc f(x): {'x': 0.9016, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,295; f(x) calculated, atomic increase acc: {'f(x)': 0.6203, 'cur acc': 0.0955}
+2022-03-09 23:35:20,298; Start calc f(x): {'x': 0.9032, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,305; f(x) calculated, atomic increase acc: {'f(x)': 0.6191, 'cur acc': 0.094}
+2022-03-09 23:35:20,307; Start calc f(x): {'x': 0.9048, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,309; Start calc f(x): {'x': 0.9063, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,310; f(x) calculated, atomic increase acc: {'f(x)': 0.6179, 'cur acc': 0.0985}
+2022-03-09 23:35:20,312; f(x) calculated, atomic increase acc: {'f(x)': 0.6166, 'cur acc': 0.0954}
+2022-03-09 23:35:20,316; Start calc f(x): {'x': 0.9079, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,317; Start calc f(x): {'x': 0.9095, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,318; f(x) calculated, atomic increase acc: {'f(x)': 0.6154, 'cur acc': 0.1031}
+2022-03-09 23:35:20,319; f(x) calculated, atomic increase acc: {'f(x)': 0.6141, 'cur acc': 0.1047}
+2022-03-09 23:35:20,321; Start calc f(x): {'x': 0.9111, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,321; f(x) calculated, atomic increase acc: {'f(x)': 0.6129, 'cur acc': 0.0983}
+2022-03-09 23:35:20,322; Start calc f(x): {'x': 0.9126, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,323; f(x) calculated, atomic increase acc: {'f(x)': 0.6117, 'cur acc': 0.0951}
+2022-03-09 23:35:20,324; Start calc f(x): {'x': 0.9142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,326; f(x) calculated, atomic increase acc: {'f(x)': 0.6104, 'cur acc': 0.0965}
+2022-03-09 23:35:20,327; Start calc f(x): {'x': 0.9158, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,328; f(x) calculated, atomic increase acc: {'f(x)': 0.6092, 'cur acc': 0.095}
+2022-03-09 23:35:20,330; Start calc f(x): {'x': 0.9173, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,330; f(x) calculated, atomic increase acc: {'f(x)': 0.6079, 'cur acc': 0.0995}
+2022-03-09 23:35:20,331; Start calc f(x): {'x': 0.9189, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,333; f(x) calculated, atomic increase acc: {'f(x)': 0.6067, 'cur acc': 0.0964}
+2022-03-09 23:35:20,334; Start calc f(x): {'x': 0.9205, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,336; f(x) calculated, atomic increase acc: {'f(x)': 0.6054, 'cur acc': 0.1041}
+2022-03-09 23:35:20,339; Start calc f(x): {'x': 0.9221, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,340; Start calc f(x): {'x': 0.9236, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,341; f(x) calculated, atomic increase acc: {'f(x)': 0.6042, 'cur acc': 0.1056}
+2022-03-09 23:35:20,342; f(x) calculated, atomic increase acc: {'f(x)': 0.6029, 'cur acc': 0.0992}
+2022-03-09 23:35:20,344; Start calc f(x): {'x': 0.9252, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,345; Start calc f(x): {'x': 0.9268, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,346; f(x) calculated, atomic increase acc: {'f(x)': 0.6017, 'cur acc': 0.096}
+2022-03-09 23:35:20,346; f(x) calculated, atomic increase acc: {'f(x)': 0.6004, 'cur acc': 0.0975}
+2022-03-09 23:35:20,347; Start calc f(x): {'x': 0.9283, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,348; f(x) calculated, atomic increase acc: {'f(x)': 0.5992, 'cur acc': 0.0959}
+2022-03-09 23:35:20,349; Start calc f(x): {'x': 0.9299, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,350; Start calc f(x): {'x': 0.9315, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,351; f(x) calculated, atomic increase acc: {'f(x)': 0.5979, 'cur acc': 0.1005}
+2022-03-09 23:35:20,352; f(x) calculated, atomic increase acc: {'f(x)': 0.5966, 'cur acc': 0.0974}
+2022-03-09 23:35:20,354; Start calc f(x): {'x': 0.9331, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,355; f(x) calculated, atomic increase acc: {'f(x)': 0.5954, 'cur acc': 0.1051}
+2022-03-09 23:35:20,358; Start calc f(x): {'x': 0.9346, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,358; f(x) calculated, atomic increase acc: {'f(x)': 0.5941, 'cur acc': 0.1066}
+2022-03-09 23:35:20,363; Start calc f(x): {'x': 0.9362, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,363; f(x) calculated, atomic increase acc: {'f(x)': 0.5929, 'cur acc': 0.1002}
+2022-03-09 23:35:20,364; Start calc f(x): {'x': 0.9378, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,365; f(x) calculated, atomic increase acc: {'f(x)': 0.5916, 'cur acc': 0.097}
+2022-03-09 23:35:20,366; Start calc f(x): {'x': 0.9393, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,367; f(x) calculated, atomic increase acc: {'f(x)': 0.5903, 'cur acc': 0.0984}
+2022-03-09 23:35:20,368; Start calc f(x): {'x': 0.9409, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,370; Start calc f(x): {'x': 0.9425, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,371; f(x) calculated, atomic increase acc: {'f(x)': 0.5891, 'cur acc': 0.0969}
+2022-03-09 23:35:20,371; f(x) calculated, atomic increase acc: {'f(x)': 0.5878, 'cur acc': 0.1014}
+2022-03-09 23:35:20,374; Start calc f(x): {'x': 0.944, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,375; Start calc f(x): {'x': 0.9456, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,376; f(x) calculated, atomic increase acc: {'f(x)': 0.5865, 'cur acc': 0.0983}
+2022-03-09 23:35:20,377; f(x) calculated, atomic increase acc: {'f(x)': 0.5852, 'cur acc': 0.106}
+2022-03-09 23:35:20,378; Start calc f(x): {'x': 0.9472, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,379; f(x) calculated, atomic increase acc: {'f(x)': 0.584, 'cur acc': 0.1075}
+2022-03-09 23:35:20,381; Start calc f(x): {'x': 0.9488, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,382; f(x) calculated, atomic increase acc: {'f(x)': 0.5827, 'cur acc': 0.1011}
+2022-03-09 23:35:20,387; Start calc f(x): {'x': 0.9503, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,388; Start calc f(x): {'x': 0.9519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,389; f(x) calculated, atomic increase acc: {'f(x)': 0.5814, 'cur acc': 0.0979}
+2022-03-09 23:35:20,389; f(x) calculated, atomic increase acc: {'f(x)': 0.5801, 'cur acc': 0.0993}
+2022-03-09 23:35:20,390; Start calc f(x): {'x': 0.9535, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,392; Start calc f(x): {'x': 0.955, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,393; f(x) calculated, atomic increase acc: {'f(x)': 0.5789, 'cur acc': 0.0978}
+2022-03-09 23:35:20,394; f(x) calculated, atomic increase acc: {'f(x)': 0.5776, 'cur acc': 0.1023}
+2022-03-09 23:35:20,395; Start calc f(x): {'x': 0.9566, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,396; Start calc f(x): {'x': 0.9582, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,397; f(x) calculated, atomic increase acc: {'f(x)': 0.5763, 'cur acc': 0.0992}
+2022-03-09 23:35:20,398; f(x) calculated, atomic increase acc: {'f(x)': 0.575, 'cur acc': 0.1069}
+2022-03-09 23:35:20,398; Start calc f(x): {'x': 0.9598, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,399; Start calc f(x): {'x': 0.9613, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,401; f(x) calculated, atomic increase acc: {'f(x)': 0.5737, 'cur acc': 0.1084}
+2022-03-09 23:35:20,402; f(x) calculated, atomic increase acc: {'f(x)': 0.5724, 'cur acc': 0.102}
+2022-03-09 23:35:20,406; Start calc f(x): {'x': 0.9629, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,407; Start calc f(x): {'x': 0.9645, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,408; f(x) calculated, atomic increase acc: {'f(x)': 0.5711, 'cur acc': 0.0988}
+2022-03-09 23:35:20,408; f(x) calculated, atomic increase acc: {'f(x)': 0.5699, 'cur acc': 0.1002}
+2022-03-09 23:35:20,412; Start calc f(x): {'x': 0.966, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,413; f(x) calculated, atomic increase acc: {'f(x)': 0.5686, 'cur acc': 0.0987}
+2022-03-09 23:35:20,414; Start calc f(x): {'x': 0.9676, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,415; f(x) calculated, atomic increase acc: {'f(x)': 0.5673, 'cur acc': 0.1032}
+2022-03-09 23:35:20,416; Start calc f(x): {'x': 0.9692, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,417; f(x) calculated, atomic increase acc: {'f(x)': 0.566, 'cur acc': 0.1001}
+2022-03-09 23:35:20,418; Start calc f(x): {'x': 0.9708, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,419; Start calc f(x): {'x': 0.9723, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,420; f(x) calculated, atomic increase acc: {'f(x)': 0.5647, 'cur acc': 0.1078}
+2022-03-09 23:35:20,421; Start calc f(x): {'x': 0.9739, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,423; f(x) calculated, atomic increase acc: {'f(x)': 0.5634, 'cur acc': 0.1093}
+2022-03-09 23:35:20,424; f(x) calculated, atomic increase acc: {'f(x)': 0.5621, 'cur acc': 0.1029}
+2022-03-09 23:35:20,425; Start calc f(x): {'x': 0.9755, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,426; Start calc f(x): {'x': 0.977, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,426; f(x) calculated, atomic increase acc: {'f(x)': 0.5608, 'cur acc': 0.0997}
+2022-03-09 23:35:20,427; f(x) calculated, atomic increase acc: {'f(x)': 0.5595, 'cur acc': 0.1011}
+2022-03-09 23:35:20,430; Start calc f(x): {'x': 0.9786, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,430; f(x) calculated, atomic increase acc: {'f(x)': 0.5582, 'cur acc': 0.0996}
+2022-03-09 23:35:20,432; Start calc f(x): {'x': 0.9817, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,433; Start calc f(x): {'x': 0.9802, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,434; f(x) calculated, atomic increase acc: {'f(x)': 0.5556, 'cur acc': 0.101}
+2022-03-09 23:35:20,435; f(x) calculated, atomic increase acc: {'f(x)': 0.5569, 'cur acc': 0.1041}
+2022-03-09 23:35:20,438; Start calc f(x): {'x': 0.9833, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,439; f(x) calculated, atomic increase acc: {'f(x)': 0.5543, 'cur acc': 0.1087}
+2022-03-09 23:35:20,441; Start calc f(x): {'x': 0.9849, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,442; f(x) calculated, atomic increase acc: {'f(x)': 0.553, 'cur acc': 0.1102}
+2022-03-09 23:35:20,444; Start calc f(x): {'x': 0.9865, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,445; Start calc f(x): {'x': 0.988, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,446; f(x) calculated, atomic increase acc: {'f(x)': 0.5516, 'cur acc': 0.1038}
+2022-03-09 23:35:20,446; f(x) calculated, atomic increase acc: {'f(x)': 0.5503, 'cur acc': 0.1006}
+2022-03-09 23:35:20,447; Start calc f(x): {'x': 0.9896, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,448; f(x) calculated, atomic increase acc: {'f(x)': 0.549, 'cur acc': 0.102}
+2022-03-09 23:35:20,450; Start calc f(x): {'x': 0.9912, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,451; f(x) calculated, atomic increase acc: {'f(x)': 0.5477, 'cur acc': 0.1005}
+2022-03-09 23:35:20,453; Start calc f(x): {'x': 0.9927, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,453; f(x) calculated, atomic increase acc: {'f(x)': 0.5464, 'cur acc': 0.1019}
+2022-03-09 23:35:20,457; Start calc f(x): {'x': 0.9943, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,458; f(x) calculated, atomic increase acc: {'f(x)': 0.5451, 'cur acc': 0.105}
+2022-03-09 23:35:20,460; Start calc f(x): {'x': 0.9959, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,461; f(x) calculated, atomic increase acc: {'f(x)': 0.5438, 'cur acc': 0.1096}
+2022-03-09 23:35:20,462; Start calc f(x): {'x': 0.9975, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,462; f(x) calculated, atomic increase acc: {'f(x)': 0.5424, 'cur acc': 0.1111}
+2022-03-09 23:35:20,463; Start calc f(x): {'x': 0.999, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,464; f(x) calculated, atomic increase acc: {'f(x)': 0.5411, 'cur acc': 0.1047}
+2022-03-09 23:35:20,464; Start calc f(x): {'x': 1.0006, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,465; f(x) calculated, atomic increase acc: {'f(x)': 0.5398, 'cur acc': 0.1015}
+2022-03-09 23:35:20,467; Start calc f(x): {'x': 1.0022, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,468; Start calc f(x): {'x': 1.0037, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,470; f(x) calculated, atomic increase acc: {'f(x)': 0.5385, 'cur acc': 0.1029}
+2022-03-09 23:35:20,471; f(x) calculated, atomic increase acc: {'f(x)': 0.5372, 'cur acc': 0.1013}
+2022-03-09 23:35:20,472; Start calc f(x): {'x': 1.0053, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,473; f(x) calculated, atomic increase acc: {'f(x)': 0.5358, 'cur acc': 0.1027}
+2022-03-09 23:35:20,478; Start calc f(x): {'x': 1.0069, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,479; f(x) calculated, atomic increase acc: {'f(x)': 0.5345, 'cur acc': 0.1058}
+2022-03-09 23:35:20,480; Start calc f(x): {'x': 1.0085, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,481; Start calc f(x): {'x': 1.01, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,482; f(x) calculated, atomic increase acc: {'f(x)': 0.5332, 'cur acc': 0.1104}
+2022-03-09 23:35:20,483; Start calc f(x): {'x': 1.0116, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,484; f(x) calculated, atomic increase acc: {'f(x)': 0.5318, 'cur acc': 0.1119}
+2022-03-09 23:35:20,485; f(x) calculated, atomic increase acc: {'f(x)': 0.5305, 'cur acc': 0.1055}
+2022-03-09 23:35:20,487; Start calc f(x): {'x': 1.0132, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,487; Start calc f(x): {'x': 1.0163, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,488; f(x) calculated, atomic increase acc: {'f(x)': 0.5292, 'cur acc': 0.1023}
+2022-03-09 23:35:20,488; Start calc f(x): {'x': 1.0147, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,489; f(x) calculated, atomic increase acc: {'f(x)': 0.5265, 'cur acc': 0.1022}
+2022-03-09 23:35:20,490; f(x) calculated, atomic increase acc: {'f(x)': 0.5278, 'cur acc': 0.1037}
+2022-03-09 23:35:20,492; Start calc f(x): {'x': 1.0179, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,493; f(x) calculated, atomic increase acc: {'f(x)': 0.5252, 'cur acc': 0.1036}
+2022-03-09 23:35:20,497; Start calc f(x): {'x': 1.0194, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,497; f(x) calculated, atomic increase acc: {'f(x)': 0.5238, 'cur acc': 0.1067}
+2022-03-09 23:35:20,499; Start calc f(x): {'x': 1.0226, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,501; f(x) calculated, atomic increase acc: {'f(x)': 0.5212, 'cur acc': 0.1113}
+2022-03-09 23:35:20,502; Start calc f(x): {'x': 1.021, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,502; f(x) calculated, atomic increase acc: {'f(x)': 0.5225, 'cur acc': 0.1128}
+2022-03-09 23:35:20,504; Start calc f(x): {'x': 1.0242, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,505; f(x) calculated, atomic increase acc: {'f(x)': 0.5198, 'cur acc': 0.1064}
+2022-03-09 23:35:20,506; Start calc f(x): {'x': 1.0257, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,507; Start calc f(x): {'x': 1.0273, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,508; f(x) calculated, atomic increase acc: {'f(x)': 0.5185, 'cur acc': 0.1032}
+2022-03-09 23:35:20,509; f(x) calculated, atomic increase acc: {'f(x)': 0.5171, 'cur acc': 0.103}
+2022-03-09 23:35:20,510; Start calc f(x): {'x': 1.0289, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,511; f(x) calculated, atomic increase acc: {'f(x)': 0.5158, 'cur acc': 0.1046}
+2022-03-09 23:35:20,512; Start calc f(x): {'x': 1.0304, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,514; f(x) calculated, atomic increase acc: {'f(x)': 0.5144, 'cur acc': 0.1044}
+2022-03-09 23:35:20,521; Start calc f(x): {'x': 1.032, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,523; Start calc f(x): {'x': 1.0336, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,524; f(x) calculated, atomic increase acc: {'f(x)': 0.5131, 'cur acc': 0.1075}
+2022-03-09 23:35:20,525; f(x) calculated, atomic increase acc: {'f(x)': 0.5117, 'cur acc': 0.1121}
+2022-03-09 23:35:20,526; Start calc f(x): {'x': 1.0352, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,527; f(x) calculated, atomic increase acc: {'f(x)': 0.5104, 'cur acc': 0.1136}
+2022-03-09 23:35:20,528; Start calc f(x): {'x': 1.0367, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,529; f(x) calculated, atomic increase acc: {'f(x)': 0.509, 'cur acc': 0.1072}
+2022-03-09 23:35:20,530; Start calc f(x): {'x': 1.0383, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,531; Start calc f(x): {'x': 1.0399, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,532; f(x) calculated, atomic increase acc: {'f(x)': 0.5077, 'cur acc': 0.104}
+2022-03-09 23:35:20,532; f(x) calculated, atomic increase acc: {'f(x)': 0.5063, 'cur acc': 0.1038}
+2022-03-09 23:35:20,533; Start calc f(x): {'x': 1.0414, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,534; f(x) calculated, atomic increase acc: {'f(x)': 0.505, 'cur acc': 0.1054}
+2022-03-09 23:35:20,536; Start calc f(x): {'x': 1.043, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,536; f(x) calculated, atomic increase acc: {'f(x)': 0.5036, 'cur acc': 0.1052}
+2022-03-09 23:35:20,543; Start calc f(x): {'x': 1.0446, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,544; f(x) calculated, atomic increase acc: {'f(x)': 0.5023, 'cur acc': 0.1083}
+2022-03-09 23:35:20,545; Start calc f(x): {'x': 1.0462, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,546; f(x) calculated, atomic increase acc: {'f(x)': 0.5009, 'cur acc': 0.1129}
+2022-03-09 23:35:20,547; Start calc f(x): {'x': 1.0477, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,547; Start calc f(x): {'x': 1.0493, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,548; f(x) calculated, atomic increase acc: {'f(x)': 0.4995, 'cur acc': 0.1144}
+2022-03-09 23:35:20,549; Start calc f(x): {'x': 1.0509, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,550; f(x) calculated, atomic increase acc: {'f(x)': 0.4982, 'cur acc': 0.108}
+2022-03-09 23:35:20,551; Start calc f(x): {'x': 1.0524, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,552; f(x) calculated, atomic increase acc: {'f(x)': 0.4968, 'cur acc': 0.1048}
+2022-03-09 23:35:20,552; Start calc f(x): {'x': 1.054, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,553; f(x) calculated, atomic increase acc: {'f(x)': 0.4955, 'cur acc': 0.1046}
+2022-03-09 23:35:20,554; f(x) calculated, atomic increase acc: {'f(x)': 0.4941, 'cur acc': 0.1062}
+2022-03-09 23:35:20,555; Start calc f(x): {'x': 1.0556, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,556; f(x) calculated, atomic increase acc: {'f(x)': 0.4927, 'cur acc': 0.106}
+2022-03-09 23:35:20,563; Start calc f(x): {'x': 1.0571, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,563; Start calc f(x): {'x': 1.0587, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,564; f(x) calculated, atomic increase acc: {'f(x)': 0.4914, 'cur acc': 0.1091}
+2022-03-09 23:35:20,565; f(x) calculated, atomic increase acc: {'f(x)': 0.49, 'cur acc': 0.1137}
+2022-03-09 23:35:20,566; Start calc f(x): {'x': 1.0603, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,566; Start calc f(x): {'x': 1.0619, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,567; f(x) calculated, atomic increase acc: {'f(x)': 0.4886, 'cur acc': 0.1152}
+2022-03-09 23:35:20,569; f(x) calculated, atomic increase acc: {'f(x)': 0.4873, 'cur acc': 0.1088}
+2022-03-09 23:35:20,570; Start calc f(x): {'x': 1.0634, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,571; Start calc f(x): {'x': 1.065, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,571; Start calc f(x): {'x': 1.0666, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,573; f(x) calculated, atomic increase acc: {'f(x)': 0.4859, 'cur acc': 0.1055}
+2022-03-09 23:35:20,574; f(x) calculated, atomic increase acc: {'f(x)': 0.4845, 'cur acc': 0.1054}
+2022-03-09 23:35:20,575; f(x) calculated, atomic increase acc: {'f(x)': 0.4831, 'cur acc': 0.1069}
+2022-03-09 23:35:20,576; Start calc f(x): {'x': 1.0681, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,577; f(x) calculated, atomic increase acc: {'f(x)': 0.4818, 'cur acc': 0.1068}
+2022-03-09 23:35:20,582; Start calc f(x): {'x': 1.0697, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,583; f(x) calculated, atomic increase acc: {'f(x)': 0.4804, 'cur acc': 0.1144}
+2022-03-09 23:35:20,584; Start calc f(x): {'x': 1.0713, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,585; f(x) calculated, atomic increase acc: {'f(x)': 0.479, 'cur acc': 0.1099}
+2022-03-09 23:35:20,587; Start calc f(x): {'x': 1.0729, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,588; f(x) calculated, atomic increase acc: {'f(x)': 0.4776, 'cur acc': 0.1095}
+2022-03-09 23:35:20,589; Start calc f(x): {'x': 1.0744, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,590; f(x) calculated, atomic increase acc: {'f(x)': 0.4762, 'cur acc': 0.1159}
+2022-03-09 23:35:20,590; Start calc f(x): {'x': 1.076, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,591; Start calc f(x): {'x': 1.0776, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,592; f(x) calculated, atomic increase acc: {'f(x)': 0.4749, 'cur acc': 0.1063}
+2022-03-09 23:35:20,593; f(x) calculated, atomic increase acc: {'f(x)': 0.4735, 'cur acc': 0.1062}
+2022-03-09 23:35:20,594; Start calc f(x): {'x': 1.0791, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,594; Start calc f(x): {'x': 1.0807, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,595; f(x) calculated, atomic increase acc: {'f(x)': 0.4721, 'cur acc': 0.1077}
+2022-03-09 23:35:20,596; f(x) calculated, atomic increase acc: {'f(x)': 0.4707, 'cur acc': 0.1075}
+2022-03-09 23:35:20,600; Start calc f(x): {'x': 1.0823, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,601; f(x) calculated, atomic increase acc: {'f(x)': 0.4693, 'cur acc': 0.1152}
+2022-03-09 23:35:20,603; Start calc f(x): {'x': 1.0838, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,604; f(x) calculated, atomic increase acc: {'f(x)': 0.4679, 'cur acc': 0.1106}
+2022-03-09 23:35:20,605; Start calc f(x): {'x': 1.0854, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,606; f(x) calculated, atomic increase acc: {'f(x)': 0.4665, 'cur acc': 0.1103}
+2022-03-09 23:35:20,607; Start calc f(x): {'x': 1.087, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,608; f(x) calculated, atomic increase acc: {'f(x)': 0.4652, 'cur acc': 0.1167}
+2022-03-09 23:35:20,610; Start calc f(x): {'x': 1.0886, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,611; Start calc f(x): {'x': 1.0901, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,611; f(x) calculated, atomic increase acc: {'f(x)': 0.4638, 'cur acc': 0.1071}
+2022-03-09 23:35:20,612; f(x) calculated, atomic increase acc: {'f(x)': 0.4624, 'cur acc': 0.1069}
+2022-03-09 23:35:20,613; Start calc f(x): {'x': 1.0917, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,613; f(x) calculated, atomic increase acc: {'f(x)': 0.461, 'cur acc': 0.1084}
+2022-03-09 23:35:20,615; Start calc f(x): {'x': 1.0933, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,616; f(x) calculated, atomic increase acc: {'f(x)': 0.4596, 'cur acc': 0.1083}
+2022-03-09 23:35:20,619; Start calc f(x): {'x': 1.0948, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,620; f(x) calculated, atomic increase acc: {'f(x)': 0.4582, 'cur acc': 0.1159}
+2022-03-09 23:35:20,622; Start calc f(x): {'x': 1.0964, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,623; f(x) calculated, atomic increase acc: {'f(x)': 0.4568, 'cur acc': 0.1114}
+2022-03-09 23:35:20,624; Start calc f(x): {'x': 1.098, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,625; f(x) calculated, atomic increase acc: {'f(x)': 0.4554, 'cur acc': 0.111}
+2022-03-09 23:35:20,627; Start calc f(x): {'x': 1.0996, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,628; f(x) calculated, atomic increase acc: {'f(x)': 0.454, 'cur acc': 0.1174}
+2022-03-09 23:35:20,629; Start calc f(x): {'x': 1.1011, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,630; f(x) calculated, atomic increase acc: {'f(x)': 0.4526, 'cur acc': 0.1078}
+2022-03-09 23:35:20,630; Start calc f(x): {'x': 1.1027, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,632; Start calc f(x): {'x': 1.1043, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,633; f(x) calculated, atomic increase acc: {'f(x)': 0.4512, 'cur acc': 0.1076}
+2022-03-09 23:35:20,634; f(x) calculated, atomic increase acc: {'f(x)': 0.4498, 'cur acc': 0.1092}
+2022-03-09 23:35:20,634; Start calc f(x): {'x': 1.1058, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,636; f(x) calculated, atomic increase acc: {'f(x)': 0.4484, 'cur acc': 0.109}
+2022-03-09 23:35:20,639; Start calc f(x): {'x': 1.1074, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,639; f(x) calculated, atomic increase acc: {'f(x)': 0.447, 'cur acc': 0.1167}
+2022-03-09 23:35:20,642; Start calc f(x): {'x': 1.109, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,642; f(x) calculated, atomic increase acc: {'f(x)': 0.4456, 'cur acc': 0.1121}
+2022-03-09 23:35:20,645; Start calc f(x): {'x': 1.1106, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,646; f(x) calculated, atomic increase acc: {'f(x)': 0.4442, 'cur acc': 0.1117}
+2022-03-09 23:35:20,647; Start calc f(x): {'x': 1.1121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,648; f(x) calculated, atomic increase acc: {'f(x)': 0.4428, 'cur acc': 0.1181}
+2022-03-09 23:35:20,650; Start calc f(x): {'x': 1.1137, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,652; f(x) calculated, atomic increase acc: {'f(x)': 0.4413, 'cur acc': 0.1085}
+2022-03-09 23:35:20,653; Start calc f(x): {'x': 1.1153, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,653; f(x) calculated, atomic increase acc: {'f(x)': 0.4399, 'cur acc': 0.1083}
+2022-03-09 23:35:20,654; Start calc f(x): {'x': 1.1168, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,655; f(x) calculated, atomic increase acc: {'f(x)': 0.4385, 'cur acc': 0.1099}
+2022-03-09 23:35:20,657; Start calc f(x): {'x': 1.1184, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,658; f(x) calculated, atomic increase acc: {'f(x)': 0.4371, 'cur acc': 0.1097}
+2022-03-09 23:35:20,660; Start calc f(x): {'x': 1.12, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,661; f(x) calculated, atomic increase acc: {'f(x)': 0.4357, 'cur acc': 0.1174}
+2022-03-09 23:35:20,663; Start calc f(x): {'x': 1.1215, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,664; f(x) calculated, atomic increase acc: {'f(x)': 0.4343, 'cur acc': 0.1128}
+2022-03-09 23:35:20,665; Start calc f(x): {'x': 1.1231, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,666; f(x) calculated, atomic increase acc: {'f(x)': 0.4329, 'cur acc': 0.1124}
+2022-03-09 23:35:20,669; Start calc f(x): {'x': 1.1247, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,671; f(x) calculated, atomic increase acc: {'f(x)': 0.4315, 'cur acc': 0.1188}
+2022-03-09 23:35:20,672; Start calc f(x): {'x': 1.1263, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,672; Start calc f(x): {'x': 1.1278, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,673; f(x) calculated, atomic increase acc: {'f(x)': 0.43, 'cur acc': 0.1092}
+2022-03-09 23:35:20,674; f(x) calculated, atomic increase acc: {'f(x)': 0.4286, 'cur acc': 0.109}
+2022-03-09 23:35:20,675; Start calc f(x): {'x': 1.1294, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,676; f(x) calculated, atomic increase acc: {'f(x)': 0.4272, 'cur acc': 0.1106}
+2022-03-09 23:35:20,678; Start calc f(x): {'x': 1.131, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,679; f(x) calculated, atomic increase acc: {'f(x)': 0.4258, 'cur acc': 0.1104}
+2022-03-09 23:35:20,680; Start calc f(x): {'x': 1.1325, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,680; f(x) calculated, atomic increase acc: {'f(x)': 0.4244, 'cur acc': 0.118}
+2022-03-09 23:35:20,682; Start calc f(x): {'x': 1.1341, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,683; f(x) calculated, atomic increase acc: {'f(x)': 0.4229, 'cur acc': 0.1135}
+2022-03-09 23:35:20,683; Start calc f(x): {'x': 1.1357, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,684; f(x) calculated, atomic increase acc: {'f(x)': 0.4215, 'cur acc': 0.1131}
+2022-03-09 23:35:20,689; Start calc f(x): {'x': 1.1373, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,690; f(x) calculated, atomic increase acc: {'f(x)': 0.4201, 'cur acc': 0.1195}
+2022-03-09 23:35:20,692; Start calc f(x): {'x': 1.1388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,693; f(x) calculated, atomic increase acc: {'f(x)': 0.4187, 'cur acc': 0.1099}
+2022-03-09 23:35:20,694; Start calc f(x): {'x': 1.1404, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,694; f(x) calculated, atomic increase acc: {'f(x)': 0.4172, 'cur acc': 0.1097}
+2022-03-09 23:35:20,695; Start calc f(x): {'x': 1.142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,696; f(x) calculated, atomic increase acc: {'f(x)': 0.4158, 'cur acc': 0.1112}
+2022-03-09 23:35:20,698; Start calc f(x): {'x': 1.1435, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,699; f(x) calculated, atomic increase acc: {'f(x)': 0.4144, 'cur acc': 0.1111}
+2022-03-09 23:35:20,701; Start calc f(x): {'x': 1.1451, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,701; Start calc f(x): {'x': 1.1467, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,702; f(x) calculated, atomic increase acc: {'f(x)': 0.4129, 'cur acc': 0.1187}
+2022-03-09 23:35:20,703; f(x) calculated, atomic increase acc: {'f(x)': 0.4115, 'cur acc': 0.1141}
+2022-03-09 23:35:20,704; Start calc f(x): {'x': 1.1483, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,705; f(x) calculated, atomic increase acc: {'f(x)': 0.4101, 'cur acc': 0.1138}
+2022-03-09 23:35:20,709; Start calc f(x): {'x': 1.1498, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,710; f(x) calculated, atomic increase acc: {'f(x)': 0.4086, 'cur acc': 0.1202}
+2022-03-09 23:35:20,712; Start calc f(x): {'x': 1.1514, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,712; Start calc f(x): {'x': 1.153, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,713; f(x) calculated, atomic increase acc: {'f(x)': 0.4072, 'cur acc': 0.1105}
+2022-03-09 23:35:20,714; f(x) calculated, atomic increase acc: {'f(x)': 0.4058, 'cur acc': 0.1104}
+2022-03-09 23:35:20,715; Start calc f(x): {'x': 1.1545, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,716; f(x) calculated, atomic increase acc: {'f(x)': 0.4043, 'cur acc': 0.1119}
+2022-03-09 23:35:20,717; Start calc f(x): {'x': 1.1561, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,719; f(x) calculated, atomic increase acc: {'f(x)': 0.4029, 'cur acc': 0.1117}
+2022-03-09 23:35:20,721; Start calc f(x): {'x': 1.1592, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,722; Start calc f(x): {'x': 1.1577, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,722; f(x) calculated, atomic increase acc: {'f(x)': 0.4, 'cur acc': 0.1148}
+2022-03-09 23:35:20,723; f(x) calculated, atomic increase acc: {'f(x)': 0.4015, 'cur acc': 0.1194}
+2022-03-09 23:35:20,724; Start calc f(x): {'x': 1.1608, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,725; f(x) calculated, atomic increase acc: {'f(x)': 0.3986, 'cur acc': 0.1144}
+2022-03-09 23:35:20,728; Start calc f(x): {'x': 1.1624, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,729; f(x) calculated, atomic increase acc: {'f(x)': 0.3971, 'cur acc': 0.1208}
+2022-03-09 23:35:20,732; Start calc f(x): {'x': 1.164, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,733; f(x) calculated, atomic increase acc: {'f(x)': 0.3957, 'cur acc': 0.1112}
+2022-03-09 23:35:20,734; Start calc f(x): {'x': 1.1655, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,736; Start calc f(x): {'x': 1.1671, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,736; f(x) calculated, atomic increase acc: {'f(x)': 0.3943, 'cur acc': 0.111}
+2022-03-09 23:35:20,737; f(x) calculated, atomic increase acc: {'f(x)': 0.3928, 'cur acc': 0.1125}
+2022-03-09 23:35:20,738; Start calc f(x): {'x': 1.1687, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,738; f(x) calculated, atomic increase acc: {'f(x)': 0.3914, 'cur acc': 0.1123}
+2022-03-09 23:35:20,740; Start calc f(x): {'x': 1.1702, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,741; Start calc f(x): {'x': 1.1718, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,742; f(x) calculated, atomic increase acc: {'f(x)': 0.3899, 'cur acc': 0.1154}
+2022-03-09 23:35:20,743; f(x) calculated, atomic increase acc: {'f(x)': 0.3885, 'cur acc': 0.12}
+2022-03-09 23:35:20,745; Start calc f(x): {'x': 1.1734, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,745; f(x) calculated, atomic increase acc: {'f(x)': 0.387, 'cur acc': 0.115}
+2022-03-09 23:35:20,747; Start calc f(x): {'x': 1.175, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,748; f(x) calculated, atomic increase acc: {'f(x)': 0.3856, 'cur acc': 0.1214}
+2022-03-09 23:35:20,751; Start calc f(x): {'x': 1.1765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,752; f(x) calculated, atomic increase acc: {'f(x)': 0.3841, 'cur acc': 0.1118}
+2022-03-09 23:35:20,753; Start calc f(x): {'x': 1.1781, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,754; f(x) calculated, atomic increase acc: {'f(x)': 0.3827, 'cur acc': 0.1116}
+2022-03-09 23:35:20,754; Start calc f(x): {'x': 1.1797, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,755; f(x) calculated, atomic increase acc: {'f(x)': 0.3812, 'cur acc': 0.1131}
+2022-03-09 23:35:20,756; Start calc f(x): {'x': 1.1812, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,757; f(x) calculated, atomic increase acc: {'f(x)': 0.3798, 'cur acc': 0.113}
+2022-03-09 23:35:20,759; Start calc f(x): {'x': 1.1828, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,759; f(x) calculated, atomic increase acc: {'f(x)': 0.3783, 'cur acc': 0.116}
+2022-03-09 23:35:20,761; Start calc f(x): {'x': 1.1844, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,761; f(x) calculated, atomic increase acc: {'f(x)': 0.3769, 'cur acc': 0.1206}
+2022-03-09 23:35:20,762; Start calc f(x): {'x': 1.186, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,763; f(x) calculated, atomic increase acc: {'f(x)': 0.3754, 'cur acc': 0.1156}
+2022-03-09 23:35:20,765; Start calc f(x): {'x': 1.1875, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,766; f(x) calculated, atomic increase acc: {'f(x)': 0.374, 'cur acc': 0.122}
+2022-03-09 23:35:20,770; Start calc f(x): {'x': 1.1891, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,771; Start calc f(x): {'x': 1.1907, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,771; f(x) calculated, atomic increase acc: {'f(x)': 0.3725, 'cur acc': 0.1124}
+2022-03-09 23:35:20,772; f(x) calculated, atomic increase acc: {'f(x)': 0.371, 'cur acc': 0.1122}
+2022-03-09 23:35:20,773; Start calc f(x): {'x': 1.1922, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,774; f(x) calculated, atomic increase acc: {'f(x)': 0.3696, 'cur acc': 0.1137}
+2022-03-09 23:35:20,775; Start calc f(x): {'x': 1.1938, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,776; f(x) calculated, atomic increase acc: {'f(x)': 0.3681, 'cur acc': 0.1135}
+2022-03-09 23:35:20,777; Start calc f(x): {'x': 1.1954, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,778; f(x) calculated, atomic increase acc: {'f(x)': 0.3667, 'cur acc': 0.1166}
+2022-03-09 23:35:20,780; Start calc f(x): {'x': 1.1969, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,781; f(x) calculated, atomic increase acc: {'f(x)': 0.3652, 'cur acc': 0.1212}
+2022-03-09 23:35:20,781; Start calc f(x): {'x': 1.1985, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,782; f(x) calculated, atomic increase acc: {'f(x)': 0.3637, 'cur acc': 0.1162}
+2022-03-09 23:35:20,784; Start calc f(x): {'x': 1.2001, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,785; f(x) calculated, atomic increase acc: {'f(x)': 0.3623, 'cur acc': 0.1226}
+2022-03-09 23:35:20,787; Start calc f(x): {'x': 1.2017, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,789; f(x) calculated, atomic increase acc: {'f(x)': 0.3608, 'cur acc': 0.113}
+2022-03-09 23:35:20,791; Start calc f(x): {'x': 1.2032, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,792; f(x) calculated, atomic increase acc: {'f(x)': 0.3593, 'cur acc': 0.1128}
+2022-03-09 23:35:20,793; Start calc f(x): {'x': 1.2048, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,794; f(x) calculated, atomic increase acc: {'f(x)': 0.3579, 'cur acc': 0.1143}
+2022-03-09 23:35:20,795; Start calc f(x): {'x': 1.2079, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,796; Start calc f(x): {'x': 1.2064, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,796; f(x) calculated, atomic increase acc: {'f(x)': 0.3549, 'cur acc': 0.1172}
+2022-03-09 23:35:20,797; f(x) calculated, atomic increase acc: {'f(x)': 0.3564, 'cur acc': 0.1141}
+2022-03-09 23:35:20,798; Start calc f(x): {'x': 1.2095, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,799; f(x) calculated, atomic increase acc: {'f(x)': 0.3535, 'cur acc': 0.1218}
+2022-03-09 23:35:20,803; Start calc f(x): {'x': 1.2111, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,803; f(x) calculated, atomic increase acc: {'f(x)': 0.352, 'cur acc': 0.1168}
+2022-03-09 23:35:20,804; Start calc f(x): {'x': 1.2127, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,805; f(x) calculated, atomic increase acc: {'f(x)': 0.3505, 'cur acc': 0.1232}
+2022-03-09 23:35:20,808; Start calc f(x): {'x': 1.2142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,808; f(x) calculated, atomic increase acc: {'f(x)': 0.3491, 'cur acc': 0.1135}
+2022-03-09 23:35:20,814; Start calc f(x): {'x': 1.2158, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,815; f(x) calculated, atomic increase acc: {'f(x)': 0.3476, 'cur acc': 0.1134}
+2022-03-09 23:35:20,817; Start calc f(x): {'x': 1.2174, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,818; Start calc f(x): {'x': 1.2189, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,819; f(x) calculated, atomic increase acc: {'f(x)': 0.3461, 'cur acc': 0.1149}
+2022-03-09 23:35:20,820; Start calc f(x): {'x': 1.2205, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,821; f(x) calculated, atomic increase acc: {'f(x)': 0.3446, 'cur acc': 0.1177}
+2022-03-09 23:35:20,821; Start calc f(x): {'x': 1.2221, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,822; f(x) calculated, atomic increase acc: {'f(x)': 0.3432, 'cur acc': 0.1147}
+2022-03-09 23:35:20,822; f(x) calculated, atomic increase acc: {'f(x)': 0.3417, 'cur acc': 0.1223}
+2022-03-09 23:35:20,824; Start calc f(x): {'x': 1.2237, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,824; f(x) calculated, atomic increase acc: {'f(x)': 0.3402, 'cur acc': 0.1174}
+2022-03-09 23:35:20,825; Start calc f(x): {'x': 1.2252, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,826; f(x) calculated, atomic increase acc: {'f(x)': 0.3387, 'cur acc': 0.1237}
+2022-03-09 23:35:20,827; Start calc f(x): {'x': 1.2268, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,828; f(x) calculated, atomic increase acc: {'f(x)': 0.3373, 'cur acc': 0.1141}
+2022-03-09 23:35:20,833; Start calc f(x): {'x': 1.2284, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,833; f(x) calculated, atomic increase acc: {'f(x)': 0.3358, 'cur acc': 0.1139}
+2022-03-09 23:35:20,836; Start calc f(x): {'x': 1.2299, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,837; f(x) calculated, atomic increase acc: {'f(x)': 0.3343, 'cur acc': 0.1154}
+2022-03-09 23:35:20,838; Start calc f(x): {'x': 1.2315, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,838; Start calc f(x): {'x': 1.2331, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,839; f(x) calculated, atomic increase acc: {'f(x)': 0.3328, 'cur acc': 0.1183}
+2022-03-09 23:35:20,840; f(x) calculated, atomic increase acc: {'f(x)': 0.3313, 'cur acc': 0.1152}
+2022-03-09 23:35:20,842; Start calc f(x): {'x': 1.2346, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,842; Start calc f(x): {'x': 1.2362, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,843; Start calc f(x): {'x': 1.2378, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,844; f(x) calculated, atomic increase acc: {'f(x)': 0.3299, 'cur acc': 0.1229}
+2022-03-09 23:35:20,845; f(x) calculated, atomic increase acc: {'f(x)': 0.3284, 'cur acc': 0.1179}
+2022-03-09 23:35:20,846; f(x) calculated, atomic increase acc: {'f(x)': 0.3269, 'cur acc': 0.1243}
+2022-03-09 23:35:20,846; Start calc f(x): {'x': 1.2394, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,847; f(x) calculated, atomic increase acc: {'f(x)': 0.3254, 'cur acc': 0.1146}
+2022-03-09 23:35:20,850; Start calc f(x): {'x': 1.2409, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,851; f(x) calculated, atomic increase acc: {'f(x)': 0.3239, 'cur acc': 0.1144}
+2022-03-09 23:35:20,854; Start calc f(x): {'x': 1.2425, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,855; f(x) calculated, atomic increase acc: {'f(x)': 0.3224, 'cur acc': 0.1159}
+2022-03-09 23:35:20,855; Start calc f(x): {'x': 1.2441, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,856; f(x) calculated, atomic increase acc: {'f(x)': 0.3209, 'cur acc': 0.1188}
+2022-03-09 23:35:20,858; Start calc f(x): {'x': 1.2456, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,859; f(x) calculated, atomic increase acc: {'f(x)': 0.3195, 'cur acc': 0.1157}
+2022-03-09 23:35:20,861; Start calc f(x): {'x': 1.2488, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,862; f(x) calculated, atomic increase acc: {'f(x)': 0.3165, 'cur acc': 0.1184}
+2022-03-09 23:35:20,863; Start calc f(x): {'x': 1.2472, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,863; f(x) calculated, atomic increase acc: {'f(x)': 0.318, 'cur acc': 0.1234}
+2022-03-09 23:35:20,865; Start calc f(x): {'x': 1.2504, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,866; f(x) calculated, atomic increase acc: {'f(x)': 0.315, 'cur acc': 0.1248}
+2022-03-09 23:35:20,867; Start calc f(x): {'x': 1.2519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,868; f(x) calculated, atomic increase acc: {'f(x)': 0.3135, 'cur acc': 0.1151}
+2022-03-09 23:35:20,870; Start calc f(x): {'x': 1.2535, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,871; f(x) calculated, atomic increase acc: {'f(x)': 0.312, 'cur acc': 0.1149}
+2022-03-09 23:35:20,872; Start calc f(x): {'x': 1.2551, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,873; f(x) calculated, atomic increase acc: {'f(x)': 0.3105, 'cur acc': 0.1164}
+2022-03-09 23:35:20,875; Start calc f(x): {'x': 1.2566, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,876; f(x) calculated, atomic increase acc: {'f(x)': 0.309, 'cur acc': 0.1193}
+2022-03-09 23:35:20,877; Start calc f(x): {'x': 1.2582, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,877; f(x) calculated, atomic increase acc: {'f(x)': 0.3075, 'cur acc': 0.1162}
+2022-03-09 23:35:20,879; Start calc f(x): {'x': 1.2598, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,880; f(x) calculated, atomic increase acc: {'f(x)': 0.306, 'cur acc': 0.1189}
+2022-03-09 23:35:20,881; Start calc f(x): {'x': 1.2613, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,882; f(x) calculated, atomic increase acc: {'f(x)': 0.3045, 'cur acc': 0.1239}
+2022-03-09 23:35:20,883; Start calc f(x): {'x': 1.2629, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,885; f(x) calculated, atomic increase acc: {'f(x)': 0.303, 'cur acc': 0.1253}
+2022-03-09 23:35:20,886; Start calc f(x): {'x': 1.2645, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,887; f(x) calculated, atomic increase acc: {'f(x)': 0.3015, 'cur acc': 0.1156}
+2022-03-09 23:35:20,890; Start calc f(x): {'x': 1.2661, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,891; f(x) calculated, atomic increase acc: {'f(x)': 0.3, 'cur acc': 0.1154}
+2022-03-09 23:35:20,893; Start calc f(x): {'x': 1.2676, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,894; f(x) calculated, atomic increase acc: {'f(x)': 0.2985, 'cur acc': 0.1169}
+2022-03-09 23:35:20,896; Start calc f(x): {'x': 1.2692, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,897; f(x) calculated, atomic increase acc: {'f(x)': 0.297, 'cur acc': 0.1198}
+2022-03-09 23:35:20,898; Start calc f(x): {'x': 1.2708, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,900; f(x) calculated, atomic increase acc: {'f(x)': 0.2955, 'cur acc': 0.1167}
+2022-03-09 23:35:20,902; Start calc f(x): {'x': 1.2723, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,903; Start calc f(x): {'x': 1.2739, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,904; f(x) calculated, atomic increase acc: {'f(x)': 0.294, 'cur acc': 0.1194}
+2022-03-09 23:35:20,905; f(x) calculated, atomic increase acc: {'f(x)': 0.2925, 'cur acc': 0.1244}
+2022-03-09 23:35:20,906; Start calc f(x): {'x': 1.2755, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,907; Start calc f(x): {'x': 1.2771, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,908; f(x) calculated, atomic increase acc: {'f(x)': 0.291, 'cur acc': 0.1258}
+2022-03-09 23:35:20,909; f(x) calculated, atomic increase acc: {'f(x)': 0.2895, 'cur acc': 0.1161}
+2022-03-09 23:35:20,910; Start calc f(x): {'x': 1.2786, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,910; f(x) calculated, atomic increase acc: {'f(x)': 0.288, 'cur acc': 0.1159}
+2022-03-09 23:35:20,912; Start calc f(x): {'x': 1.2802, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,913; f(x) calculated, atomic increase acc: {'f(x)': 0.2865, 'cur acc': 0.1174}
+2022-03-09 23:35:20,914; Start calc f(x): {'x': 1.2818, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,915; f(x) calculated, atomic increase acc: {'f(x)': 0.285, 'cur acc': 0.1203}
+2022-03-09 23:35:20,918; Start calc f(x): {'x': 1.2833, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,919; f(x) calculated, atomic increase acc: {'f(x)': 0.2835, 'cur acc': 0.1172}
+2022-03-09 23:35:20,920; Start calc f(x): {'x': 1.2849, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,922; f(x) calculated, atomic increase acc: {'f(x)': 0.282, 'cur acc': 0.1198}
+2022-03-09 23:35:20,922; Start calc f(x): {'x': 1.2865, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,923; f(x) calculated, atomic increase acc: {'f(x)': 0.2805, 'cur acc': 0.1248}
+2022-03-09 23:35:20,924; Start calc f(x): {'x': 1.2881, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,925; f(x) calculated, atomic increase acc: {'f(x)': 0.279, 'cur acc': 0.1262}
+2022-03-09 23:35:20,926; Start calc f(x): {'x': 1.2896, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,927; f(x) calculated, atomic increase acc: {'f(x)': 0.2775, 'cur acc': 0.1165}
+2022-03-09 23:35:20,928; Start calc f(x): {'x': 1.2912, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,929; f(x) calculated, atomic increase acc: {'f(x)': 0.276, 'cur acc': 0.1164}
+2022-03-09 23:35:20,930; Start calc f(x): {'x': 1.2928, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,931; f(x) calculated, atomic increase acc: {'f(x)': 0.2745, 'cur acc': 0.1179}
+2022-03-09 23:35:20,933; Start calc f(x): {'x': 1.2943, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,934; f(x) calculated, atomic increase acc: {'f(x)': 0.273, 'cur acc': 0.1207}
+2022-03-09 23:35:20,939; Start calc f(x): {'x': 1.2959, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,940; f(x) calculated, atomic increase acc: {'f(x)': 0.2714, 'cur acc': 0.1176}
+2022-03-09 23:35:20,941; Start calc f(x): {'x': 1.2975, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,942; f(x) calculated, atomic increase acc: {'f(x)': 0.2699, 'cur acc': 0.1203}
+2022-03-09 23:35:20,943; Start calc f(x): {'x': 1.299, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,944; f(x) calculated, atomic increase acc: {'f(x)': 0.2684, 'cur acc': 0.1253}
+2022-03-09 23:35:20,945; Start calc f(x): {'x': 1.3006, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,946; f(x) calculated, atomic increase acc: {'f(x)': 0.2669, 'cur acc': 0.1266}
+2022-03-09 23:35:20,947; Start calc f(x): {'x': 1.3022, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,948; f(x) calculated, atomic increase acc: {'f(x)': 0.2654, 'cur acc': 0.117}
+2022-03-09 23:35:20,949; Start calc f(x): {'x': 1.3038, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,950; f(x) calculated, atomic increase acc: {'f(x)': 0.2639, 'cur acc': 0.1168}
+2022-03-09 23:35:20,951; Start calc f(x): {'x': 1.3053, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,953; f(x) calculated, atomic increase acc: {'f(x)': 0.2624, 'cur acc': 0.1183}
+2022-03-09 23:35:20,954; Start calc f(x): {'x': 1.3069, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,955; f(x) calculated, atomic increase acc: {'f(x)': 0.2608, 'cur acc': 0.1211}
+2022-03-09 23:35:20,960; Start calc f(x): {'x': 1.3085, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,961; f(x) calculated, atomic increase acc: {'f(x)': 0.2593, 'cur acc': 0.1181}
+2022-03-09 23:35:20,962; Start calc f(x): {'x': 1.3116, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,962; Start calc f(x): {'x': 1.31, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,963; f(x) calculated, atomic increase acc: {'f(x)': 0.2563, 'cur acc': 0.1257}
+2022-03-09 23:35:20,964; f(x) calculated, atomic increase acc: {'f(x)': 0.2578, 'cur acc': 0.1207}
+2022-03-09 23:35:20,965; Start calc f(x): {'x': 1.3132, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,965; Start calc f(x): {'x': 1.3148, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,966; f(x) calculated, atomic increase acc: {'f(x)': 0.2548, 'cur acc': 0.1271}
+2022-03-09 23:35:20,968; f(x) calculated, atomic increase acc: {'f(x)': 0.2533, 'cur acc': 0.1174}
+2022-03-09 23:35:20,969; Start calc f(x): {'x': 1.3163, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,970; f(x) calculated, atomic increase acc: {'f(x)': 0.2517, 'cur acc': 0.1172}
+2022-03-09 23:35:20,971; Start calc f(x): {'x': 1.3179, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,972; f(x) calculated, atomic increase acc: {'f(x)': 0.2502, 'cur acc': 0.1187}
+2022-03-09 23:35:20,972; Start calc f(x): {'x': 1.3195, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,973; f(x) calculated, atomic increase acc: {'f(x)': 0.2487, 'cur acc': 0.1215}
+2022-03-09 23:35:20,977; Start calc f(x): {'x': 1.321, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,978; f(x) calculated, atomic increase acc: {'f(x)': 0.2472, 'cur acc': 0.1185}
+2022-03-09 23:35:20,981; Start calc f(x): {'x': 1.3226, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,982; Start calc f(x): {'x': 1.3242, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,982; f(x) calculated, atomic increase acc: {'f(x)': 0.2456, 'cur acc': 0.1211}
+2022-03-09 23:35:20,983; f(x) calculated, atomic increase acc: {'f(x)': 0.2441, 'cur acc': 0.1261}
+2022-03-09 23:35:20,984; Start calc f(x): {'x': 1.3258, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,985; f(x) calculated, atomic increase acc: {'f(x)': 0.2426, 'cur acc': 0.1275}
+2022-03-09 23:35:20,987; Start calc f(x): {'x': 1.3273, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,988; f(x) calculated, atomic increase acc: {'f(x)': 0.2411, 'cur acc': 0.1178}
+2022-03-09 23:35:20,989; Start calc f(x): {'x': 1.3289, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,990; Start calc f(x): {'x': 1.3305, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,991; f(x) calculated, atomic increase acc: {'f(x)': 0.2396, 'cur acc': 0.1176}
+2022-03-09 23:35:20,992; f(x) calculated, atomic increase acc: {'f(x)': 0.238, 'cur acc': 0.1191}
+2022-03-09 23:35:20,993; Start calc f(x): {'x': 1.332, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,994; f(x) calculated, atomic increase acc: {'f(x)': 0.2365, 'cur acc': 0.1219}
+2022-03-09 23:35:20,996; Start calc f(x): {'x': 1.3336, 'step': 0.0015707963267948967}
+2022-03-09 23:35:20,998; f(x) calculated, atomic increase acc: {'f(x)': 0.235, 'cur acc': 0.1189}
+2022-03-09 23:35:21,000; Start calc f(x): {'x': 1.3352, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,000; Start calc f(x): {'x': 1.3367, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,001; f(x) calculated, atomic increase acc: {'f(x)': 0.2334, 'cur acc': 0.1215}
+2022-03-09 23:35:21,002; f(x) calculated, atomic increase acc: {'f(x)': 0.2319, 'cur acc': 0.1265}
+2022-03-09 23:35:21,005; Start calc f(x): {'x': 1.3383, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,006; f(x) calculated, atomic increase acc: {'f(x)': 0.2304, 'cur acc': 0.1278}
+2022-03-09 23:35:21,007; Start calc f(x): {'x': 1.3399, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,008; f(x) calculated, atomic increase acc: {'f(x)': 0.2289, 'cur acc': 0.1182}
+2022-03-09 23:35:21,009; Start calc f(x): {'x': 1.3415, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,010; f(x) calculated, atomic increase acc: {'f(x)': 0.2273, 'cur acc': 0.118}
+2022-03-09 23:35:21,011; Start calc f(x): {'x': 1.343, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,012; f(x) calculated, atomic increase acc: {'f(x)': 0.2258, 'cur acc': 0.1195}
+2022-03-09 23:35:21,013; Start calc f(x): {'x': 1.3446, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,014; f(x) calculated, atomic increase acc: {'f(x)': 0.2243, 'cur acc': 0.1223}
+2022-03-09 23:35:21,016; Start calc f(x): {'x': 1.3462, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,017; f(x) calculated, atomic increase acc: {'f(x)': 0.2227, 'cur acc': 0.1192}
+2022-03-09 23:35:21,020; Start calc f(x): {'x': 1.3477, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,021; f(x) calculated, atomic increase acc: {'f(x)': 0.2212, 'cur acc': 0.1219}
+2022-03-09 23:35:21,022; Start calc f(x): {'x': 1.3493, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,022; f(x) calculated, atomic increase acc: {'f(x)': 0.2197, 'cur acc': 0.1268}
+2022-03-09 23:35:21,025; Start calc f(x): {'x': 1.3509, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,026; Start calc f(x): {'x': 1.3525, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,026; f(x) calculated, atomic increase acc: {'f(x)': 0.2181, 'cur acc': 0.1282}
+2022-03-09 23:35:21,027; f(x) calculated, atomic increase acc: {'f(x)': 0.2166, 'cur acc': 0.1185}
+2022-03-09 23:35:21,028; Start calc f(x): {'x': 1.354, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,029; f(x) calculated, atomic increase acc: {'f(x)': 0.2151, 'cur acc': 0.1183}
+2022-03-09 23:35:21,031; Start calc f(x): {'x': 1.3556, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,032; f(x) calculated, atomic increase acc: {'f(x)': 0.2135, 'cur acc': 0.1198}
+2022-03-09 23:35:21,033; Start calc f(x): {'x': 1.3572, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,035; f(x) calculated, atomic increase acc: {'f(x)': 0.212, 'cur acc': 0.1227}
+2022-03-09 23:35:21,036; Start calc f(x): {'x': 1.3587, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,037; f(x) calculated, atomic increase acc: {'f(x)': 0.2105, 'cur acc': 0.1196}
+2022-03-09 23:35:21,038; Start calc f(x): {'x': 1.3603, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,039; f(x) calculated, atomic increase acc: {'f(x)': 0.2089, 'cur acc': 0.1222}
+2022-03-09 23:35:21,040; Start calc f(x): {'x': 1.3619, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,042; f(x) calculated, atomic increase acc: {'f(x)': 0.2074, 'cur acc': 0.1272}
+2022-03-09 23:35:21,042; Start calc f(x): {'x': 1.3635, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,043; f(x) calculated, atomic increase acc: {'f(x)': 0.2059, 'cur acc': 0.1286}
+2022-03-09 23:35:21,045; Start calc f(x): {'x': 1.365, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,046; f(x) calculated, atomic increase acc: {'f(x)': 0.2043, 'cur acc': 0.1189}
+2022-03-09 23:35:21,047; Start calc f(x): {'x': 1.3666, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,048; f(x) calculated, atomic increase acc: {'f(x)': 0.2028, 'cur acc': 0.1187}
+2022-03-09 23:35:21,050; Start calc f(x): {'x': 1.3682, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,052; f(x) calculated, atomic increase acc: {'f(x)': 0.2012, 'cur acc': 0.1202}
+2022-03-09 23:35:21,053; Start calc f(x): {'x': 1.3697, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,054; f(x) calculated, atomic increase acc: {'f(x)': 0.1997, 'cur acc': 0.123}
+2022-03-09 23:35:21,055; Start calc f(x): {'x': 1.3713, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,056; f(x) calculated, atomic increase acc: {'f(x)': 0.1982, 'cur acc': 0.1199}
+2022-03-09 23:35:21,056; Start calc f(x): {'x': 1.3729, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,057; f(x) calculated, atomic increase acc: {'f(x)': 0.1966, 'cur acc': 0.1225}
+2022-03-09 23:35:21,059; Start calc f(x): {'x': 1.3744, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,060; f(x) calculated, atomic increase acc: {'f(x)': 0.1951, 'cur acc': 0.1275}
+2022-03-09 23:35:21,062; Start calc f(x): {'x': 1.376, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,062; f(x) calculated, atomic increase acc: {'f(x)': 0.1935, 'cur acc': 0.1289}
+2022-03-09 23:35:21,063; Start calc f(x): {'x': 1.3776, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,065; f(x) calculated, atomic increase acc: {'f(x)': 0.192, 'cur acc': 0.1192}
+2022-03-09 23:35:21,065; Start calc f(x): {'x': 1.3792, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,066; f(x) calculated, atomic increase acc: {'f(x)': 0.1905, 'cur acc': 0.119}
+2022-03-09 23:35:21,070; Start calc f(x): {'x': 1.3807, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,071; f(x) calculated, atomic increase acc: {'f(x)': 0.1889, 'cur acc': 0.1205}
+2022-03-09 23:35:21,072; Start calc f(x): {'x': 1.3823, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,073; f(x) calculated, atomic increase acc: {'f(x)': 0.1874, 'cur acc': 0.1233}
+2022-03-09 23:35:21,074; Start calc f(x): {'x': 1.3839, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,075; Start calc f(x): {'x': 1.3854, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,075; f(x) calculated, atomic increase acc: {'f(x)': 0.1858, 'cur acc': 0.1202}
+2022-03-09 23:35:21,076; f(x) calculated, atomic increase acc: {'f(x)': 0.1843, 'cur acc': 0.1229}
+2022-03-09 23:35:21,078; Start calc f(x): {'x': 1.387, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,079; f(x) calculated, atomic increase acc: {'f(x)': 0.1828, 'cur acc': 0.1278}
+2022-03-09 23:35:21,081; Start calc f(x): {'x': 1.3886, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,082; f(x) calculated, atomic increase acc: {'f(x)': 0.1812, 'cur acc': 0.1292}
+2022-03-09 23:35:21,083; Start calc f(x): {'x': 1.3902, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,083; f(x) calculated, atomic increase acc: {'f(x)': 0.1797, 'cur acc': 0.1195}
+2022-03-09 23:35:21,085; Start calc f(x): {'x': 1.3917, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,086; f(x) calculated, atomic increase acc: {'f(x)': 0.1781, 'cur acc': 0.1193}
+2022-03-09 23:35:21,089; Start calc f(x): {'x': 1.3933, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,090; f(x) calculated, atomic increase acc: {'f(x)': 0.1766, 'cur acc': 0.1208}
+2022-03-09 23:35:21,093; Start calc f(x): {'x': 1.3949, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,094; f(x) calculated, atomic increase acc: {'f(x)': 0.175, 'cur acc': 0.1236}
+2022-03-09 23:35:21,095; Start calc f(x): {'x': 1.3964, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,095; f(x) calculated, atomic increase acc: {'f(x)': 0.1735, 'cur acc': 0.1205}
+2022-03-09 23:35:21,097; Start calc f(x): {'x': 1.398, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,098; f(x) calculated, atomic increase acc: {'f(x)': 0.1719, 'cur acc': 0.1231}
+2022-03-09 23:35:21,100; Start calc f(x): {'x': 1.3996, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,101; f(x) calculated, atomic increase acc: {'f(x)': 0.1704, 'cur acc': 0.1281}
+2022-03-09 23:35:21,102; Start calc f(x): {'x': 1.4012, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,104; f(x) calculated, atomic increase acc: {'f(x)': 0.1688, 'cur acc': 0.1295}
+2022-03-09 23:35:21,105; Start calc f(x): {'x': 1.4027, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,105; f(x) calculated, atomic increase acc: {'f(x)': 0.1673, 'cur acc': 0.1198}
+2022-03-09 23:35:21,107; Start calc f(x): {'x': 1.4043, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,108; f(x) calculated, atomic increase acc: {'f(x)': 0.1657, 'cur acc': 0.1196}
+2022-03-09 23:35:21,110; Start calc f(x): {'x': 1.4059, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,112; f(x) calculated, atomic increase acc: {'f(x)': 0.1642, 'cur acc': 0.121}
+2022-03-09 23:35:21,113; Start calc f(x): {'x': 1.4074, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,114; f(x) calculated, atomic increase acc: {'f(x)': 0.1626, 'cur acc': 0.1239}
+2022-03-09 23:35:21,117; Start calc f(x): {'x': 1.409, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,119; f(x) calculated, atomic increase acc: {'f(x)': 0.1611, 'cur acc': 0.1208}
+2022-03-09 23:35:21,120; Start calc f(x): {'x': 1.4106, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,120; Start calc f(x): {'x': 1.4121, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,121; f(x) calculated, atomic increase acc: {'f(x)': 0.1595, 'cur acc': 0.1234}
+2022-03-09 23:35:21,122; f(x) calculated, atomic increase acc: {'f(x)': 0.158, 'cur acc': 0.1284}
+2022-03-09 23:35:21,123; Start calc f(x): {'x': 1.4137, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,123; f(x) calculated, atomic increase acc: {'f(x)': 0.1564, 'cur acc': 0.1297}
+2022-03-09 23:35:21,124; Start calc f(x): {'x': 1.4153, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,125; f(x) calculated, atomic increase acc: {'f(x)': 0.1549, 'cur acc': 0.12}
+2022-03-09 23:35:21,127; Start calc f(x): {'x': 1.4169, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,128; f(x) calculated, atomic increase acc: {'f(x)': 0.1533, 'cur acc': 0.1198}
+2022-03-09 23:35:21,131; Start calc f(x): {'x': 1.4184, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,132; f(x) calculated, atomic increase acc: {'f(x)': 0.1518, 'cur acc': 0.1213}
+2022-03-09 23:35:21,134; Start calc f(x): {'x': 1.42, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,135; f(x) calculated, atomic increase acc: {'f(x)': 0.1502, 'cur acc': 0.1241}
+2022-03-09 23:35:21,137; Start calc f(x): {'x': 1.4216, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,139; f(x) calculated, atomic increase acc: {'f(x)': 0.1487, 'cur acc': 0.121}
+2022-03-09 23:35:21,140; Start calc f(x): {'x': 1.4231, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,140; f(x) calculated, atomic increase acc: {'f(x)': 0.1471, 'cur acc': 0.1237}
+2022-03-09 23:35:21,142; Start calc f(x): {'x': 1.4247, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,143; f(x) calculated, atomic increase acc: {'f(x)': 0.1456, 'cur acc': 0.1286}
+2022-03-09 23:35:21,144; Start calc f(x): {'x': 1.4263, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,145; f(x) calculated, atomic increase acc: {'f(x)': 0.144, 'cur acc': 0.13}
+2022-03-09 23:35:21,146; Start calc f(x): {'x': 1.4279, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,147; Start calc f(x): {'x': 1.4294, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,148; f(x) calculated, atomic increase acc: {'f(x)': 0.1425, 'cur acc': 0.1203}
+2022-03-09 23:35:21,149; f(x) calculated, atomic increase acc: {'f(x)': 0.1409, 'cur acc': 0.1201}
+2022-03-09 23:35:21,151; Start calc f(x): {'x': 1.431, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,152; f(x) calculated, atomic increase acc: {'f(x)': 0.1393, 'cur acc': 0.1215}
+2022-03-09 23:35:21,155; Start calc f(x): {'x': 1.4326, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,156; f(x) calculated, atomic increase acc: {'f(x)': 0.1378, 'cur acc': 0.1244}
+2022-03-09 23:35:21,157; Start calc f(x): {'x': 1.4357, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,158; f(x) calculated, atomic increase acc: {'f(x)': 0.1347, 'cur acc': 0.1239}
+2022-03-09 23:35:21,159; Start calc f(x): {'x': 1.4341, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,161; f(x) calculated, atomic increase acc: {'f(x)': 0.1362, 'cur acc': 0.1213}
+2022-03-09 23:35:21,162; Start calc f(x): {'x': 1.4373, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,163; f(x) calculated, atomic increase acc: {'f(x)': 0.1331, 'cur acc': 0.1288}
+2022-03-09 23:35:21,163; Start calc f(x): {'x': 1.4388, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,164; f(x) calculated, atomic increase acc: {'f(x)': 0.1316, 'cur acc': 0.1302}
+2022-03-09 23:35:21,168; Start calc f(x): {'x': 1.4404, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,169; Start calc f(x): {'x': 1.442, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,170; f(x) calculated, atomic increase acc: {'f(x)': 0.13, 'cur acc': 0.1205}
+2022-03-09 23:35:21,172; Start calc f(x): {'x': 1.4436, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,173; f(x) calculated, atomic increase acc: {'f(x)': 0.1284, 'cur acc': 0.1203}
+2022-03-09 23:35:21,173; f(x) calculated, atomic increase acc: {'f(x)': 0.1269, 'cur acc': 0.1218}
+2022-03-09 23:35:21,177; Start calc f(x): {'x': 1.4467, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,178; Start calc f(x): {'x': 1.4451, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,179; f(x) calculated, atomic increase acc: {'f(x)': 0.1238, 'cur acc': 0.1241}
+2022-03-09 23:35:21,179; f(x) calculated, atomic increase acc: {'f(x)': 0.1253, 'cur acc': 0.1246}
+2022-03-09 23:35:21,180; Start calc f(x): {'x': 1.4483, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,181; f(x) calculated, atomic increase acc: {'f(x)': 0.1222, 'cur acc': 0.1215}
+2022-03-09 23:35:21,181; Start calc f(x): {'x': 1.4498, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,182; Start calc f(x): {'x': 1.4514, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,183; f(x) calculated, atomic increase acc: {'f(x)': 0.1207, 'cur acc': 0.129}
+2022-03-09 23:35:21,184; f(x) calculated, atomic increase acc: {'f(x)': 0.1191, 'cur acc': 0.1304}
+2022-03-09 23:35:21,189; Start calc f(x): {'x': 1.453, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,190; f(x) calculated, atomic increase acc: {'f(x)': 0.1175, 'cur acc': 0.1207}
+2022-03-09 23:35:21,191; Start calc f(x): {'x': 1.4546, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,192; Start calc f(x): {'x': 1.4561, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,193; f(x) calculated, atomic increase acc: {'f(x)': 0.116, 'cur acc': 0.1205}
+2022-03-09 23:35:21,194; f(x) calculated, atomic increase acc: {'f(x)': 0.1144, 'cur acc': 0.122}
+2022-03-09 23:35:21,198; Start calc f(x): {'x': 1.4577, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,199; Start calc f(x): {'x': 1.4593, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,199; f(x) calculated, atomic increase acc: {'f(x)': 0.1129, 'cur acc': 0.1243}
+2022-03-09 23:35:21,201; f(x) calculated, atomic increase acc: {'f(x)': 0.1113, 'cur acc': 0.1248}
+2022-03-09 23:35:21,202; Start calc f(x): {'x': 1.4624, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,203; Start calc f(x): {'x': 1.4608, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,204; f(x) calculated, atomic increase acc: {'f(x)': 0.1082, 'cur acc': 0.1292}
+2022-03-09 23:35:21,205; f(x) calculated, atomic increase acc: {'f(x)': 0.1097, 'cur acc': 0.1217}
+2022-03-09 23:35:21,206; Start calc f(x): {'x': 1.464, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,207; f(x) calculated, atomic increase acc: {'f(x)': 0.1066, 'cur acc': 0.1306}
+2022-03-09 23:35:21,208; Start calc f(x): {'x': 1.4656, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,210; f(x) calculated, atomic increase acc: {'f(x)': 0.105, 'cur acc': 0.1209}
+2022-03-09 23:35:21,212; Start calc f(x): {'x': 1.4671, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,213; f(x) calculated, atomic increase acc: {'f(x)': 0.1035, 'cur acc': 0.1207}
+2022-03-09 23:35:21,214; Start calc f(x): {'x': 1.4687, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,214; f(x) calculated, atomic increase acc: {'f(x)': 0.1019, 'cur acc': 0.1221}
+2022-03-09 23:35:21,215; Start calc f(x): {'x': 1.4703, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,216; f(x) calculated, atomic increase acc: {'f(x)': 0.1004, 'cur acc': 0.1245}
+2022-03-09 23:35:21,218; Start calc f(x): {'x': 1.4718, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,219; f(x) calculated, atomic increase acc: {'f(x)': 0.0988, 'cur acc': 0.125}
+2022-03-09 23:35:21,222; Start calc f(x): {'x': 1.4734, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,222; f(x) calculated, atomic increase acc: {'f(x)': 0.0972, 'cur acc': 0.1294}
+2022-03-09 23:35:21,224; Start calc f(x): {'x': 1.475, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,225; f(x) calculated, atomic increase acc: {'f(x)': 0.0957, 'cur acc': 0.1219}
+2022-03-09 23:35:21,226; Start calc f(x): {'x': 1.4765, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,227; f(x) calculated, atomic increase acc: {'f(x)': 0.0941, 'cur acc': 0.1308}
+2022-03-09 23:35:21,229; Start calc f(x): {'x': 1.4781, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,229; f(x) calculated, atomic increase acc: {'f(x)': 0.0925, 'cur acc': 0.1211}
+2022-03-09 23:35:21,231; Start calc f(x): {'x': 1.4797, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,231; f(x) calculated, atomic increase acc: {'f(x)': 0.091, 'cur acc': 0.1208}
+2022-03-09 23:35:21,232; Start calc f(x): {'x': 1.4813, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,233; f(x) calculated, atomic increase acc: {'f(x)': 0.0894, 'cur acc': 0.1223}
+2022-03-09 23:35:21,234; Start calc f(x): {'x': 1.4828, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,235; f(x) calculated, atomic increase acc: {'f(x)': 0.0879, 'cur acc': 0.1246}
+2022-03-09 23:35:21,236; Start calc f(x): {'x': 1.4844, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,237; f(x) calculated, atomic increase acc: {'f(x)': 0.0863, 'cur acc': 0.1251}
+2022-03-09 23:35:21,240; Start calc f(x): {'x': 1.486, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,242; f(x) calculated, atomic increase acc: {'f(x)': 0.0847, 'cur acc': 0.1296}
+2022-03-09 23:35:21,242; Start calc f(x): {'x': 1.4875, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,244; f(x) calculated, atomic increase acc: {'f(x)': 0.0832, 'cur acc': 0.122}
+2022-03-09 23:35:21,245; Start calc f(x): {'x': 1.4891, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,246; f(x) calculated, atomic increase acc: {'f(x)': 0.0816, 'cur acc': 0.1309}
+2022-03-09 23:35:21,248; Start calc f(x): {'x': 1.4907, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,248; f(x) calculated, atomic increase acc: {'f(x)': 0.08, 'cur acc': 0.1212}
+2022-03-09 23:35:21,251; Start calc f(x): {'x': 1.4923, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,252; f(x) calculated, atomic increase acc: {'f(x)': 0.0785, 'cur acc': 0.121}
+2022-03-09 23:35:21,253; Start calc f(x): {'x': 1.4938, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,254; Start calc f(x): {'x': 1.4954, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,255; f(x) calculated, atomic increase acc: {'f(x)': 0.0769, 'cur acc': 0.1224}
+2022-03-09 23:35:21,256; f(x) calculated, atomic increase acc: {'f(x)': 0.0753, 'cur acc': 0.1248}
+2022-03-09 23:35:21,256; Start calc f(x): {'x': 1.497, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,257; f(x) calculated, atomic increase acc: {'f(x)': 0.0738, 'cur acc': 0.1252}
+2022-03-09 23:35:21,260; Start calc f(x): {'x': 1.4985, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,262; f(x) calculated, atomic increase acc: {'f(x)': 0.0722, 'cur acc': 0.1297}
+2022-03-09 23:35:21,263; Start calc f(x): {'x': 1.5001, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,265; f(x) calculated, atomic increase acc: {'f(x)': 0.0706, 'cur acc': 0.1221}
+2022-03-09 23:35:21,265; Start calc f(x): {'x': 1.5017, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,266; f(x) calculated, atomic increase acc: {'f(x)': 0.0691, 'cur acc': 0.131}
+2022-03-09 23:35:21,267; Start calc f(x): {'x': 1.5033, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,268; f(x) calculated, atomic increase acc: {'f(x)': 0.0675, 'cur acc': 0.1213}
+2022-03-09 23:35:21,270; Start calc f(x): {'x': 1.5048, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,271; f(x) calculated, atomic increase acc: {'f(x)': 0.0659, 'cur acc': 0.1211}
+2022-03-09 23:35:21,273; Start calc f(x): {'x': 1.5064, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,273; f(x) calculated, atomic increase acc: {'f(x)': 0.0644, 'cur acc': 0.1226}
+2022-03-09 23:35:21,275; Start calc f(x): {'x': 1.508, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,276; f(x) calculated, atomic increase acc: {'f(x)': 0.0628, 'cur acc': 0.1249}
+2022-03-09 23:35:21,277; Start calc f(x): {'x': 1.5095, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,279; f(x) calculated, atomic increase acc: {'f(x)': 0.0612, 'cur acc': 0.1254}
+2022-03-09 23:35:21,279; Start calc f(x): {'x': 1.5111, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,280; f(x) calculated, atomic increase acc: {'f(x)': 0.0597, 'cur acc': 0.1298}
+2022-03-09 23:35:21,283; Start calc f(x): {'x': 1.5127, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,284; f(x) calculated, atomic increase acc: {'f(x)': 0.0581, 'cur acc': 0.1222}
+2022-03-09 23:35:21,286; Start calc f(x): {'x': 1.5142, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,286; f(x) calculated, atomic increase acc: {'f(x)': 0.0565, 'cur acc': 0.1311}
+2022-03-09 23:35:21,289; Start calc f(x): {'x': 1.5158, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,290; Start calc f(x): {'x': 1.5174, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,291; f(x) calculated, atomic increase acc: {'f(x)': 0.055, 'cur acc': 0.1214}
+2022-03-09 23:35:21,292; f(x) calculated, atomic increase acc: {'f(x)': 0.0534, 'cur acc': 0.1212}
+2022-03-09 23:35:21,293; Start calc f(x): {'x': 1.519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,294; f(x) calculated, atomic increase acc: {'f(x)': 0.0518, 'cur acc': 0.1227}
+2022-03-09 23:35:21,295; Start calc f(x): {'x': 1.5205, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,296; f(x) calculated, atomic increase acc: {'f(x)': 0.0502, 'cur acc': 0.125}
+2022-03-09 23:35:21,298; Start calc f(x): {'x': 1.5221, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,298; f(x) calculated, atomic increase acc: {'f(x)': 0.0487, 'cur acc': 0.1255}
+2022-03-09 23:35:21,299; Start calc f(x): {'x': 1.5237, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,300; f(x) calculated, atomic increase acc: {'f(x)': 0.0471, 'cur acc': 0.1299}
+2022-03-09 23:35:21,302; Start calc f(x): {'x': 1.5252, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,303; f(x) calculated, atomic increase acc: {'f(x)': 0.0455, 'cur acc': 0.1223}
+2022-03-09 23:35:21,305; Start calc f(x): {'x': 1.5268, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,306; f(x) calculated, atomic increase acc: {'f(x)': 0.044, 'cur acc': 0.1312}
+2022-03-09 23:35:21,308; Start calc f(x): {'x': 1.5284, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,309; f(x) calculated, atomic increase acc: {'f(x)': 0.0424, 'cur acc': 0.1215}
+2022-03-09 23:35:21,310; Start calc f(x): {'x': 1.53, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,311; f(x) calculated, atomic increase acc: {'f(x)': 0.0408, 'cur acc': 0.1213}
+2022-03-09 23:35:21,312; Start calc f(x): {'x': 1.5315, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,313; f(x) calculated, atomic increase acc: {'f(x)': 0.0393, 'cur acc': 0.1227}
+2022-03-09 23:35:21,314; Start calc f(x): {'x': 1.5331, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,316; f(x) calculated, atomic increase acc: {'f(x)': 0.0377, 'cur acc': 0.1251}
+2022-03-09 23:35:21,316; Start calc f(x): {'x': 1.5347, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,318; f(x) calculated, atomic increase acc: {'f(x)': 0.0361, 'cur acc': 0.1255}
+2022-03-09 23:35:21,319; Start calc f(x): {'x': 1.5362, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,320; f(x) calculated, atomic increase acc: {'f(x)': 0.0346, 'cur acc': 0.13}
+2022-03-09 23:35:21,321; Start calc f(x): {'x': 1.5378, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,322; f(x) calculated, atomic increase acc: {'f(x)': 0.033, 'cur acc': 0.1224}
+2022-03-09 23:35:21,324; Start calc f(x): {'x': 1.5394, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,324; f(x) calculated, atomic increase acc: {'f(x)': 0.0314, 'cur acc': 0.1313}
+2022-03-09 23:35:21,327; Start calc f(x): {'x': 1.541, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,327; f(x) calculated, atomic increase acc: {'f(x)': 0.0298, 'cur acc': 0.1216}
+2022-03-09 23:35:21,328; Start calc f(x): {'x': 1.5425, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,329; f(x) calculated, atomic increase acc: {'f(x)': 0.0283, 'cur acc': 0.1214}
+2022-03-09 23:35:21,332; Start calc f(x): {'x': 1.5441, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,332; f(x) calculated, atomic increase acc: {'f(x)': 0.0267, 'cur acc': 0.1228}
+2022-03-09 23:35:21,335; Start calc f(x): {'x': 1.5472, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,336; Start calc f(x): {'x': 1.5457, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,337; f(x) calculated, atomic increase acc: {'f(x)': 0.0236, 'cur acc': 0.1256}
+2022-03-09 23:35:21,338; f(x) calculated, atomic increase acc: {'f(x)': 0.0251, 'cur acc': 0.1251}
+2022-03-09 23:35:21,338; Start calc f(x): {'x': 1.5488, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,339; f(x) calculated, atomic increase acc: {'f(x)': 0.022, 'cur acc': 0.13}
+2022-03-09 23:35:21,341; Start calc f(x): {'x': 1.5519, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,342; Start calc f(x): {'x': 1.5504, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,342; f(x) calculated, atomic increase acc: {'f(x)': 0.0188, 'cur acc': 0.1314}
+2022-03-09 23:35:21,344; f(x) calculated, atomic increase acc: {'f(x)': 0.0204, 'cur acc': 0.1225}
+2022-03-09 23:35:21,344; Start calc f(x): {'x': 1.5535, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,345; f(x) calculated, atomic increase acc: {'f(x)': 0.0173, 'cur acc': 0.1216}
+2022-03-09 23:35:21,347; Start calc f(x): {'x': 1.5551, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,348; f(x) calculated, atomic increase acc: {'f(x)': 0.0157, 'cur acc': 0.1214}
+2022-03-09 23:35:21,351; Start calc f(x): {'x': 1.5567, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,352; f(x) calculated, atomic increase acc: {'f(x)': 0.0141, 'cur acc': 0.1228}
+2022-03-09 23:35:21,354; Start calc f(x): {'x': 1.5598, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,355; Start calc f(x): {'x': 1.5582, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,355; f(x) calculated, atomic increase acc: {'f(x)': 0.011, 'cur acc': 0.1252}
+2022-03-09 23:35:21,356; f(x) calculated, atomic increase acc: {'f(x)': 0.0126, 'cur acc': 0.1256}
+2022-03-09 23:35:21,357; Start calc f(x): {'x': 1.5614, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,357; f(x) calculated, atomic increase acc: {'f(x)': 0.0094, 'cur acc': 0.1301}
+2022-03-09 23:35:21,363; Start calc f(x): {'x': 1.5629, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,363; f(x) calculated, atomic increase acc: {'f(x)': 0.0079, 'cur acc': 0.1314}
+2022-03-09 23:35:21,364; Start calc f(x): {'x': 1.5645, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,365; f(x) calculated, atomic increase acc: {'f(x)': 0.0063, 'cur acc': 0.1225}
+2022-03-09 23:35:21,365; Start calc f(x): {'x': 1.5661, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,366; f(x) calculated, atomic increase acc: {'f(x)': 0.0047, 'cur acc': 0.1217}
+2022-03-09 23:35:21,369; Start calc f(x): {'x': 1.5677, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,371; f(x) calculated, atomic increase acc: {'f(x)': 0.0031, 'cur acc': 0.1214}
+2022-03-09 23:35:21,373; Start calc f(x): {'x': 1.5692, 'step': 0.0015707963267948967}
+2022-03-09 23:35:21,374; f(x) calculated, atomic increase acc: {'f(x)': 0.0016, 'cur acc': 0.1229}
