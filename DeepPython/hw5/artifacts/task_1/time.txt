@@ -1,0 +1,2 @@
+Async download time: 0.32575488090515137
+Sync download time: 0.7821440696716309
