@@ -86,7 +86,7 @@ class DiffusionRunner:
         return score
 
     def sample_time(self, batch_size: int, eps: float = 1e-5):
-        return torch.rand(batch_size) * (self.sde.T - eps) + eps
+        return torch.rand(batch_size, device=self.device) * (self.sde.T - eps) + eps
 
     def sample_noise_x(self, clean_x: torch.Tensor, t):
         mean, std = self.sde.marginal_prob(clean_x, t)
