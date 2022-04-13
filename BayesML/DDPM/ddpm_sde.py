@@ -32,17 +32,17 @@ class DDPM_SDE:
         Calculate marginal q(x_t|x_0)'s mean and std
         """
         integral = 0.5 * (self.beta_1 - self.beta_0) * t ** 2 + self.beta_0 * t
-        mean = torch.exp(-0.5 * integral) * x_0
-        std = torch.sqrt(1 - torch.exp(-integral))
-        return mean.reshape(-1, 1, 1, 1), std.reshape(-1, 1, 1, 1)
-    
+        mean = torch.exp(-0.5 * integral).reshape(-1, 1, 1, 1) * x_0
+        std = torch.sqrt(1 - torch.exp(-integral)).reshape(-1, 1, 1, 1)
+        return mean, std
+
     def marginal_std(self, t):
         """
         Calculate marginal q(x_t|x_0)'s std
         """
         integral = 0.5 * (self.beta_1 - self.beta_0) * t ** 2 + self.beta_0 * t
-        std = torch.sqrt(1 - torch.exp(-integral))
-        return std.reshape(-1, 1, 1, 1)
+        std = torch.sqrt(1 - torch.exp(-integral)).reshape(-1, 1, 1, 1)
+        return std
 
     def prior_sampling(self, shape):
         return torch.randn(*shape)
