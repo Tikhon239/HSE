@@ -79,8 +79,8 @@ class DDPM_SDE:
                 Calculate drift and diffusion for reverse SDE/ODE
                 
                 
-                ode_sampling - True -> reverse SDE
-                ode_sampling - False -> reverse ODE
+                ode_sampling - True -> reverse ODE
+                ode_sampling - False -> reverse SDE
                 """
                 drift, diffusion = sde_fn(x, t)
                 score = score_fn(x, t, y)
@@ -88,10 +88,10 @@ class DDPM_SDE:
                 deterministic_part = diffusion ** 2 * score
 
                 if self.ode_sampling:
-                    drift = drift - deterministic_part
-                else:
                     drift = drift - 0.5 * deterministic_part
                     diffusion = torch.zeros_like(diffusion)
+                else:
+                    drift = drift - deterministic_part
 
                 return drift, diffusion
 
