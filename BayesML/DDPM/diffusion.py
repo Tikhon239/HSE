@@ -272,6 +272,7 @@ class DiffusionRunner:
             pred_images = torch.randn(shape, device=device)
 
             for t in torch.linspace(self.sde.T, eps, self.sde.N, device=device):
+                t = t.repeat(batch_size)
                 pred_images, _ = self.diff_eq_solver.step(pred_images, t, labels)
 
         return self.inverse_scaler(pred_images)
