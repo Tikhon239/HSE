@@ -23,8 +23,8 @@ class DDPM_SDE:
         Calculate drift coeff. and diffusion coeff. in forward SDE
         """
         beta_t = (self.beta_1 - self.beta_0) * t + self.beta_0
-        drift = -0.5 * beta_t * x
-        diffusion = beta_t.sqrt()
+        drift = -0.5 * beta_t.reshape(-1, 1, 1, 1) * x
+        diffusion = beta_t.sqrt().reshape(-1, 1, 1, 1)
         return drift, diffusion
 
     def marginal_prob(self, x_0, t):
