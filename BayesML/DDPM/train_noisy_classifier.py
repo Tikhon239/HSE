@@ -5,9 +5,6 @@ from default_mnist_config import create_default_mnist_config
 from diffusion import DiffusionRunner
 from models.classifier import ResNet, ResidualBlock, ConditionalResNet
 
-import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '3'
-
 
 device = torch.device('cuda')
 classifier_args = {
