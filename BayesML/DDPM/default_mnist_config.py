@@ -33,10 +33,10 @@ def create_default_mnist_config():
 
     # training
     training = config.training = ml_collections.ConfigDict()
-    training.training_iters = 50_000
-    training.checkpoint_freq = 2_500
-    training.eval_freq = 2_500
-    training.snapshot_freq = 2_500
+    training.training_iters = 5_000
+    training.checkpoint_freq = 500
+    training.eval_freq = 500
+    training.snapshot_freq = 500
     training.snapshot_batch_size = 100
     training.batch_size = 256
     training.ode_sampling = False
@@ -51,10 +51,10 @@ def create_default_mnist_config():
 
     # 2 assignment - train noisy classifier
     classifier = config.classifier = ml_collections.ConfigDict()
-    classifier.training_iters = 50_000
-    classifier.eval_freq = 5_000
-    classifier.snapshot_freq = 5_000
-    classifier.checkpoint_freq = 5_000
+    classifier.training_iters = 5_000
+    classifier.eval_freq = 500
+    classifier.snapshot_freq = 500
+    classifier.checkpoint_freq = 500
     classifier.checkpoint_path = './ddpm_checkpoints/classifier.pth'
 
     config.device = 'cuda'
