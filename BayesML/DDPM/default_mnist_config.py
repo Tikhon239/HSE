@@ -57,5 +57,5 @@ def create_default_mnist_config():
     classifier.checkpoint_freq = 5_000
     classifier.checkpoint_path = './ddpm_checkpoints/classifier.pth'
 
-    config.device = 'cuda:0'
+    config.device = 'cuda'
     return config
