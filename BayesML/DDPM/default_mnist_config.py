@@ -41,7 +41,7 @@ def create_default_mnist_config():
     training.batch_size = 256
     training.ode_sampling = False
 
-    training.checkpoints_folder = './ddpm_checkpoints/'
+    training.checkpoints_folder = './drive/MyDrive/ddpm_checkpoints/'
 
     # sde
     sde = config.sde = ml_collections.ConfigDict()
@@ -55,7 +55,7 @@ def create_default_mnist_config():
     classifier.eval_freq = 500
     classifier.snapshot_freq = 500
     classifier.checkpoint_freq = 500
-    classifier.checkpoint_path = './ddpm_checkpoints/classifier.pth'
+    classifier.checkpoint_path = './drive/MyDrive/ddpm_checkpoints/classifier.pth'
 
     config.device = 'cuda'
     return config
