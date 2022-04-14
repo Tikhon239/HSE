@@ -245,8 +245,8 @@ class DiffusionRunner:
                 if not x.requires_grad:
                     x.requires_grad = True
 
-                predicted_labels = classifier(x, t)[:, y]
-                likelihood_score = torch.autograd.grad(predicted_labels.sum(), x)[0]
+                logits = classifier(x, t)[:, y]
+                likelihood_score = torch.autograd.grad(logits.sum(), x)[0]
             return likelihood_score
 
         self.set_conditional_sampling(classifier_grad_fn, T=T)
@@ -309,14 +309,14 @@ class DiffusionRunner:
         wandb.init(project='sde', name='noisy_classifier')
 
         def get_logits(X, y):
-            t = self.sample_time(X.size(0)).to(device)
+            t = self.sample_time(X.size(0))
 
             """calc logits"""
             noise_x, _ = self.sample_noise_x(X, t)
-            pred_labels = self.classifier(noise_x, t)
-            loss = classifier_loss(pred_labels, y)
+            logits = self.classifier(noise_x, t)
+            loss = classifier_loss(logits, y)
             
-            return loss, pred_labels
+            return loss, logits
 
         self.set_data_generator()
         train_generator = self.datagen.sample_train()
@@ -336,6 +336,7 @@ class DiffusionRunner:
             y = y.to(self.device)
 
             loss, _ = get_logits(X, y)
+            self.log_metric('cross_entropy', 'train', loss.item())
 
             classifier_optim.zero_grad()
             loss.backward()
@@ -356,10 +357,12 @@ class DiffusionRunner:
                     for (X, y) in self.datagen.valid_loader:
                         X = X.to(self.device)
                         y = y.to(self.device)
-                        loss, pred_labels = get_logits(X, y)
+
+                        loss, logits = get_logits(X, y)
+                        pred_labels = torch.argmax(logits, dim=1)
 
                         valid_loss += loss.item() * X.size(0)
-                        valid_accuracy += (torch.argmax(pred_labels, dim=1) == y).sum()
+                        valid_accuracy += (pred_labels == y).sum()
 
                         valid_count += X.size(0)
 
