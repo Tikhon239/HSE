@@ -245,7 +245,7 @@ class DiffusionRunner:
                 if not x.requires_grad:
                     x.requires_grad = True
 
-                logits = classifier(x, t)[:, y]
+                logits = classifier(x, t)[torch.arange(x.shape[0]), y]
                 likelihood_score = torch.autograd.grad(logits.sum(), x)[0]
             return likelihood_score
 
